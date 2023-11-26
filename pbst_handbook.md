@@ -1,4 +1,4 @@
-ood23doc | 2023-10-27 18:44:44 UTC | #1
+ood23doc | 2023-11-26 17:07:06 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Peace through Strength!**
-`Last Update:`27th October - Minor Update
+`Last Update:`26th November - Added new rule under "PET Patrol Support Section"
 
 
 <div align="center"><h1>General Reminders</h1></div>
@@ -796,7 +796,7 @@ There are several types of raids with various objectives.
 
 **Meltdown / Freezedown Raid:** During Meltdown/Freezedown Raids, TMS will attempt to cause the core to explode. During meltdown raids, you must cool the core to the best of your ability, while during freezedown raids, you must attempt to heat the core.
 
-**Chaos Raid:** During Chaos Raids, TMS will attempt to cause the maximum amount of chaos throughout the facility, usually by igniting cargo boxes, radioactive waste, and derailing nuke trains. As PBST, your task is to counter said chaos and eliminate its causes.
+**Chaos Raid:** During Chaos Raids, TMS will attempt to cause the maximum amount of chaos throughout the facility, usually by igniting cargo boxes, radioactive waste, and derailing nuke trains. As PBST, your task is to counter said chaos and eliminate its causes. 
 
 **Incursion Raid:** During Incursions Raids, TMS will storm to a specified area and attempt to hold it. As PBST, your task is to converge upon said location and attempt to counter the TMS threat. They can be hosted as any levelled raid.
 
@@ -836,6 +836,8 @@ A few months ago, PET introduced a new event in which PET responded to our patro
 This event can be hosted by Elite Tier+, where PBST's role is to assist PET patrols by handling core controls and fighting TMS while PET are busy with handling whatever fires and chaos occurs.
 
 PET Patrol Supports will not be announced until PET announces on their channels to start joining their patrol. You can attain 1 base point for attending the event in addition to 1 bonus points for 2 people at most. 
+
+In addition you are now allowed to kill neutrals causing chaos during PET patrols without giving a warning, before the change it was just during TMS events.
 
 [/details]
 
