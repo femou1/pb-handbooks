@@ -1,4 +1,4 @@
-ood23doc | 2023-11-26 17:07:06 UTC | #1
+ood23doc | 2023-11-27 22:53:14 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Peace through Strength!**
-`Last Update:`26th November - Added new rule under "PET Patrol Support Section"
+`Last Update:`27th November - Added new rule under "PET Patrol Support Section"
 
 
 <div align="center"><h1>General Reminders</h1></div>
@@ -509,7 +509,7 @@ You must first be Tier 3
 
 Handpicked for a Elite Tier Evaluation:
 
-**-** Hosting a raid response supervised by Trainer against official Syndicate Raid. It doesn't matter if PBST wins it or not, hosting abilities is what gets tested,
+**-** Hosting a raid response supervised by Trainer against official Syndicate Raid. It doesn't matter if PBST wins it or not, hosting abilities is what gets tested.
 
 **-** Hosting a patrol
 
@@ -831,7 +831,7 @@ Survivor runs remain in effect until the meltdown/freezedown sequence ends.
 
 [details="PET Patrol Support"]
 
-A few months ago, PET introduced a new event in which PET responded to our patrols to give us assistance, and now we're returning the favor!
+Awhile ago, PET introduced a new event in which PET responded to our patrols to give us assistance, and now we're returning the favour!
 
 This event can be hosted by Elite Tier+, where PBST's role is to assist PET patrols by handling core controls and fighting TMS while PET are busy with handling whatever fires and chaos occurs.
 
