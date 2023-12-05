@@ -64,8 +64,6 @@ while True:
         error502 = f.read()
     with open("error_files/blank.md", "rb+") as f:
         errorblank = f.read()
-    with open("error_files/deadforum.md", "rb+") as f:
-        errordeadforum = f.read()
     with open("error_files/504.md", "rb+") as f:
         error504 = f.read()
     
@@ -76,7 +74,7 @@ while True:
     elif latestpbst_data.content == error502:
         print("PBST data returned a 502, skipping")
         os.remove(latestpbst_path)
-    elif latestpbst_data.content == errordeadforum:
+    elif latestpbst_data.content.startswith(b'<html lang="en-US" data-ember-extension="1">'):
         print("PBST data returned a DevForum error, skipping")
         os.remove(latestpbst_path)
     elif latestpbst_data.content == error504:
@@ -97,7 +95,7 @@ while True:
         print("PET data returned blank, skipping")
     elif latestpet_data.content == error502:
         print("PET data returned a 502, skipping")
-    elif latestpet_data.content == errordeadforum:
+    elif latestpet_data.content.startswith(b'<html lang="en-US" data-ember-extension="1">'):
         print("PET data returned a DevForum error, skipping")
     elif latestpet_data.content == error504:
         print("PET data returned a 504, skipping")
@@ -116,7 +114,7 @@ while True:
         print("TMS data returned blank, skipping")
     elif latesttms_data.content == error502:
         print("TMS data returned a 502, skipping")
-    elif latesttms_data.content == errordeadforum:
+    elif latesttms_data.content.startswith(b'<html lang="en-US" data-ember-extension="1">'):
         print("TMS data returned a DevForum error, skipping")
     elif latesttms_data.content == error504:
         print("TMS data returned a 504, skipping")
@@ -135,7 +133,7 @@ while True:
         print("PB data returned blank, skipping")
     elif latestpb_data.content == error502:
         print("PB data returned a 502, skipping")
-    elif latestpb_data.content == errordeadforum:
+    elif latestpb_data.content.startswith(b'<html lang="en-US" data-ember-extension="1">'):
         print("PB data returned a DevForum error, skipping")
     elif latestpb_data.content == error504:
         print("PB data returned a 504, skipping")
