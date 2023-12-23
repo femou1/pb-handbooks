@@ -1,4 +1,4 @@
-ood23doc | 2023-11-27 22:53:14 UTC | #1
+ood23doc | 2023-12-23 10:42:05 UTC | #1
 
 <div align="center">
 
@@ -14,8 +14,8 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 
 We band together as a team, together we are an unstoppable force.
 
-**🛡️Peace through Strength!**
-`Last Update:`27th November - Added new rule under "PET Patrol Support Section"
+**🛡️Fear No Evil**
+`Last Update:` 23rd December - Added new motto
 
 
 <div align="center"><h1>General Reminders</h1></div>
