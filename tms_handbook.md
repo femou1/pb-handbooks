@@ -1,4 +1,4 @@
-Coasterteam | 2023-11-14 00:33:55 UTC | #1
+Coasterteam | 2023-12-23 21:50:22 UTC | #1
 
 <div align="center"> 
 
@@ -157,8 +157,10 @@ Every so often at Pinewood Computer Core, a disaster will occur. These disasters
 * Radiation Leak 
 * Aliens
 * Magma
+* Missiles
 
 You are **not** allowed to fix the Radiation leak unless it is preventing meltdown or freezedown from occurring. 
+During **Missiles**, you want to keep the defense system **offline** to ensure the missiles hit the computer core!
 [/details]
 [details="Dealing with Rogue Syndicates"]
 Every so often, you may encounter a syndicate member trying to save the core, breaking a game rule, team-killing other members, or abusing weapons. These members are considered Rogue. Depending on how they act, you may have to kill them in self-defense if they attack you on invalid terms. 
@@ -583,7 +585,7 @@ This handbook is always a work in progress.
 Signed, 
 *The Architect*
 
-*Last updated November 13th, 2023*
+*Last updated December 23rd, 2023*
 
 -------------------------
 
