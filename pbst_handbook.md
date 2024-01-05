@@ -1,4 +1,4 @@
-ood23doc | 2023-12-23 10:42:05 UTC | #1
+ood23doc | 2024-01-05 20:17:50 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 23rd December - Added new motto
+`Last Update:` 23rd December
 
 
 <div align="center"><h1>General Reminders</h1></div>
@@ -352,7 +352,7 @@ To rank up in the group, you need PBST points, which you can earn in various dif
 
 [details="Cadet"]
 
-# Cadet
+# Trainee
 
 The classic entry rank for PBST.
 
@@ -368,7 +368,7 @@ The classic entry rank for PBST.
 
 # Tier 1
 
-This is the first achievable rank past the entry rank in PBST. This rank, alongside Tier 2 and 3, are the main force of PBST, protecting and shielding the facilities with their weapons.
+Ascending further, Tier 1 are granted a PBST Pistol and a ranked baton which deal a decent amount of damage to players.
 
 **Requirements:**
 
