@@ -1,4 +1,4 @@
-ood23doc | 2024-01-05 20:17:50 UTC | #1
+ood23doc | 2024-01-07 12:12:03 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 23rd December
+`Last Update:` 7th January: New Rank Information Added
 
 
 <div align="center"><h1>General Reminders</h1></div>
@@ -350,7 +350,7 @@ Security members are not allowed to be mutants whilst on duty.
 
 To rank up in the group, you need PBST points, which you can earn in various different ways. You can view your point stats with the in-game `!mypoints` command. Below lists all of the achievable ranks in PBST.
 
-[details="Cadet"]
+[details="Trainee"]
 
 # Trainee
 
@@ -361,6 +361,22 @@ The classic entry rank for PBST.
 * **Weak PBST Baton** - Deals minimal damage against players
 
 * **Riot Shield** - A shield that defends against rifles, SMG and pistol shots, and makes a small clank sound when hit by a bullet.
+
+[/details]
+
+[details="Cadet"]
+ 
+# Cadet
+
+This is the first achievable rank past the entry rank in PBST. This rank will prove your willingness to ascend further in the community by distinguishing yourself from new members. You will be provided new weapons in order to mark your way to the first Tier rank. **Requirements:** Get 20 Points (keep in mind PBCC credits **are not** PBST divisional points!)
+
+ **Tools:**
+
+* **Increased Damage PBST Baton** - Deals minimal damage against players
+
+* **Riot Shield** - A shield that defends against rifles, SMG and pistol shots, and makes a small clank sound when hit by a bullet.
+  
+* **Riot Shotgun** - The classic sit gun which stuns enemies when used against players 
 
 [/details]
 
