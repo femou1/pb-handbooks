@@ -1,4 +1,4 @@
-Webm07 | 2023-08-21 00:06:41 UTC | #1
+Webm07 | 2024-01-21 01:06:51 UTC | #1
 
 <div align="center">
 
@@ -13,7 +13,7 @@ Welcome to Pinewood Emergency Team, an elite group of the best rescue heroes wor
 
 🔥 **Above the flames!**
 
-`Last update:` *August 20th, 2023*
+`Last update:` *January 20th, 2024*
 
 <div><h3>Upcoming Events:</div>
 
@@ -130,13 +130,13 @@ If any train debris (or other debris) manages to reach the tracks, try your best
 
 If a train driver derails their train and they are still seated, try to ask them if they can remove their train.
 
-If there is a nuke train whose rockets are about to blow up you are free to kill said driver in order to protect others.
+If there is a nuke train whose rockets are about to blow up you are free to kill said driver to protect others.
 
 ***IMPORTANT:*** **DO NOT use your weaponry to fire shots at a driver whose train is derailed. That should only ever be used if the driver is threatening you with their own weapons OR if the driver is causing a huge backlog of traffic and is refusing to delete their train, even after being asked multiple times.**
 
 You are not allowed to use UFOs or Vehicles to block trains. However, you may use jetpacks to derail enemy nuke trains, ignited nuke trains, or if the train is on fire. You may never derail trains driven by those who do not pose a threat.
 
-An enemy is defined as someone who is on-duty TMS (Red Ranktag & Uniform), any user on KoS, or those who have made their anti-core intentions clear.
+An enemy is defined as someone who is on KoS or those who have made their anti-core intentions clear.
 
 **A PET Respondent can never drive or light nuke trains under any circumstances.**
 
@@ -166,9 +166,9 @@ You should, however, always aim for all three rods to be green, as that increase
 
 Success Rates for the number of tanks green when the countdown reaches *0*
 
-1 rod - 10%, if successful, it will set the core temperature **back to 3600 degrees!**
+1 rod - 25%, if successful, it will set the core temperature **back to 3600 degrees!**
 
-2 rods - 25%, if successful, it will set the core temperature **back to 3400 degrees!**
+2 rods - 45%, if successful, it will set the core temperature **back to 3400 degrees!**
 
 3 rods - 90%, if successful, it will set the core temperature **back at 3000 degrees!**
 
@@ -418,6 +418,8 @@ The third and final rank in the main progression. For the regular participant, t
 
 * Elite Respondents may issue KoS orders outside of PET events if they are in-game and on duty as PET. They may issue KoS orders during PET events if they have permission from the event host.
 
+* Allowed to host gamenights
+
 [/details]
 
 [details=“Marshall (HR)”]
@@ -471,8 +473,6 @@ The first HR rank in PET.  A Marshall has many enhanced permissions and responsi
 * Moderation powers in the PET communications server.
 
 * Granted smartlogs read and edit access in-game and in the Communication Server.
-
-* Allowed to host gamenights
 
 * Kronos Mod (Level 1) at PBCC, PBSTAC, & PBSTTF !petserver
 
@@ -538,7 +538,11 @@ It is tradition for the Chief to attend as many patrols as they can.
 The Chief is approved and promoted by Tokaisho.
 
 [/details]
+<p>
 
+[details="Deputy (For Elite Respondents)"]
+Information pending...
+[/details]
 ---
 
 For each rank with an evaluation; there is a chance that you may fail a phase. Should this happen, you will be given a phase cooldown by the evaluator before you are able to re-take the failed phase again. For the first time, the cooldown is typically 24 hours.
