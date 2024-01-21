@@ -1,4 +1,4 @@
-Webm07 | 2024-01-21 01:06:51 UTC | #1
+Webm07 | 2024-01-21 21:59:35 UTC | #1
 
 <div align="center">
 
@@ -13,7 +13,7 @@ Welcome to Pinewood Emergency Team, an elite group of the best rescue heroes wor
 
 🔥 **Above the flames!**
 
-`Last update:` *January 20th, 2024*
+`Last update:` *January 21th, 2024*
 
 <div><h3>Upcoming Events:</div>
 
@@ -246,7 +246,9 @@ The generator room is a key area that allows PET respondents to restore the ener
 
 If a visitor turns generators online, and no blackout is happening, switch them off, and explain to them calmly that they must stay off in case of them being needed, should they ignore this warning and turn them on again, you are clear to kill them.
 
-You are free to attack them immediately without a warning if they attack you first, if they are officially on KOS, or if they return to switch generators online again to drain the fuel after being warned in the past.
+You are free to attack them immediately without a warning if they turn generators against PET's mission and blackout is happening, if they attack you first, if they are officially on KOS, or if they return to switch generators online again to drain the fuel after being warned in the past.
+
+If core reaches freezing temperatures (-3k or -2k in official freezedown raids) PET's focus is to keep generators offline as it interferes with our mission to save the core.
 
 ![img](upload://br4bQTTgoEtO7VNwq15owuJMV2N.jpeg)
 
@@ -265,7 +267,10 @@ You don't have to warn someone for causing fires if they are on KOS, if they att
 [/details]
 
 [Details="Satellite Connection"]
-As a PET Respondent, it is your duty to ensure that the satellite connection in the computer science labs is kept on, in case of a missile event. If anyone disables the connection during the missile event, you are free to kill them. 
+As a PET Respondent, it is your duty to ensure that the satellite connection in the computer science labs is kept on, in case of a missile event.
+
+During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill any non-PET and non-PBST that enter the room. This restriction is automatically voided in the moment of the disaster ending.
+
 [/details]
 
 ---
@@ -541,7 +546,22 @@ The Chief is approved and promoted by Tokaisho.
 <p>
 
 [details="Deputy (For Elite Respondents)"]
-Information pending...
+This role is the deputy leader (or assistant) for patrol hosts should they wish to have one during their patrol. 
+﻿
+Deputies are allowed to lead a small group of PET within specific areas such as cargo bay, train tracks, cargo trains, etc, to ensure a smooth operation throughout the patrol. They are also responsible for handling any inquiries that any attendees may have, as well as helping the host with any important patrol information/status. Additionally, to support them, they are also granted KoS permissions. 
+﻿
+Marshalls and above are automatically considered Deputy. 
+﻿
+**Requirements:** Being Elite Respondent + Nominated by Marshall+, must be voted in by some number of Marshalls+
+﻿
+<div><h3>Permissions:</div>
+(only apply if they've been chosen by the patrol host to Deputy)
+
+* Leading a small group of PET during a Patrol
+
+* KoS orders
+
+* ranktag "Deputy (Elite Respondent)"
 [/details]
 ---
 
@@ -557,7 +577,7 @@ You only need to re-do phases in which you fail.
 
 <div align="center"><h1>Respondents of the Month</div>
 
-If you are a Respondent who shows exceptional behavior and have made a positive impact in the group, you could be eligible for the monthly Respondent of the Month award! Every month, 1 to 3  members will be chosen for this award in order to recognise and congratulate members who have clearly shown that they are an amazing role model for others. Others should look up to those who are able to accomplish this role, as they clearly demonstrated that they are the best of the best!
+If you are a Respondent who shows exceptional behavior and have made a positive impact in the group, you could be eligible for the monthly Respondent of the Month award! Every month, 1 to 3  members will be chosen for this award to recognise and congratulate members who have clearly shown that they are an amazing role model for others. Others should look up to those who are able to accomplish this role, as they clearly demonstrated that they are the best of the best!
 
 Those who gets this award also get a cool "Respondent of the Month" PET ranktag in-game!
 
