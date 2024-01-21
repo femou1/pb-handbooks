@@ -1,4 +1,4 @@
-Coasterteam | 2023-12-23 21:50:22 UTC | #1
+Coasterteam | 2024-01-21 20:16:27 UTC | #1
 
 <div align="center"> 
 
@@ -532,9 +532,9 @@ E-Coolant does play a critical role and must be kept under control, or risk gett
 For E-Coolant to have a chance at saving the core, at least *one* of the rods must have their levels between **69 and 81** percent to be green. Going above or below those ranges will make the rod unusable. 
 
 Success Rates for the number of tanks green when the countdown reaches *0*
-1 : 10% 
+1 : 25% 
 * Core temp set to 3600
-2 : 25%
+2 : 45%
 * Core temp set to 3400
 3 : 90%
 * Core temp set to 3000
@@ -585,7 +585,7 @@ This handbook is always a work in progress.
 Signed, 
 *The Architect*
 
-*Last updated December 23rd, 2023*
+*Last updated January 21st, 2023*
 
 -------------------------
 
