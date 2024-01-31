@@ -1,4 +1,4 @@
-Coasterteam | 2023-09-11 19:13:07 UTC | #1
+Coasterteam | 2024-01-31 21:22:38 UTC | #1
 
 <div align="center"> 
 
@@ -22,8 +22,9 @@ Coasterteam | 2023-09-11 19:13:07 UTC | #1
 * Make sure to follow the [Roblox Community Rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) at all times! 
 
 * Exploiting is forbidden and will lead to an [b]immediate game ban[/b], upwards of a global group ban, if caught. 
--- This includes third-party programs, such as Lua injectors/executors, auto-clickers, and macros. 3rd party programs designed to give you an advantage over others that is not already in-game will be treated as an exploit. Anything that can damage or hurt the server infrastructure can be considered an exploit. 
---- **EXCEPTION**: Use of FPS unlockers does **not** warrant a gameban. 
+-- This includes third-party programs, such as Lua injectors/executors and macros. 3rd party programs designed to give you an advantage over others that is not already in-game will be treated as an exploit. Anything that can damage or hurt the server infrastructure can be considered an exploit. 
+--- **EXCEPTION**: Use of FPS unlockers or auto-clickers does **not** warrant a gameban. 
+--- __See the "Autoclicker" rule for more information__
 -- Getting caught exploiting, moderators are allowed to run just about any command on your client. 
 Be warned.
 -- Appealing an exploit ban is difficult and rare to go through
@@ -46,7 +47,10 @@ Be warned.
 -- **This does not cover everything; just because something might not be exactly listed here doesn't mean it is allowed. Moderators do have the final say in these situations. If you have to ask yourself "am I allowed to do this?", it likely isn't**.
 -- You may be issued a weapon ban if you violate these rules; see more information below in the `Pinewood Weapon Ban` section.
 
-* Members are requested to be respectful with other players, hurtful and disrespectful comments will lead to an in-game mute, and report abuses being sent to Roblox to be dealt with by Roblox moderation.
+* Autoclickers are not against the rules unless used as a way to bypass Roblox Anti-AFK. Moderators are allowed to kick AFK-ing players who are attempting to stay longer than designed while AFK.
+-- However, using an auto-clicker to spam tools in an attempt to annoy other players can be removed from the game. This would fall under harassment.
+
+* Members are requested to be respectful with other players, hurtful and disrespectful comments will lead to an in-game mute, and report abuses being sent to Roblox to be dealt with by Roblox moderation. Repeat offenders may be banned.
 
 * Users with user/display names that bypass the filter to project slurs or other inappropriate phrases will be reported to Roblox and banned from the game.
 
@@ -155,13 +159,14 @@ You must be **13 and up** to join.
 
 If you are not 13 and up, feel free to reach out to a moderator on another platform or through PMs.
 
-Last Updated: Sept 11th, 2023
+Last Updated: January 31st, 2024
 (March 20th, 2022: Added Bypassed Audios because apparently it's hard for some to realize you *shouldn't* play them anyway!)
 (Sept 10th, 2022:: Added Voice Chat rule, Updated MRK rule, & added Pinewood Weapon bans)
 (Dec 27th, 2022: Last Update: Updated information regarding FPS unlockers under the Exploiting rule)
 (Feb 13th, 2023: Update PBST handbook link)
 (July 26th, 2023: Updated Boombox "Bypassed" audio definition & added Boombox bans)
-Last Update: Remove mention of FPS unlockers being a cause for divisional moderations
+(Sept 11th, 2023: Remove mention of FPS unlockers being a cause for divisional moderations)
+Last Update: Removed Auto-Clickers from Exploiting section, added its own section. No longer a gamebannable offense. Updated Harassment rule to explain possible bans.
 
 -------------------------
 
