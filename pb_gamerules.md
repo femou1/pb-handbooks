@@ -1,4 +1,4 @@
-Coasterteam | 2024-01-31 21:22:38 UTC | #1
+Coasterteam | 2024-02-26 04:39:31 UTC | #1
 
 <div align="center"> 
 
@@ -35,6 +35,7 @@ Be warned.
 -- Camping outside of a zone is frowned upon and still considered spawn killing (**SK**).
 
 * Mass-Random Killing (**MRK**) is forbidden. Do not attack other players without a valid reason in mass.
+[details="More Details on MRK rule"]
 -- Clearing entire rooms of PBST/PET/TMS as a neutral is *not* considered abusive if they are consistently messing with core controls. 
 --- Attacking PBST/PET/Pro-Core as TMS/anti-core, or the other way around is not considered abusive.
 --- **EXCEPTION**: Attacking divisional attendees (applies to everyone) in an STS area before/after an official event can be considered abusive. Before and after can be considered the host briefing attendees before the event starts and/or in the process of dismissing them. **NOTE:** PBCC offers hosts divisional protection when the host is standing on the podium and attendees are in the STS line. This prevents public weapons from dealing damage.
@@ -46,6 +47,8 @@ Be warned.
 -- If someone randomly attacks you, you are free to attack back no matter the location as it is in the name of self-defense. This does not give you a reason to constantly attack them if they are near you; just be weary of their presence. 
 -- **This does not cover everything; just because something might not be exactly listed here doesn't mean it is allowed. Moderators do have the final say in these situations. If you have to ask yourself "am I allowed to do this?", it likely isn't**.
 -- You may be issued a weapon ban if you violate these rules; see more information below in the `Pinewood Weapon Ban` section.
+[/details]
+
 
 * Autoclickers are not against the rules unless used as a way to bypass Roblox Anti-AFK. Moderators are allowed to kick AFK-ing players who are attempting to stay longer than designed while AFK.
 -- However, using an auto-clicker to spam tools in an attempt to annoy other players can be removed from the game. This would fall under harassment.
@@ -159,14 +162,15 @@ You must be **13 and up** to join.
 
 If you are not 13 and up, feel free to reach out to a moderator on another platform or through PMs.
 
-Last Updated: January 31st, 2024
+Last Updated: Feb 25th, 2024
 (March 20th, 2022: Added Bypassed Audios because apparently it's hard for some to realize you *shouldn't* play them anyway!)
 (Sept 10th, 2022:: Added Voice Chat rule, Updated MRK rule, & added Pinewood Weapon bans)
 (Dec 27th, 2022: Last Update: Updated information regarding FPS unlockers under the Exploiting rule)
 (Feb 13th, 2023: Update PBST handbook link)
 (July 26th, 2023: Updated Boombox "Bypassed" audio definition & added Boombox bans)
 (Sept 11th, 2023: Remove mention of FPS unlockers being a cause for divisional moderations)
-Last Update: Removed Auto-Clickers from Exploiting section, added its own section. No longer a gamebannable offense. Updated Harassment rule to explain possible bans.
+(Jan 31st, 2024: Removed Auto-Clickers from Exploiting section, added its own section. No longer a gamebannable offense. Updated Harassment rule to explain possible bans.)
+Last Update: Moved the excess of MRK details under a details dropdown to clean up rules a little bit. No rules were changed/added/removed.
 
 -------------------------
 

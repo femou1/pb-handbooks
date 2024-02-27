@@ -1,4 +1,4 @@
-Coasterteam | 2024-01-21 20:16:27 UTC | #1
+Coasterteam | 2024-02-26 04:31:14 UTC | #1
 
 <div align="center"> 
 
@@ -23,16 +23,33 @@ https://www.roblox.com/groups/4890641/The-Mayhem-Syndicate#!/about
 
 --- 
 # General Reminders
+* Follow the [ROBLOX Community Rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) and the [Pinewood Builders Game Rules](https://devforum.roblox.com/t/pinewood-builders-game-rules/907637) **at all times.** 
 * Be respectful to other members, especially to those who outrank you, we're all playing to have fun.
+
 * Do not try to evade punishments, evading will only make it worse.
 * We are not at war with other groups, hostility towards them is unwelcomed. 
-* **Spawnkilling and Mass Random-killing** is forbidden for anyone, at any time, and will be severely punished if caught. (See Exploiter KoS for exception information)
--- **Spawn extends from the spawn lobby, through the entirety of the spawn shop, up the stairs, and down the elevator shaft. Spawn extends into both directions of the main hallway until either the first lockdown door near Admin control elevator & the train station or PIA room (if you went right instead of straight)** 
--- The PBRF elevator area attached to the spawn lobby and the Easy Escape room is also considered a spawn zone!
--- Camping the bottom of the elevator shaft is frowned upon, try to attack elsewhere!
-* Please follow the Roblox Community Rules at all times, this is still just a game!
+* You are not allowed to share/sell accounts with TMS marks/ranks.
+* Follow orders from your superiors and be respectful to your fellow players. Don’t act like you’re the boss of the game.
+* Glitching is severely frowned upon, doing this at events can get you on KoS for all sides until the event ends.
+* **Instructors can remove a user from a TMS position for poor behavior,** both in the communications server and in-game. This includes toxicity, inappropriate behavior, etc. Anyone who acts in ways not suitable for his/her rank will see that rank revoked.
+* Do not steal any assets that relate to Pinewood Builders or its members, including but not limited to; Game assets, uniforms, and community-made artwork. **You will be blacklisted if you refuse to remove stolen assets.**
 * Attacking other on-duty TMS members is frowned upon and can lead to punishment.
-* PBST must have both a rank tag set to PBST and PBST uniform to be counted as PBST! (unless they are Special Defense+)
+* PBST must have both a rank tag set to PBST and PBST uniform to be counted as PBST! (unless they are Special Defense+ or have a hazmat/core/fire suit)
+---
+# Global Rules
+PBST, PET and TMS Leadership have agreed to prevent unfair advantages to the best of their ability. During on-going events, there exists a multitude of Global Rules which needs to be followed by all subgroups during events. Below lists every one of them currently in force:
+
+1. Attendees are not allowed to glitch in any way, it is disallowed for all sides. If a neutral glitches during events, they will be on Global-KoS.
+
+2. Attendees are not allowed to “package abuse”, which basically means attendees cannot make super small packages or other packages that can negatively impact other players, it is disallowed for all sides. If neutrals package abuses during events, they will be on Global-KoS.
+3. Raid Blacklisted users are Global-KoS to all sides.
+4. Attendees cannot fight and kill each other in the main spawn area, the Security room, the Syndicate hideout, or the Emergency HQ. The only exception to this rule is if you’re fighting someone and during the middle of it they decide to run to any of the mentioned areas in order to escape said fight, in which case you are free to kill them there.
+5. To avoid team-killing and general confusion, on-duty TMS may not color their hazmat shades of blue during raids or patrols.
+
+In these rules, “all sides” refers to all main pro-core and anti-core subgroups, PBST, PET and TMS.
+
+By committing any of the mentioned rules while also being on-duty for TMS, you can expect an appropriate punishment in the group; ranging from a point deduction up to a demotion. In some cases, one may get added to the PB Event Blacklist, where one is on permanent Global KOS during public server PBST/PET/TMS events, and are banned from attending private server PBST/PET/TMS events.
+
 --- 
 # Rules while raiding
 
@@ -140,7 +157,7 @@ Going off-duty and becoming a neutral during events however, is allowed.
 While on duty as a Syndicate member, you are expected to help cause chaos by melting or freezing the core. There are times where multiple Syndicate members are trying to do different objectives, communication is key to success! Work together to meet a common goal and success will follow. 
 
 [details="PET/Core Suits"]
-You are allowed to wear PET suits or the core suit while on duty as TMS. A uniform is not required while wearing these suits.
+You are allowed to wear PET Hazmat and PET Fire suits or the general core suit while on duty as TMS. A uniform is not required while wearing these suits. You are not allowed to wear the PET Medical suit as an on-duty TMS member.
 
 TMS are allowed to use the Astronaut helmet during raids, this can be used in the core when the temperature is below 3000. 
 Astronaut Helmet ID: `1081366`
@@ -581,11 +598,16 @@ This handbook is always a work in progress.
 
 ---
 *Glory to the Syndicate!*
+<div align="center"> 
+Signed,
 
-Signed, 
-*The Architect*
+![image|690x388, 75%](upload://9QGS6RaBc0xbRpcVWBEMb2Aax64.jpeg)
+</div>
 
-*Last updated January 21st, 2023*
+
+
+
+*Last updated February 25th, 2024*
 
 -------------------------
 

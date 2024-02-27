@@ -1,4 +1,4 @@
-Webm07 | 2024-01-21 21:59:35 UTC | #1
+Webm07 | 2024-02-23 16:28:03 UTC | #1
 
 <div align="center">
 
@@ -13,7 +13,7 @@ Welcome to Pinewood Emergency Team, an elite group of the best rescue heroes wor
 
 🔥 **Above the flames!**
 
-`Last update:` *January 21th, 2024*
+`Last update:` *February 23rd, 2024*
 
 <div><h3>Upcoming Events:</div>
 
@@ -262,6 +262,8 @@ If you see someone causing fires with a fire stick, ask them to stop and put off
 
 You don't have to warn someone for causing fires if they are on KOS, if they attack you while you were warning them, if they are on duty as TMS, or if they were warned before and they return to continue making fires!
 
+Anyone igniting trains on fire in the cargo spawn is considered hostile and is not covered by spawnkilling policies. In this case, the above protocol applies.
+
 ![img](upload://Tf8QqqWZNQ14WEDnZX02qV74bq.png)
 
 [/details]
@@ -272,6 +274,14 @@ As a PET Respondent, it is your duty to ensure that the satellite connection in 
 During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill any non-PET and non-PBST that enter the room. This restriction is automatically voided in the moment of the disaster ending.
 
 [/details]
+
+
+[details="Critical Alert"]
+When a Marshall+ is hosting a patrol, in the event of an in-game emergency such as 3k/-3k being reached, missile event, huge amounts of nuke trains exploding, etc, the host can now declare a “Critical Alert” - this is something declared in PET chat where EVERY PET attending the event are ordered to respond and focus on said alert
+﻿
+Once a Critical Alert is revoked, PET are to return to their normal duties, until another Critical Alert is issued by the host
+[/details]
+
 
 ---
 
@@ -423,7 +433,7 @@ The third and final rank in the main progression. For the regular participant, t
 
 * Elite Respondents may issue KoS orders outside of PET events if they are in-game and on duty as PET. They may issue KoS orders during PET events if they have permission from the event host.
 
-* Allowed to host gamenights
+* Allowed to host gamenights (with permission)
 
 [/details]
 
@@ -480,6 +490,8 @@ The first HR rank in PET.  A Marshall has many enhanced permissions and responsi
 * Granted smartlogs read and edit access in-game and in the Communication Server.
 
 * Kronos Mod (Level 1) at PBCC, PBSTAC, & PBSTTF !petserver
+
+* May issue room restrictions (Restrictions: Satellite room during missile alarm until the missile can/cannot intercept it. Can restrict core related areas only when in critical state, including gens if there is a blackout when PET is stopping a meltdown. No other restrictions are allowed.)
 
 [/details]
 
@@ -791,11 +803,13 @@ All hosts have to follow rules regarding hosting. These rules are seen below.
 
 * Marshalls and Elite Respondents can schedule for up to **14** days in advance.
 
-* An Elite Respondent may only host every **48** hours (start of one to start of another one)
+* An Elite Respondent may only host every **48** hours (start of one to start of another one).
+
+* An Elite Respondent may only schedule **5** days in advance and may only have **2** events scheduled simultaneously.
 
 * PET, PBST and TMS hosts are not permitted to host an event 1 hour before and after a PET Operation MEGA, a PBST MEGA training or a TMS MEGA raid.
 
-Every hosts are expected to follow these hosting rules. Specialists and above have the authority to end a patrol early or postpone it should it violate said rules. Specialists also have the ability to override the cooldown in rare cases.
+Every hosts are expected to follow these hosting rules. Specialists and above have the authority to end a patrol early or postpone it should it violate said rules. Specialists also can override the cooldown in rare cases.
 
 [/details]
 

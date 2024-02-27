@@ -1,4 +1,4 @@
-ood23doc | 2024-01-20 09:23:18 UTC | #1
+ood23doc | 2024-02-11 16:15:15 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 20th January: New Acronyms and Terms Section 
+`Last Update:` 4th February: Tournament Section edited 
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -791,15 +791,15 @@ Intentionally disrupting the training as an attendee can lead to severe conseque
 
 Think you got what it takes to win an intense, competitive event? Be sure to join a PBST Tournament!
 
- The winner attains 7 PBST points and a special “Event Winner” role in our communications server until the next tournament’s winner. Attendees who do not win the tournament stand to gain up to 6 PBST points from the event.
+The winner attains 7 PBST points and a special “Event Winner” role in our communications server for a month until the next tournament’s winner.
 
-After winning a tournament, you cannot win the role again for 3 weeks.
+Attendees who do not win the tournament stand to gain up to 6 PBST points from the event.
+
+After winning a tournament, you cannot win the role again for the next 2 tournaments. 
 
 Currently, there are two types of tournaments: the obby tournament and the combat tournament. Although they may vary, the tournaments are traditionally hosted at these times:
 
-* *Obby Tournament:* Every Saturday, 8PM UTC.
-
-* *Combat Tournament:* Every Sunday, 6PM UTC.
+Obby Tournament & Combat Tournaments : Near the end of each calendar month
 
 In very rare circumstances, tournament event times can change at any time.
 
@@ -971,7 +971,7 @@ Upon seeing someone showing outstanding performance during events such as Patrol
 	
 ![image|420x420, 10%](upload://mmV7Im4dIqgGpScRj18e3Hl6Gmt.png) **Tournament Winner:**
 
-Won a PBST tournament? Flex your win with the Tournament Winner reward! This role is given when one successfully manages to attain 1st place in a tournament. After winning you will keep role for entire week but you won't be able to win the same type of tournament for another 3 weeks....
+Won a PBST tournament? Flex your win with the Tournament Winner reward! This role is given when one successfully manages to attain 1st place in a tournament. After winning you will keep role for entire month but you won't be able to win the same type of tournament for the next 2 tournaments
 
 ---
 
