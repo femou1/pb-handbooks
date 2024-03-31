@@ -1,4 +1,4 @@
-ood23doc | 2024-02-11 16:15:15 UTC | #1
+ood23doc | 2024-03-23 10:32:15 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 4th February: Tournament Section edited 
+`Last Update:` 23rd March: Minor changes
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -87,7 +87,7 @@ You also can not use tools & weapons from other Pinewood subgroups like PET or T
 
 [details="Warning System"]
 
-In cases of incidents such as someone causing a meltdown or freezedown, **ALWAYS** give them a warning first. If it is needed, a Taser can be used when warning someone.
+In cases of incidents such as someone causing a meltdown or freezedown, **ALWAYS** give them a warning first. If it is needed, a Taser can be used when warning someone. Warnings may also be given for wholly endangering the facility in other ways such as allowing the pressure to reach critical levels in PBOP.
 
 You are required to provide at least **one warning** before engaging in combat if the player is not acting aggressively.
 
@@ -145,6 +145,12 @@ There are some exceptions where you do not need to provide a warning before shoo
 - YSR: Yes Survivor Run
 
 - NSR: No Survivor Run
+
+- RP - Shorthand for **Reactor Power** in PBCC
+
+- AC - Shorthand for the **Admin Control** room's coolant button in PBCC
+
+- CS - Shorthand for **Coolant Sector** in PBCC (coolant pumps and coolant generation)
 
 **Terms:**
 - Kill on sight: A status given by ET+ to people in-game. People "on KOS" must be killed immediately. Note that there are overriding exceptions (one example: no spawnkilling).
@@ -271,7 +277,7 @@ If a **Tier or higher** is being abusive with their weapons, record the evidence
 
 ---
 
-Exploiting is using any external program to alter gameplay, such as auto-clicking, macros, and Lua injectors/executors. Exploiting is against the Roblox Community Standards and Pinewood Builders Game rules. 
+Exploiting is using any external program to alter gameplay, such as macros, and Lua injectors/executors. Exploiting is against the Roblox Community Standards and Pinewood Builders Game rules. 
 
 If the person is breaking PB Game rules and is still in the server, run the command "!call" in chat and call for PIA. Once the PIA joins, ***DO NOT*** **let others know of their presence in chat.** Although keep in mind that **exploiters are on Kill on Sight** and you should kill them.
 
@@ -313,9 +319,9 @@ If a meltdown does occur, go to the Emergency Coolant at Sector G to try to resc
 
 **Success rates and core temp vary depending on how many rods are correctly filled:**
 
-1 correctly filled rod: **10%** chance of lowering core temperature to **3600** degrees
+1 correctly filled rod: **25%** chance of lowering core temperature to **3600** degrees
 
-2 correctly filled rods: **25%** chance of lowering core temperature to **3400** degrees
+2 correctly filled rods: **45%** chance of lowering core temperature to **3400** degrees
 
 3 correctly filled rods: **90%** chance of lowering core temperature to **3000** degrees
 
@@ -587,6 +593,8 @@ Handpicked for a Elite Tier Evaluation:
 * Ability to host an official raid response.
 
 * Ability to host PET Patrol Support events.
+
+* Ability to host gamenights
 
 * Ability to issue PBST KOS orders.
 

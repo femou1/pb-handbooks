@@ -1,4 +1,4 @@
-Webm07 | 2024-02-23 16:28:03 UTC | #1
+Webm07 | 2024-03-17 20:40:51 UTC | #1
 
 <div align="center">
 
@@ -13,7 +13,7 @@ Welcome to Pinewood Emergency Team, an elite group of the best rescue heroes wor
 
 🔥 **Above the flames!**
 
-`Last update:` *February 23rd, 2024*
+`Last update:` *March 17th, 2024*
 
 <div><h3>Upcoming Events:</div>
 
@@ -475,7 +475,7 @@ The first HR rank in PET.  A Marshall has many enhanced permissions and responsi
 
 * Ability to host patrols, including joint patrols.
 
-* Ability to host trainings, including joint trainings (Limitations are in place to prevent trainings taking over the PET schedule, specifications of the limitations are not public). (**Must have Specialist permission to schedule one**)
+* Ability to host trainings, including joint trainings, subject to applicable restrictions.
 
 * Ability to host a Community Patrol if their slot wins.
 
@@ -519,7 +519,7 @@ The second HR rank. Specialists are the leadership rank in PET and help the Chie
 
 * Specialist+ also has it on the highest authority to cancel any event where they deem that it is appropriate to do so and take any action necessary.
 
-* Allowed to host any type of PET event.
+* Allowed to host any type of PET event & override training hosting rules.
 
 * Allowed to override any KOS orders for users below them in rank.
 
@@ -603,7 +603,9 @@ There are multiple event types that an attendee can get points from in PET. Even
 
 Patrols are the most classic and barebones event hosted in PET. They are hosted regularly by Marshalls and above and usually take place in public PBCC servers, though on special occasions another facility may be patrolled. Under regular circumstances, a patrol can last as long as one hour.
 
-**You can earn up to 5 PET points from a normal patrol, with a possible bonus of 6**.
+Points are awarded as follows:
+< 30 Minutes - Up to 3 points + bonus
+30 Minutes+ - Up to 5 points + bonus
 
 ![img](upload://o4lIgHMe9OqwmdfRI4iefIvgFYM.png)
 
@@ -801,7 +803,11 @@ All hosts have to follow rules regarding hosting. These rules are seen below.
 
 * If the last event was an OPERATION MEGA, one has to wait **7** hours in order to host another event
 
-* Marshalls and Elite Respondents can schedule for up to **14** days in advance.
+* Marshalls can schedule for up to **14** days in advance.
+
+* Patrols cannot be less than **20** minutes and may not exceed **45** minutes (Does not apply to MEGA or Community Patrols).
+
+* Only **1** training may take place per UTC day, Marshalls require approval to host trainings.
 
 * An Elite Respondent may only host every **48** hours (start of one to start of another one).
 

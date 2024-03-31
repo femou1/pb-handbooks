@@ -1,4 +1,4 @@
-Coasterteam | 2024-02-26 04:31:14 UTC | #1
+Coasterteam | 2024-03-25 17:52:39 UTC | #1
 
 <div align="center"> 
 
@@ -117,7 +117,7 @@ You are to **kill PET on sight IF** the core temperature is above 2,000 degrees 
 [/details]
 [details="PET/PBST Room"]
 PET and PBST both have rules to not attack in the TMS loadout area, so we respect this mutually with them in the form of not attacking in their respective loadout room.
-The only exception to this is if you are attacking someone outside of one of these rooms initially and they run inside for "protection". By all means, feel free to kill them there. This protection only really applies to people who recently spawned and are still getting their loadout. If they do not immediately go to loadouts after spawn(/core suits), they are excluded from this protection.
+The only exception to this is if you are attacking someone outside of one of these rooms initially and they run inside for "protection". By all means, feel free to kill them there. This protection only really applies to people who recently spawned and are still getting their loadout. If they do not immediately go to loadouts after spawning (/core suits), they are excluded from this protection.
 [/details]
 [details="Neutrals"]
 Do not go out of your way to attack neutrals while raiding, if they are not a threat or are not interfering with your objective, try to avoid killing these types of players. 
@@ -363,7 +363,7 @@ This is the first rank in the rank structure that is allowed to host the main ra
 * Allowed to host a server during a MEGA raid
 * Granted access to the TMS SmartLog in-game
 * Granted Moderator powers in the Communications server
-* Granted moderator powers at the Rynver Stronghold
+* Granted Moderator powers at the Rynver Stronghold
 * Allowed to use custom uniforms; these must be approved by an Instructor+
 * Allowed to host game nights/special events in the Communications server with the approval of an Instructor+
 * Allow full access to the TMSRS Commons Room podium and TMSRS Event Hall leadership platform.
@@ -523,23 +523,24 @@ Meltdown raids are the most common raid found at TMS. The goal is simple, cause 
 Freezedown raids are one of the rarer raids found at TMS. The goal is simple, cause a freezedown. This is done by lowering the temp below -4000 degrees. 
 [/details]
 [details="Chaos"]
-One of the most fun raid types, the Chaos raid! This raid is where TMS shines in its more *chaotic* stages. During these raids; massive fires break out, nuke trains explode, and core temperatures soar into unstable numbers.
+One of the most fun raid types, is the Chaos raid! This raid is where TMS shines in its more *chaotic* stages. During these raids; massive fires break out, nuke trains explode, and core temperatures soar into unstable numbers.
 [/details]
 [details="Post-raid"]
 This is not an objective, but it is an objective once the primary objective is reached after a Meltdown or Freezedown begins, it is to do a No-Survivor or Yes-Survivor run, or none at all.
 
-* **Yes-Survivor**
+It is expected that a survivor run is to be called BEFORE the first rocket starts to launch. By that point, it will default to YSR.
+* **Yes-Survivor (YSR)**
 Help survivors escape in rockets
 This is the default objective in all post-raid scenarios unless specified otherwise.
-* **No-Survivor**
+* **No-Survivor (NSR)**
 Do not let anyone escape in rockets.
-You must be a Inquisitor+ to order this run as you can be charged with MRK violations otherwise. 
+You must be an Inquisitor+ to order this run as you can be charged with MRK violations otherwise. 
 Operative+ can request permission to engage this run in a server.
 
-Once a raid that offers marks ends, TMS members are to head to the Rynver Stronghold, with the **!tmsrs** command in chat. This is to group up, submit a log for everyone who attended, then dismiss everyone. The event host may want you to go somewhere else, so keep a lookout for where it might be! It'll likely be TMSRS, but not always!
+Once a raid that offers marks ends, TMS members are to head to the Rynver Stronghold, with the **!tmsrs** command in chat. This is to group up, submit a log for everyone who attended, and then dismiss everyone. The event host may want you to go somewhere else, so keep a lookout for where it might be! It'll likely be TMSRS, but not always!
 [/details]
 ---
-Last but not least, after a Meltdown starts, E-Coolant must be taken into account to prevent PBST from saving the core.
+Last but not least, after a Meltdown starts, E-Coolant must be considered to prevent PBST from saving the core.
 [details="E-Coolant Information"]
 # E-Coolant Overview
 E-Coolant, or Emergency Coolant, is a gameplay aspect that lets users have a chance at saving the core once a Meltdown begins. It is located in Sector G, both doors require the code **5334118** to open. 
@@ -561,9 +562,9 @@ The more e-coolant succeeds in a consecutive amount the less effective it is. Th
 
 ![Screenshot_67|690x408](upload://6N7PK9gnvILTF55GwltiT9Lkr.png) 
 
-The E-Coolant door has an integrity system that is health-based. Upon reaching 0 health, the door will malfunction and open partially for a short period of time, before falling down and temporarily locking itself while it is self-repairing. 
+The E-Coolant door has an integrity system that is health-based. Upon reaching 0 health, the door will malfunction and open partially for a short period, before falling down and temporarily locking itself while it is self-repairing. 
 
-It is important to take advantage of this when TMS is not controlling E-Coolant. It is just as important to protect the door by deploying fields in front of it to block bullets from passing into the door. The door self-repairs itself after not taking damage for 5 seconds, and will continue to heal itself until it takes damage again or reaches max health. 
+It is important to take advantage of this when TMS is not controlling E-Coolant. It is just as important to protect the door by deploying fields in front of it to block bullets from passing into the door. The door self-repairs itself after not taking damage for 5 seconds and will continue to heal itself until it takes damage again or reaches max health. 
 
 </div>
 [/details]
@@ -586,12 +587,12 @@ You are unable to appeal a ranklock from the result of a promotion cooldown.
 
 Operative+ are granted the ability to see raid alerts a few minutes early. 
 
-This lets more ranked members ensure a slot if they are wishing to attend a specific marked raid rather than fighting with others to join. 
+This lets more ranked members ensure a slot if they wish to attend a specific marked raid rather than fighting with others to join. 
 
-There are few rules that come along with this:
-1. Until the raid is publicly announced, you may **not** begin the raid internally. Once the raid has been announced publicly wait about a minute or so then you can begin the actual raid. Until then you are not to touch core controls with the intention of furthering the final objective. You can help setup the core to be in the appropriate starting range and stable (if melt/freeze is an objective).
+Few rules come along with this:
+1. Until the raid is publicly announced, you may **not** begin the raid internally. Once the raid has been announced publicly wait about a minute or so then you can begin the actual raid. Until then you are not to touch core controls to further the final objective. You can help setup the core to be in the appropriate starting range and stable (if melt/freeze is an objective).
 2. If you are joining after an EAS has been sent out and before the public is alerted, you are expected to go TMS. Failure to do so can risk being reported for abusing your authority as Operative+. 
-3. You are asked not to share EAS alerts with non-Operatives or people who are not intending on responding to a raid as TMS. You risk getting the other person in trouble for doing so as well.
+3. You are asked not to share EAS alerts with non-Operatives or people who do not intend to respond to a raid as TMS. You risk getting the other person in trouble for doing so as well.
 
 ---
 This handbook is always a work in progress.
@@ -607,7 +608,7 @@ Signed,
 
 
 
-*Last updated February 25th, 2024*
+*Last updated March 25th, 2024*
 
 -------------------------
 
