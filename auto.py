@@ -74,7 +74,7 @@ while True:
     elif latestpbst_data.content == error502:
         print("PBST data returned a 502, skipping")
         os.remove(latestpbst_path)
-    elif latestpbst_data.content.startswith(b'<html lang="en-US" data-ember-extension="1">'):
+    elif latestpbst_data.content.startswith(b'<html'):
         print("PBST data returned a DevForum error, skipping")
         os.remove(latestpbst_path)
     elif latestpbst_data.content == error504:
@@ -95,7 +95,7 @@ while True:
         print("PET data returned blank, skipping")
     elif latestpet_data.content == error502:
         print("PET data returned a 502, skipping")
-    elif latestpet_data.content.startswith(b'<html lang="en-US" data-ember-extension="1">'):
+    elif latestpet_data.content.startswith(b'<html'):
         print("PET data returned a DevForum error, skipping")
     elif latestpet_data.content == error504:
         print("PET data returned a 504, skipping")
@@ -114,7 +114,7 @@ while True:
         print("TMS data returned blank, skipping")
     elif latesttms_data.content == error502:
         print("TMS data returned a 502, skipping")
-    elif latesttms_data.content.startswith(b'<html lang="en-US" data-ember-extension="1">'):
+    elif latesttms_data.content.startswith(b'<html'):
         print("TMS data returned a DevForum error, skipping")
     elif latesttms_data.content == error504:
         print("TMS data returned a 504, skipping")
@@ -133,7 +133,7 @@ while True:
         print("PB data returned blank, skipping")
     elif latestpb_data.content == error502:
         print("PB data returned a 502, skipping")
-    elif latestpb_data.content.startswith(b'<html lang="en-US" data-ember-extension="1">'):
+    elif latestpb_data.content.startswith(b'<html'):
         print("PB data returned a DevForum error, skipping")
     elif latestpb_data.content == error504:
         print("PB data returned a 504, skipping")
