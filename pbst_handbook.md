@@ -1,4 +1,4 @@
-ood23doc | 2024-03-23 10:32:15 UTC | #1
+yoshifan0312 | 2026-03-03 06:01:29 UTC | #1
 
 <div align="center">
 
@@ -6,26 +6,26 @@ ood23doc | 2024-03-23 10:32:15 UTC | #1
 
 </div> 
 
-<div align="center"><h1>Pinewood Builders Security Team</h1></div>
+ [<div align="center"><h1> Pinewood Builders Security Team </h1></div>](https://www.roblox.com/communities/645836/Pinewood-Builders-Security-Team#!/)
 
 The following document is the official handbook of the Pinewood Builders Security Team, written by the Trainers. Please read it carefully. Any changes to this handbook will be made clear.
 
-PBST is the private paramilitary force of Pinewood Builders. PBST protects the facilities, staff, and other assets of Pinewood Builders- a group that develops military weapons, space technology, and other things that push the limit of Roblox.
+PBST is the private paramilitary force of Pinewood Builders. PBST protects the facilities, staff, and other assets of Pinewood Builders–a group that develops military weapons, space technology, and other things that push the limit of Roblox.
 
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 23rd March: Minor changes
+`Last Update:` 3 March: Added info on PET Mega Patrols in "PET Patrol Support" section
 
 <div align="center"><h1>General Reminders</h1></div>
 
 * Follow the [ROBLOX Community Rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) and the [Pinewood Builders Game Rules](https://devforum.roblox.com/t/pinewood-builders-game-rules/907637) **at all times**. Exploiting and glitching, in particular, is a big no-no.
 
-* We are not at war with any other science group for that matter. Active hostility against them is not tolerated!
+* We are not at war with any other science group for that matter. Active hostility against them is not tolerated.
 
 * Do not try to evade punishment. Doing so will only make it worse for yourself.
 
-* Do not steal any assets that relate to Pinewood Builders or its members, including but not limited to; Game assets, uniforms, and community-made artwork. **You will be blacklisted if you refuse to remove stolen assets.**
+* Do not steal any assets that relate to Pinewood Builders or its members, including but not limited to: game assets, uniforms, and community-made artwork. **You will be blacklisted if you refuse to remove stolen assets.**
 
 * You are not allowed to share/sell accounts with PBST points/ranks.
 
@@ -39,7 +39,7 @@ We band together as a team, together we are an unstoppable force.
 
 <div align="center"><h1>Going On-Duty</h1></div>
 
-In order to be properly recognized as a Security Officer; you must fill in the proper requirements to be on-duty.
+In order to be properly recognized as a Security Officer, you must fulfill the proper requirements to be on-duty.
 
 **The requirements for being on-duty are:**
 
@@ -47,13 +47,15 @@ In order to be properly recognized as a Security Officer; you must fill in the p
 
 * A Security uniform (in-game uniform givers or any combination of shirts and pants from the PBST group store with some exceptions listed in the store).
 
+* Modified or Custom uniforms are not allowed to be worn on duty as they’re not observed as official uniforms. Additionally, modifying official PBST uniforms without permissions may result in moderation action. Only Special Defense+ may request and wear custom uniforms.
+
 * The uniform must be clearly seen. You may not wear packages and oversized cosmetics that fully obstruct the Security uniform. In addition, wearing layered clothing is completely banned. In PBCC, you are allowed to use the PET hazmat and PET fire suits as the uniform can still be worn above them.
 
 * Any individual with just one of these requirements is not on-duty for PBST and is considered a neutral. Do not harass visitors about getting a uniform/ranktag in order to be on-duty for PBST.
 
 **In PBCC, you are allowed to use alternatives for the uniform to be considered on-duty:**
 
-* !pbsthazmat WHILE wearing the PET hazmat suit;
+* PET hazmat while wearing !pbsthazmat over it or any PBST Uniform;
 
 * The reactor core suit found near the decontamination area (spacesuit).
 
@@ -63,7 +65,9 @@ In order to be properly recognized as a Security Officer; you must fill in the p
 
 *  You may not use TMS and PET sub-group tools while on-duty for PBST. This is a violation of the Security handbook in addition to a violation of TMS/PET handbooks, respectively.
 
-* While off-duty, you may not possess PBST tools or weapons. Before going off-duty, they must be removed from your inventory if you have them.
+* It is discouraged to wear TMS uniforms as PBST.
+
+* While off-duty, you may not possess PBST tools or weapons. Before Going Off-Duty, they must be removed from your inventory if you have them.
 
 * Whilst on PBST duty, you are NOT allowed to be a zombie.
 
@@ -77,9 +81,9 @@ The following section outlines some important information for those who are on-d
 
 [details="Weapon Use"]
 
-Be very sure to use your weapons responsibly while on PBST duty. Do not use PBST Weapons to randomly kill players or to cause a melt-or freezedown, the only exception being if TMS is hosting a reverse raid or a Trainer gives a direct order.
+Be very sure to use your weapons responsibly while on PBST duty. Do not use PBST Weapons to randomly kill players or to cause a meltdown or freezedown, the only exception being if TMS is hosting a reverse raid or a Trainer gives a direct order.
 
-You also can not use tools & weapons from other Pinewood subgroups like PET or TMS while on duty as PBST. Make sure they’re not in your inventory. If you use non-PBST weapons on duty, such as OP weapons or credit-earned guns, you will still have to follow the same rules as if they were PBST weapons.
+You also cannot use tools & weapons from other Pinewood subgroups like PET or TMS while on duty as PBST. Make sure they’re not in your inventory. If you use non-PBST weapons on duty, such as OP weapons or credit-earned guns, you will still have to follow the same rules as if they were PBST weapons.
 
 ![image|690x455](upload://s5IcXu5grov8mKK2B9cm2K8kiy6.png)
 
@@ -87,23 +91,38 @@ You also can not use tools & weapons from other Pinewood subgroups like PET or T
 
 [details="Warning System"]
 
-In cases of incidents such as someone causing a meltdown or freezedown, **ALWAYS** give them a warning first. If it is needed, a Taser can be used when warning someone. Warnings may also be given for wholly endangering the facility in other ways such as allowing the pressure to reach critical levels in PBOP.
+In incidents such as a meltdown or freezedown, always give a warning first. If it is needed, a Taser can be used when warning someone. Warnings may also be given for wholly endangering the facility in other ways, such as allowing the pressure to reach critical levels in PBOP.
+
+Warnings may be verbal if users can chat, or non-verbal if users cannot chat. Non-verbal warnings include:
+
+* Single warning strike (baton)
+* Single tase
+* Single warning shot
+* Turning from side-to-side ("no") while using shift lock or first-person
 
 You are required to provide at least **one warning** before engaging in combat if the player is not acting aggressively.
 
 ONLY engage in combat if they do not listen and begin to attack PBST or visitors.
 
-You should also give a warning to people who are touching core controls such as fans, coolant, lasers etc. If, after your warning, they continue to touch controls which is resulting in the temperature heading closer to a meltdown or freezedown, only then can you engage in combat.
+You should also give a warning to people who are touching core controls such as fans, coolant, lasers, and other core controls. If, after your warning, they continue to touch controls which is resulting in the temperature heading closer to a meltdown or freezedown, only then can you engage in combat.
 
 If unprepared for blackouts, lack of fuel for the emergency generators at PBCC can result in uncontrollable heating. Outside of blackout events, you may kill visitors after a single warning for turning on the PBCC emergency generators if it is disadvantageous to protecting the core (that is: if the core is not approaching freezedown
 
+It is a warnable offense to activate the fire suppression system. This means you are required to give one warning to anyone if it is activated falsely. 
+
+In the case that a button is pushed with several people within proximity of the button, you may warn the entire group.
+
 Zombies and TMS members are automatically set on Kill-on-Sight, and require no warning before you confront them.
 
-**Visitors with the PIA ranktag may never be attacked (even if they're anti-core). The only exception is self-defense/an ET+ KOS order.**
+**Visitors with the PIA ranktag may never be attacked (even if they're anti-core). The only exception is self-defense/a T3+ KOS order.**
 
 There are some exceptions where you do not need to provide a warning before shooting someone, listed below:
 
 **On a few occasions, you can kill players *without needing to warn them first* if they:**
+
+* Have been warned and killed for changing the core controls to melt- or freezedown (or breaking other rules), and still come back to do the same
+
+* Were hostile to Security, and are now changing the core controls to melt- or freezedown
 
 * They are trying to lock the reactor power button at PBCC that would give PBST a disadvantage with meltdown/freezedown.
 
@@ -115,13 +134,15 @@ There are some exceptions where you do not need to provide a warning before shoo
 
 * They are setting trains on fire.
 
-* They are igniting cargo boxes or vehicles on fire during TMS chaos raids.
+* They are igniting cargo boxes or vehicles on fire during TMS chaos raids or PET patrols.
 
 * (Only when the core is less than 1000° away from melt- or freezedown) They are using the core controls that gives PBST a disadvantage.
 
 * (Only during melt- or freezedown) They are messing with emergency coolant and rockets at PBCC.
 
-* They attack or kill other PBST or visitors, except in the case of self-defence.
+* PBST may kill people without warnings for disabling the satellite connection during an on-going missile event.
+
+* They attack or kill other PBST or visitors, except in the case of self-defense.
 
 * All PBST warnings are optional in private servers.
 
@@ -140,7 +161,7 @@ There are some exceptions where you do not need to provide a warning before shoo
 
 - SK - Spawnkilling
 
-- KOS: Kill on Sight
+- KOS: Kill-on-Sight
 
 - YSR: Yes Survivor Run
 
@@ -153,7 +174,7 @@ There are some exceptions where you do not need to provide a warning before shoo
 - CS - Shorthand for **Coolant Sector** in PBCC (coolant pumps and coolant generation)
 
 **Terms:**
-- Kill on sight: A status given by ET+ to people in-game. People "on KOS" must be killed immediately. Note that there are overriding exceptions (one example: no spawnkilling).
+- Kill-on-Sight: A status given by T3+ to people in-game. People "on KOS" must be killed immediately. Note that there are overriding exceptions (one example: no spawnkilling).
 
 - Random killing: For neutrals: attacking anyone unless done self-defense. For PBST: attacking anyone unless allowed by the PBST handbook.
 
@@ -165,9 +186,9 @@ More information in Pinewood Builders Game Rules: https://devforum.roblox.com/t/
 
 [/details]
 
-[details="Automatic KOS"]
+[details="Automatic Kill-on-Sight"]
 
-The following list shows those who will automatically be on KOS, without the need of an ET declaring it:
+The following list shows those who will automatically be on KOS, without the need of a T3+ declaring it:
 
 * On-duty TMS (TMS ranktag + uniform/hazmat suit/reactor suit/fire suit, Inquisitors+: ranktag).
 
@@ -183,21 +204,19 @@ The following list shows those who will automatically be on KOS, without the nee
 
 [/details]
 
-[details="Cross KOS"]
+[details="Cross Kill-on-Sight"]
 
 During events, anyone put on KOS for PET are also automatically on KOS for PBST unless the KOS is deliberately removed for PBST by an Elite Tier+. This mechanic is called a Cross KOS. Conversely, during events, anyone put on PBST KOS is also on PET KOS by default.
 
-PET Elite Respondent+ cannot call a Cross-KOS if they are attending as PBST and are not Elite Tier+ in PBST, and PBST Elite Tier+ cannot do the same as on-duty PET if they are not Elite Respondent+ in PET.
+PET Lieutenants+ cannot call a Cross-KOS if they are attending as PBST and are not Elite Tier+ in PBST, and PBST Elite Tier+ cannot do the same as on-duty PET if they are not PET Lieutenants+ in PET.
 
 [/details]
 
 [details="Automatic Restriction"]
 
-During the e-coolant phase, PBST can tell people to leave after giving them a single warning if they want to. If the warning is not followed, the visitor is free to be killed.
+During the e-coolant phase, PBST can kill visitors inside e-coolant at will. You may choose to not kill neutrals in e-coolant if you believe they pose no risk, however, don’t obstruct fellow PBST members if they choose to do otherwise.
 
-The warning must be directed at a specific person/group of people as any other warning would. In effect, this is an automatic authorization for a room restriction.
-
-You may choose not to ask neutrals in e-coolant to leave if you believe they pose no risk, however, don't obstruct fellow PBST members if they choose to do so otherwise.
+During an on‑going missile event, the Satellite Uplink/Control room is automatically room‑restricted whenever an official event is active (PBST patrols, Raid Responses, or PET Patrol Support).
 
 [/details]
 
@@ -217,7 +236,7 @@ When a room restriction is not declared, you may never warn a visitor to leave a
 
 [details="Sentry Rules"]
 
-**There are a few rules regarding the PBST's new Portable Sentry tool:**
+**There are a few rules regarding the PBST's Portable Sentry tool:**
 
 **-** Destroying a PBST sentry (or a hacked TMS sentry) as PBST is prohibited without the permission of the sentry owner, or the highest-ranking on-duty PBST member on the server if the owner is not present.
 
@@ -232,43 +251,41 @@ When a room restriction is not declared, you may never warn a visitor to leave a
 
 ***[COMMUNICATION SERVER ONLY]***
 
-With use of Patrol Remittance system you can submit a video of yourself self-patrolling as PBST and earn points for that! To get started please use the dedicated 
-forum in the communication server to start the process.
+With the use of the Patrol Remittance system, you can submit a video of yourself patrolling as PBST and earn points. To get started please use the dedicated forum in the communication server to start the process.
 
 **Rules:**
 * Do **NOT** abuse this system, you'll be blacklisted from this feature if you do so;
 * You may not submit videos from official events
-* There's **24 hours cooldown** per request;
+* There's a **4 day cooldown** per request;
 * The video may **NOT** be shorter than 15 minutes;
-* The video **SHOULDN'T** be longer than 60 minutes;
+* The video **SHOULDN'T** be longer than 25 minutes;
 * The video should not be cut at all, you must show the entire duration you were patrolling for;
 * Rules can be added at any time
 
 **The point scale for PRs is as follows:** 
 * **15** minutes = **2** points
-* **30** minutes = **3** points
-* **45** minutes = **4** points 
-* **60** minutes = **5** points
+* **25** minutes = **3** points
 
 [/details]
 
 [details="Reward Requests"]
 
-Saw a fellow Security member do their job very well? Request a reward for them! In the Communication Server, please use the dedicated channel in order to request a reward to someone else for showing a good performance outside of PBST events.
+Saw a fellow Security member do their job very well? Request a reward for them. In the Communication Server, please use the dedicated channel in order to request a reward to someone else for showing a good performance outside of PBST events.
 
 Reward request rules:
 1. You can only request a reward for someone in your rank or under your rank.
 2. The rank-tag and the uniform of the person concerned must be clearly visible in the screenshot.
-
-3. The UTC in-game timer must be taken in the screenshot.
-4. Only use this channel to request rewards, do not talk here.
-5. You cannot request a reward for someone doing well during a PBST event.
+3. You must be at least Cadet+
+4. The UTC in-game timer must be taken in the screenshot.
+5. Only use this channel to request rewards, do not talk here.
+6. You cannot request a reward for someone doing well during a PBST event.
+7. You have to wait 24 hours before sending another reward request.
 
 [/details]
 
 [details="Rogue Users"]
 
-On the other hand, if a Security member is found breaking a rule in the handbook, alert them of their wrongdoing and give them a warning. If said Security member doesn’t listen or actually uses their weapons irresponsibly, kill them. if you saw same Security member breaking some rules even after being warned, request a punishment request!
+On the other hand, if a Security member is found breaking a rule in the handbook, alert them of their wrongdoing and give them a warning. If said Security member doesn’t listen or actually uses their weapons irresponsibly, kill them. if you saw same Security member breaking some rules even after being warned, request a punishment request.
 
 In order to report a rulebreaker, please use the dedicated forum in the 
 Communications Server to send a handbook violation report. Like Reward Requests, you'll need very good evidence of the person committing violations, as well as proof that you've warned them.
@@ -279,7 +296,7 @@ If a **Tier or higher** is being abusive with their weapons, record the evidence
 
 Exploiting is using any external program to alter gameplay, such as macros, and Lua injectors/executors. Exploiting is against the Roblox Community Standards and Pinewood Builders Game rules. 
 
-If the person is breaking PB Game rules and is still in the server, run the command "!call" in chat and call for PIA. Once the PIA joins, ***DO NOT*** **let others know of their presence in chat.** Although keep in mind that **exploiters are on Kill on Sight** and you should kill them.
+If the person is breaking PB Game rules and is still in the server, run the command "!call" in chat and call for PIA. Once the PIA joins, ***DO NOT*** **let others know of their presence in chat.** Although keep in mind that **exploiters are on Kill-on-Sight** and you should kill them.
 
 If the person leaves before you had time to call PIA, you can instead use the dedicated forum in the Communications Server in order to send an abuser/exploiter report. Be sure to capture evidence of said person committing violations.
 
@@ -289,9 +306,9 @@ If the person leaves before you had time to call PIA, you can instead use the de
 
 [details="Tier 2/3 Consensus"]
 
-When qualifying for a promotion to Tier 2 and Tier 3, Trainers will review your behaviour for the status of a ranked member again.
+When qualifying for a promotion to Tier 2 and Tier 3, ET+ will review your behavior for the status of a ranked member again.
 
-If the consensus for a promotion to Tier 2 and Tier 3 is failed, you will be demoted to the rank of Cadet since, by confirming that a promotion to Tier 2/Tier 3 isn’t appropriate, you are unfit to have the maturity required for these ranks.
+If the consensus for a promotion to Tier 2 or Tier 3 is failed, you will be demoted to the rank of Cadet since, by confirming that a promotion to Tier 2/Tier 3 isn’t appropriate, you are unfit to have the maturity required for these ranks.
 
 Previous ranked members that left on good terms and wish to return to their previous positions will be required to pass the consensus before their rank is restored.
 
@@ -315,7 +332,7 @@ Additionally, the coolant pipe at the mainframe can be sabotaged, reducing its c
 
 [details="E-Coolant"]
 
-If a meltdown does occur, go to the Emergency Coolant at Sector G to try to rescue the core. Use the Security Code to get in (5334118) and bring the rods to levels between **69% and 81%**. Keep as many rods as possible within green range until the timer hits 0!
+If a meltdown does occur, go to the Emergency Coolant at Sector G to try to rescue the core. Use the Security Code to get in (5334118) and bring the rods to levels between **69% and 81%**. Keep as many rods as possible within green range until the timer hits 0.
 
 **Success rates and core temp vary depending on how many rods are correctly filled:**
 
@@ -353,9 +370,11 @@ Even though the taser is a non-deadly weapon, **it can only be used** if a deadl
 
 [details="Teamswitching"]
 
-During events you are **NOT allowed to switch team** you are attending as under any circumstance. Doing so will result in a point deduction in PBST along with ending up on Kill on Sight.
+During events you are **NOT allowed to switch the team** you are attending as under any circumstance. Doing so will result in a point deduction in PBST along with ending up on Kill on Sight.
 
 Teamswitching refers to switching from PBST to be PET, TMS, or an anti-core neutral (or vice-versa).
+
+**Feigning event attendance is forbidden.** Punishments for pretending to participate in an event, team-switching to disrupt an event, or otherwise acting in bad faith are applicable even if the person is not officially on-duty for PBST.
 
 [/details]
 
@@ -373,10 +392,18 @@ Nuke trains are an additional danger since the nukes can explode, killing everyo
 
 Glitching is completely disallowed no matter how miniscule it is while you are on-duty for PBST.
 
+Examples of glitches include:
+
+* Dance clip glitch
+* Forklift glitch
+* Rocket spaceship and gravity coil glitch
+* Flying vehicles glitch
+* Wallshooting glitch
+
 [/details]
 
 [details="Mutants"]
-Mutants are on automatic Kill-On-Sight; you are free to kill them if you spot one.
+Mutants are on automatic Kill-on-Sight; you are free to kill them if you spot one.
 Security members are not allowed to be mutants whilst on duty.
 
 [/details]
@@ -385,7 +412,7 @@ Security members are not allowed to be mutants whilst on duty.
 
 <div align="center"><h1>Ranks</h1></div>
 
-To rank up in the group, you need PBST points, which you can earn in various different ways. You can view your point stats with the in-game `!mypoints` command. Below lists all of the achievable ranks in PBST.
+To rank up in the group, you need PBST points, which you can earn in various different ways. You can view your point stats with the in-game `!mypoints` command. Listed below are all of the achievable ranks in PBST.
 
 [details="Trainee"]
 
@@ -395,7 +422,7 @@ The classic entry rank for PBST.
 
 **Tools:**
 
-* **Weak PBST Baton** - Deals minimal damage against players
+* **Weak PBST Baton** - Deals minimal damage against players.
 
 * **Riot Shield** - A shield that defends against rifles, SMG and pistol shots, and makes a small clank sound when hit by a bullet.
 
@@ -405,15 +432,23 @@ The classic entry rank for PBST.
  
 # Cadet
 
-This is the first achievable rank past the entry rank in PBST. This rank will prove your willingness to ascend further in the community by distinguishing yourself from new members. You will be provided new weapons in order to mark your way to the first Tier rank. **Requirements:** Get 20 Points (keep in mind PBCC credits **are not** PBST divisional points!)
+This is the first achievable rank past the entry rank in PBST. This rank will prove your willingness to ascend further in the community by distinguishing yourself from new members. You will be provided new weapons in order to mark your way to the first Tier rank. 
+
+**Requirements:** 
+
+Get 20 Points (keep in mind PBCC credits **are not** PBST divisional points).
 
  **Tools:**
 
 * **Increased Damage PBST Baton** - Deals minimal damage against players
 
-* **Riot Shield** - A shield that defends against rifles, SMG and pistol shots, and makes a small clank sound when hit by a bullet.
+* **Riot Shield** - A shield that defends against rifles, SMG and pistol shots, and makes a small clank sound when hit by a bullet
   
-* **Riot Shotgun** - The classic sit gun which stuns enemies when used against players 
+* **Riot Shotgun** - The classic sit gun which stuns enemies when used against players
+
+**Permissions:**
+
+* Ability to request for PBST backup via the !call command
 
 [/details]
 
@@ -421,27 +456,27 @@ This is the first achievable rank past the entry rank in PBST. This rank will pr
 
 # Tier 1
 
-Ascending further, Tier 1 are granted a PBST Pistol and a ranked baton which deal a decent amount of damage to players.
+Ascending further, Tier 1 are granted a PBST Pistol and a ranked baton which deal a decent amount of damage to players
 
 **Requirements:**
 
-Get 75 Points (keep in mind PBCC credits **are not** PBST divisional points!)
+Get 75 Points (keep in mind PBCC credits **are not** PBST divisional points).
 
 Complete the Tier 1 Evaluation
 
 **Evaluation:** Hosted at PBSTAC
 
-*Phase 1:*  Fighting both sword and gun bots (starting with the one that the evaluated person prefers). You have to successfully complete at least ONE of the arenas. If you do not, you will have one last free re-try on the arena of your choice.
+*Phase 1:*  Fighting both sword and gun bots (starting with the one that the evaluated person prefers). You will also receive a pistol for the gun bot phase. You have to successfully complete at least ONE of the arenas. If you do not, you will have one last free re-try on the arena of your choice.
 The HP stats are as follows:
--**150** HP for Sword Bots (bots are level 1)
--**200** HP for Gun Bots (bots are level 1)
+- **150 HP** for Sword Bots (bots are level 1 and spawn every 7 seconds)
+- **200 HP** for Gun Bots (bots are level 1 and spawn every 7 seconds)
 
-*Phase 2:* Avoid every shot from the level 1 Juggernaut for 30 seconds. The goal is to purely dodge the shots, you will not be given any weapons and you will be set at 150 HP.
+*Phase 2:* Survive the level 1 Juggernaut for 30 seconds. The goal is to purely dodge the shots, you will not be given any weapons and you will be set at 150 HP.
 
 *Phase 3:* Quiz - You will need to get at least 6 questions right out of a given 8 questions. Quiz will range from handbook knowledge to certain scenarios etc
 
-Phase 3 can also be done via the Quiz game, 
-(Coming back soon)
+Phase 3 can also be done via the [Quiz game](https://www.roblox.com/games/17183476605/PBST-Quiz-Hub)
+
 
 After the full evaluation is done, a proper consensus check will take place by ET+ to determine whether you are suitable enough for the Tier 1 rank. (This can take up to 48 hours to complete)
 
@@ -457,7 +492,7 @@ After the full evaluation is done, a proper consensus check will take place by E
 
 **Permissions:**
 
-* Ability to request for PBST backup via the !call command
+* Same as Cadet.
 
 [/details]
 
@@ -473,12 +508,15 @@ You must first be Tier 1 for at least 3 weeks
 
 Get 200 Points
 
-*Phase 1:*  Fighting both sword and gun bots (starting with the one that the evaluated person prefers). You have to successfully complete at least ONE of the arenas.
-The HP stats are as follows:
--**150** HP for Sword Bots (bots are level 2)
--**200** HP for Gun Bots (bots are level 2)
+*Phase 1:*  Fighting both sword and gun bots (starting with the one that the evaluated person prefers). You have to successfully complete at least ONE of the arenas. You are provided with pistol and rifle for the gun bot phase.
+- **150 HP** for Sword Bots (bots are level 2 and spawn every 7 seconds)
+- **200 HP** for Gun Bots (bots are level 2 and spawn every 7 seconds)
 
-*Phase 2:* Quiz - ( added and to be enforced at a later date)
+*Phase 2:* Core Simulation - Toggle off all lasers and set Reactor Power to 1 within 30 seconds, you will be given a ROBLOX speed coil gear for this
+
+*Phase 3* [Quiz](https://www.roblox.com/games/17183476605/PBST-Quiz-Hub) 
+
+You will be required to get at least 7 questions correct out of 8 given to pass
 
 Pass Consensus Check (This can take up to 48 hours to complete)
 
@@ -496,7 +534,7 @@ Pass Consensus Check (This can take up to 48 hours to complete)
 
 **Permissions:**
 
-Same as Tier 1.
+* Same as Tier 1.
 
 [/details]
 
@@ -504,7 +542,7 @@ Same as Tier 1.
 
 # Tier 3
 
-This is the final rank that can be earned by meeting point requirements. They have proven themselves to be capable security officers able to patrol Pinewood facilities with lethal weapons on their own.
+This is the final rank that can be earned by meeting point requirements. They have proven themselves to be capable Security Officers able to patrol Pinewood facilities with lethal weapons on their own.
 
 **Requirements:**
 
@@ -522,9 +560,9 @@ Pass Tier 3 Evaluation
 
 *Phase 3:* Shooting Range - get at least 20 hits within the 45 seconds (targets have high hp amount so they don't die + their speed is lowered to 10, everything else is default)
 
-*Phase 4:* Core Simulation - Toggle off all lasers and set Reactor Power to 1 within 30 seconds, you will be given roblox speed coil gear for this
+Phase 4: [Quiz](https://www.roblox.com/games/17183476605/PBST-Quiz-Hub) 
 
-Phase 5: Quiz (added and to be enforced at a later date)
+You will be required to get at least 9 questions correct out of 10 given to pass
 
 After the full evaluation is done, a proper consensus check will take place by ET+ to determine whether you are suitable enough for the Tier 3 rank. (This can take up to 48 hours to complete)
 
@@ -544,7 +582,9 @@ After the full evaluation is done, a proper consensus check will take place by E
 
 **Permissions:**
 
-Same as Tier 1 and 2.
+* Same as Tier 1 and 2.
+
+* Ability to issue PBST Kill-on-Sight orders outside of all subgroup events if PBST goals are threatened (active only while the Tier 3 is on-duty), and during PET Patrols if no ET+ is present and no support event is active.
 
 * Access to the Firing Range and SF arena controls
 
@@ -562,21 +602,19 @@ You must first be Tier 3
 
 Handpicked for a Elite Tier Evaluation:
 
-**-** Hosting a raid response supervised by Trainer against official Syndicate Raid. It doesn't matter if PBST wins it or not, hosting abilities is what gets tested.
-
 **-** Hosting a patrol
 
 **Tools:**
 
 * **Healing Shield** - A deployable shield with healing powers
 
-* Gravity Disruptor
+* **Gravity Disruptor** - A deployable shield with gravity manipulation powers
+
+* **UPG Pistol** - An upgraded pistol that deals a high amount of damage towards enemies
 
 * PBST Submachine Gun
 
 * PBST Rifle
-
-* PBST Pistol
 
 * Taser
 
@@ -586,8 +624,6 @@ Handpicked for a Elite Tier Evaluation:
 
 **Permissions:**
 
- 
-
 * Ability to host official pointed patrols.
 
 * Ability to host an official raid response.
@@ -596,7 +632,7 @@ Handpicked for a Elite Tier Evaluation:
 
 * Ability to host gamenights
 
-* Ability to issue PBST KOS orders.
+* Ability to issue PBST Kill-on-Sight orders. ETs do not have to be in-game to issue them.
 
 * Ability to issue room restrictions for the duration of PBST patrols & raid responses.
 
@@ -604,13 +640,15 @@ Handpicked for a Elite Tier Evaluation:
 
 * Ability to report troublesome members for Trainer review.
 
+* Allowed to override any KOS orders for users below them in rank.
+
 [/details]
 
 [details="Special Defense"]
 
 # Special Defense
 
-Special Defense is the fifth achievable rank within Security and is first HR rank within the group. They represent the exemplary members of the group and are given the permission to organize PBST trainings, touraments as well as moderation access in the Communication Server.
+Special Defense is the sixth achievable rank within Security and is first HR rank within the group. They represent the exemplary members of the group and are given the permission to organize PBST trainings, tournaments as well as moderation access in the Communication Server.
 
 **Requirements:**
 
@@ -629,13 +667,13 @@ Handpicked for a Special Defense Evaluation
 
 * **Blue Katana** - A very high-damage katana
 
-* **UPG Pistol** - An upgraded pistol that deals a high amount of damage towards enemies
-
 * **UPG Rifle** - An upgraded rifle that deals a high amount of damage towards enemies
 
 * Healing Shield
 
 * Gravity Disruptor
+
+* UPG Pistol
 
 * PBST Submachine Gun
 
@@ -665,7 +703,7 @@ Handpicked for a Special Defense Evaluation
 
 * Granted smartlogs read and edit access in-game and in the Communication Server.
 
-* If chosen, they are allowed to host a server during a PBST MEGA Training.
+* If chosen, they are allowed to host a server during a PBST Mega Training.
 
 * Allowed to host gamenights.
 
@@ -719,7 +757,7 @@ Nomination vote by a Trainer+, majority vote must be reached before being promot
 
 * Allowed to host any type of PBST event.
 
-* Allowed to schedule and set up a PBST MEGA Training.
+* Allowed to schedule and set up a PBST Mega Training.
 
 * Allowed to override any KOS orders for users below them in rank.
 
@@ -746,11 +784,11 @@ Nomination vote by a Trainer+, majority vote must be reached before being promot
 [details="Head of Security"]
 
 # Head of Security
-The third HR rank within PBST, it is also final achievable rank within the group. It is essentially the leader of PBST and is currently held by ood23doc. 
+The third HR rank within PBST, it is also final achievable rank within the group. It is essentially the leader of PBST and is currently held by yoshifan0312. 
 Head of Security along with Trainers manages the group and represents good image of PBST by attending as much events as he can.
 
 **Requirements:**
-Handpicked by Diddleshot 
+Handpicked by Tokaisho
 
 **Tools:**
 Same as Trainer
@@ -762,7 +800,7 @@ Same as Trainer
 
 * Ability to veto any of the votes,
 
-* Organize and host PBST MEGA Trainings
+* Organize and host PBST Mega Trainings
 
 * Overall being responsible for all changes done to the group.
 
@@ -781,7 +819,7 @@ Trainings are common events organized by rank Special Defense and Trainers. In m
 
 Trainings are scheduled in advance and announced before their beginning, so it is recommended that you arrive in the training server 5 to 15 minutes before it starts. Trainings can be hosted at any PBST training facility or a private, PBST-owned PB game server.
 
-**When training, be sure to follow the guidelines below!**
+**When training, be sure to follow the guidelines below**
 
 * **Listen to the host and follow their orders.**
 
@@ -797,9 +835,9 @@ Intentionally disrupting the training as an attendee can lead to severe conseque
 
 [details="Tournament"]
 
-Think you got what it takes to win an intense, competitive event? Be sure to join a PBST Tournament!
+Think you got what it takes to win an intense, competitive event? Be sure to join a PBST Tournament.
 
-The winner attains 7 PBST points and a special “Event Winner” role in our communications server for a month until the next tournament’s winner.
+The winner attains 7 PBST points and a special “Tournament Winner” role in our communications server for a month until the next tournament’s winner.
 
 Attendees who do not win the tournament stand to gain up to 6 PBST points from the event.
 
@@ -831,23 +869,16 @@ The point distribution is as follows:
 
 There can be an additional 1-2 points extra as a bonus for those who show an amazing performance and communication.
 
-Pay attention to your event host and follow their instructions!
+Pay attention to your event host and follow their instructions.
 
 [/details]
 
 [details="Raid Responses"]
 
-Raid Responses are hosted by Elite Tiers+ in response to scheduled TMS raids. Point rewards are based on the level of the TMS raid.
-
-Practice Raid: 0 Points
-
-Level 1 Raid: 4 base points, +2 bonus points
-
-Level 2 Raid: 6 base points, +2 bonus points
-
-Level 3 Raid: 8 base points, +2 bonus points
-
+Raid Responses are hosted by Elite Tiers+ in response to scheduled TMS raids. 
 There are several types of raids with various objectives.
+
+ On attendance PBST can receive a maximum of 6 points with up to 2 extra bonus points.
 
 **Meltdown / Freezedown Raid:** During Meltdown/Freezedown Raids, TMS will attempt to cause the core to explode. During meltdown raids, you must cool the core to the best of your ability, while during freezedown raids, you must attempt to heat the core.
 
@@ -855,9 +886,9 @@ There are several types of raids with various objectives.
 
 **Incursion Raid:** During Incursions Raids, TMS will storm to a specified area and attempt to hold it. As PBST, your task is to converge upon said location and attempt to counter the TMS threat. They can be hosted as any levelled raid.
 
-**MEGA Raid:** MEGA Raids, officially known as Level 3 Raids, are rare events hosted by TMS, hosted a couple of times yearly, where multiple servers are raided at the same time. PBST must give a good defense in all of these servers.
+**Mega Raid:** Mega Raids, officially known as Level 3 Raids, are rare events hosted by TMS, hosted a couple of times yearly, where multiple servers are raided at the same time. PBST must give a good defense in all of these servers.
 
-MEGA Raids are announced in the PBST, PET and TMS communications servers well in advance and rallies at PBDSF are organized shortly before the event starts.
+Mega Raids are announced in the PBST, PET and TMS communications servers well in advance and rallies at TMSRS are organized shortly before the event starts.
 
 A reminder that TMS Raids are still a main event of TMS and not PBST's. PBST purely only attend the event. In VERY rare circumstances, there may come a raid where PBST (and PET) are possibly barred from attending.
 
@@ -886,7 +917,7 @@ Survivor runs remain in effect until the meltdown/freezedown sequence ends.
 
 [details="PET Patrol Support"]
 
-Awhile ago, PET introduced a new event in which PET responded to our patrols to give us assistance, and now we're returning the favour!
+A while ago, PET introduced a new event in which PET responded to our patrols to give us assistance, and now we're returning the favor.
 
 This event can be hosted by Elite Tier+, where PBST's role is to assist PET patrols by handling core controls and fighting TMS while PET are busy with handling whatever fires and chaos occurs.
 
@@ -894,18 +925,32 @@ PET Patrol Supports will not be announced until PET announces on their channels 
 
 In addition you are now allowed to kill neutrals causing chaos during PET patrols without giving a warning, before the change it was just during TMS events.
 
+PET Mega Patrols are rare events hosted by PET, hosted a couple of times yearly. Due to the magnitude of these events, PBST attendees may attain 3 base points in addition to 1 bonus point.
+
+[/details]
+
+[details="Mass Evaluations"]
+
+Mass evaluations are events hosted by Trainers which allow multiple attendees to be evaluated for a Tier rank.
+
+Attendees must meet the requirements for the evaluation they are taking. For example, Cadets attending a mass evaluation must have at least 75 points.
+
+Players can attend a scheduled mass evaluation if they do not want to (or are unable to) schedule a one-on-one evaluation with a Trainer.
+
+Mass evaluations are only done for combat and simulation phases. Complete the quiz phase at the [PBST Quiz Hub.](https://www.roblox.com/games/17183476605/PBST-Quiz-Hub)
+
 [/details]
 
 **Special Events:**
 
-[details="MEGA Trainings"]
+[details="Mega Trainings"]
 
-A very special kind of training exists called the MEGA Training! This is where a very large group of Security members rally up and train in multiple servers hosted by a Special Defense+. These events are uncommon, no more than once every 2 months, but yield a *LARGE* amount of points!
+A very special kind of training exists called the Mega Training. This is where a very large group of Security members rally up and train in multiple servers hosted by a Special Defense+. These events are uncommon, no more than once every 6 months, but yield a *large* amount of points.
 
-* During those events Trainers can host their section of MEGA Training at ANY game!
+* During those events Trainers can host their section of Mega Training at any game
 * Special Defense are limited to hosting only at official PBST training games
 
-If you attend the whole training and are on a good behaviour throughout, expect to earn a whopping **TWELVE POINTS!**
+If you attend the whole training and are on a good behaviour throughout, expect to earn a whopping **twelve points**
 
 [/details]
 
@@ -925,35 +970,36 @@ All hosts regardless of rank are expected to follow the hosting rules. Seen belo
 
 **Hosting rules for Elite Tier and above:**
 
-* ETs/SDs can host one patrol every 18 hours. There is no restriction PET Patrol Supports.
+* An ET/SD may host one PBST event every six hours.
 
-* SDs must have a six-hour gap between all trainings that they organize.
+* PBST events may not overlap other PBST events and sub-group mega events.
 
-* PBST events must not overlap mega events of other subgroups (PET, TMS).
+* PBST events must have a one-hour gap between other PBST events and sub-group mega events.
 
-* Patrols must have a two-hour gap before and after another patrol.
+* An ET/SD may schedule an event up to four weeks in advance.
 
-* **(FOR ELITE TIERS ONLY)** Events must have a one-hour gap before and after another PBST event.
+* Scheduling/expediting/delaying events must be done with respect to already existing event timecards
 
-* Events must have a one-hour gap before and after PB subgroup mega events (PET, TMS).
+* Response events (TMS/PET) and PBST mass evaluations are exempt from all aforementioned rules
 
-* Raid Responses do not apply to any hosting rules. They can be scheduled in response to any TMS raid on the schedule, can overlap PBST events, and can be hosted any number of times per day.
-
+*Trainers may be consulted for case-by-case exemptions to hosting rules.
 ---
 
 <div align="center"><h1>Global Rules</h1></div>
 
 PBST, PET and TMS Leadership have agreed to prevent unfair advantages to the best of their ability. During on-going events, there exists a multitude of Global Rules which needs to be followed by all subgroups during events. Below lists every one of them currently in force:
 
-1. Attendees are not allowed to glitch in any way, it is disallowed for all sides. If a neutral glitches during events, they will be on Global-KoS.
+1. Attendees are not allowed to glitch in any way, it is disallowed for all sides. If a neutral glitches during events, they will be on Global-Kill-on-Sight.
 
-2. Attendees are not allowed to "package abuse", which basically means attendees cannot make super small packages or other packages that can negatively impact other players, it is disallowed for all sides. If neutrals package abuses during events, they will be on Global-KoS.
+2. Attendees are not allowed to "package abuse", which basically means attendees cannot make super small packages or other packages that can negatively impact other players, it is disallowed for all sides. If neutrals package abuses during events, they will be on Global-Kill-on-Sight.
 
-3. Raid Blacklisted users are Global-KoS to all sides.
+3. Raid Blacklisted users are Global-Kill-on-Sight to all sides.
 
-4. Attendees cannot fight and kill each other in the main spawn area, the Security room, the Syndicate hideout, or the Emergency HQ. The only exception to this rule is if you're fighting someone and during the middle of it they decide to run to any of the mentioned areas in order to escape said fight, in which case you are free to kill them there.
+4. Attendees cannot fight and kill each other in the main spawn area, the Security room, the Syndicate hideout, the Emergency HQ, or the corridor connecting the PBCC main spawn area to the PBCC Emergency HQ. The only exception to this rule is if you’re fighting someone and during the middle of it they decide to run to any of the mentioned areas in order to escape said fight, in which case you are free to kill them there.
 
 5. To avoid team-killing and general confusion, on-duty PBST may not color their hazmat red during raids or patrols.
+
+6. You may not abuse the donor commands gamepass in-order to gain combat advantages during events.
 
 In these rules, "all sides" refers to all main pro-core and anti-core subgroups, PBST, PET and TMS.
 
@@ -963,14 +1009,14 @@ By committing any of the mentioned rules while also being on-duty for PBST, you 
 
 <div align="center"><h1>Security Rewards</h1></div>
 
-Have you proven to be a very competent and skillful member? You may be eligible for some rewards that PBST has to offer!
+Have you proven to be a very competent and skillful member? You may be eligible for some rewards that PBST has to offer.
 
 
 ![PBST defenders role logo|500x500, 10%](upload://cR29fX66CEj39p93yDte6F84zvn.png) **Defender of the Week:**
 
-Upon seeing someone showing outstanding performance during events such as Patrols and Raids over the course of a week, an event host can nominate said person for the Defender of the Week reward! The reward gives you a prefix on your rank tag and a pinkish-red role in the communications server as well as access to a special chat for winners and boosters!
+Upon seeing someone showing outstanding performance during events such as Patrols and Raids over the course of a week, an event host can nominate said person for the Defender of the Week reward. The reward gives you a prefix on your rank tag and a silver role in the communications server as well as access to a special chat for winners and boosters.
 
-- Only people between Cadet-Tier 3 can obtain this reward
+- Only people between Cadet–Tier 3 can obtain this reward
 
 -  Those who achieve the reward carry it for 1 week
 
@@ -979,7 +1025,7 @@ Upon seeing someone showing outstanding performance during events such as Patrol
 	
 ![image|420x420, 10%](upload://mmV7Im4dIqgGpScRj18e3Hl6Gmt.png) **Tournament Winner:**
 
-Won a PBST tournament? Flex your win with the Tournament Winner reward! This role is given when one successfully manages to attain 1st place in a tournament. After winning you will keep role for entire month but you won't be able to win the same type of tournament for the next 2 tournaments
+Won a PBST tournament? Flex your win with the Tournament Winner reward. This role is given when one successfully manages to attain 1st place in a tournament. After winning you will keep role for entire month but you won't be able to win the same type of tournament for the next 2 tournaments.
 
 ---
 
@@ -999,7 +1045,7 @@ However, unlike Security, Syndicate members are allowed to wear the hazmat and f
 
 Inquisitors have the same uniform override permissions as Special Defense for their group, therefore they do not need to wear an official TMS uniform to be considered on-duty. All they need to have on is their ranktag.
 
-**Bounderies of the TMS Hideout:**
+**Boundaries of the TMS Hideout:**
 
 ![94AHBAR|690x293](upload://pzCkm3A1rkTzddTmDGpnIoUa8I4.jpeg)
 
@@ -1017,7 +1063,7 @@ PBST are also authorised to help put out any fires or stop a hazmat spill if PET
 
 You can switch between being on-duty for PET or PBST by using the !setgroup command. PET has their own set of tools, whilst on PBST duty you may not use their tools.
 
-During events, anyone put on KOS for PET are also automatically on KOS for PBST unless the KOS is deliberately removed for PBST by an Elite Tier+ (Cross-KOS).
+During events, anyone put on Kill-on-Sight for PET are also automatically on KOS for PBST unless the KOS is deliberately removed for PBST by an Elite Tier+ (Cross-KOS).
 
 ![image|690x373](upload://kKZsO6Ipoe8oV8o2VSDeGXOmELB.png)
 
@@ -1033,7 +1079,7 @@ This handbook is always a work in progress and will be updated as time goes on.
 
 <div align="center"><h1>Security Leadership</h1></div>
 
-![Trainers2023|690x388](upload://spy4ONbpB11fhhFxHZWQUPq9rOm.jpeg)
+![GP-PBST-Leadership-Sep-2024|690x388](upload://qI52IhosOxfdEv29VCkgipk6AVc.jpeg)
 
 -------------------------
 

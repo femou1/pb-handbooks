@@ -1,4 +1,4 @@
-Coasterteam | 2024-02-26 04:39:31 UTC | #1
+Coasterteam | 2025-08-23 20:22:17 UTC | #1
 
 <div align="center"> 
 
@@ -19,26 +19,37 @@ Coasterteam | 2024-02-26 04:39:31 UTC | #1
 
 ---
 # Game Rules
+
 * Make sure to follow the [Roblox Community Rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) at all times! 
 
+
+
 * Exploiting is forbidden and will lead to an [b]immediate game ban[/b], upwards of a global group ban, if caught. 
--- This includes third-party programs, such as Lua injectors/executors and macros. 3rd party programs designed to give you an advantage over others that is not already in-game will be treated as an exploit. Anything that can damage or hurt the server infrastructure can be considered an exploit. 
+[details="More details on exploiting rules"]
+-- This includes third-party programs, such as Lua injectors/executors and macros. 3rd party programs designed to give you an advantage over others that is not already in-game will be treated as an exploit. Anything damaging or hurting the server infrastructure can be considered an exploit.
+-- Abusing glitches, like with the release of UGC emotes, to gain an unfair advantage over others (like a massive speed boost from UGC emotes) can be considered exploit-glitching. Temporary bans from 1-7d can be issued but we will provide warnings if possible.
+--- If we cannot pin an exact type of exploit but suspect you of using exploits we will issue a 30d ban. This will be a rare ban as 99% of the time we can take out what type of exploit it is and whether or not it was used. This covers the 1% of flags (excluding known false-positives) that we didn't act on since we were not sure exactly what was happening, but we knew it was an exploit.
+--- Macros to keep you from being AFK-kicked will result in a 3 day ban.  
 --- **EXCEPTION**: Use of FPS unlockers or auto-clickers does **not** warrant a gameban. 
 --- __See the "Autoclicker" rule for more information__
--- Getting caught exploiting, moderators are allowed to run just about any command on your client. 
+-- Getting caught exploiting, moderators can run just about any command on your client. 
 Be warned.
 -- Appealing an exploit ban is difficult and rare to go through
 -- Please remember, if you do appeal, be aware that we have evidence for exploit bans and can dispute most claims of "I wasn't exploiting so unban me". 
+[/details]
 
 
 * Spawns are meant as a safe zone, attacking other players in them is unwelcomed and will lead to warnings; leading up to a kick/ban depending on severity and occurrence. 
 -- Camping outside of a zone is frowned upon and still considered spawn killing (**SK**).
+-- Purposefully "spawn-baiting" someone into attacking you near a spawn area, only to cry wolf will lead to you being moderated instead. 
+--- Examples include pretending to AFK outside of a spawn area after killing another player in hopes of them revenge-killing you, then reporting them for SK (crying wolf).
 
 * Mass-Random Killing (**MRK**) is forbidden. Do not attack other players without a valid reason in mass.
 [details="More Details on MRK rule"]
 -- Clearing entire rooms of PBST/PET/TMS as a neutral is *not* considered abusive if they are consistently messing with core controls. 
+-- **IMPORTANT:** To be considered PBST/TMS/PET the player MUST fit their divisions criteria to be considered "on-duty". See below for direct links to each groups unique handbooks for specifics for each division.
 --- Attacking PBST/PET/Pro-Core as TMS/anti-core, or the other way around is not considered abusive.
---- **EXCEPTION**: Attacking divisional attendees (applies to everyone) in an STS area before/after an official event can be considered abusive. Before and after can be considered the host briefing attendees before the event starts and/or in the process of dismissing them. **NOTE:** PBCC offers hosts divisional protection when the host is standing on the podium and attendees are in the STS line. This prevents public weapons from dealing damage.
+--- **EXCEPTION**: Attacking divisional attendees (applies to everyone) in an STS area before/after an official event can be considered abusive. Before and after can be considered the host briefing attendees before the event starts and/or in the process of dismissing them. **You must wait for the crowd to disperse and/or leave the dismissal area before you can attack, unless the host has given direct permission for it.** **NOTE:** PBCC offers hosts divisional protection when the host is standing on the podium and attendees are in the STS line. This prevents public weapons from dealing damage.
 -- Attacking players interfering in melt/freeze/stable is not considered abusive
 ---i.e. Player1 turns off all fans during a freeze down; you are free to attack them. If you want, you can inform them of your core objective and that you will attack them if they continue.
 -- Repeatedly attacking a singular person/group of people who do not fight back and are not an active threat (targeting them) can be considered abusive.
@@ -50,16 +61,17 @@ Be warned.
 [/details]
 
 
-* Autoclickers are not against the rules unless used as a way to bypass Roblox Anti-AFK. Moderators are allowed to kick AFK-ing players who are attempting to stay longer than designed while AFK.
--- However, using an auto-clicker to spam tools in an attempt to annoy other players can be removed from the game. This would fall under harassment.
+* Autoclickers are not against the rules unless used as a way to bypass Roblox Anti-AFK. Moderators are allowed to temp-ban AFK-ing players (up to 3 days) who are attempting to stay longer than designed while AFK. 
+-- However, using an auto-clicker to spam tools in an attempt to annoy other players can be removed from the game. This would fall under the harassment.
 
 * Members are requested to be respectful with other players, hurtful and disrespectful comments will lead to an in-game mute, and report abuses being sent to Roblox to be dealt with by Roblox moderation. Repeat offenders may be banned.
 
 * Users with user/display names that bypass the filter to project slurs or other inappropriate phrases will be reported to Roblox and banned from the game.
 
-* Users with inappropriate clothing that is meant to bypass the Roblox ToS will be reported to Roblox and banned from the game until the clothing item in question is deleted by Roblox. 
+* Users with inappropriate clothing that is meant to bypass the Roblox ToS will be reported to Roblox and banned for 7 days on the first offense. A second offense will be permanent until appealed.
+-- Inappropriate UGC emotes fall under this category as well.
 
-* Pinewood Builders has several subdivisions that can provide tools/weapons to members of those subdivisions. Members receiving tools from their subdivision are to follow the handbook from the respective subdivision. The official group handbooks can be found here on the DevForum ([PBST](https://devforum.roblox.com/t/pinewood-builders-security-team-handbook/2130825), [TMS](https://devforum.roblox.com/t/the-mayhem-syndicate-handbook/595758), and [PET](https://devforum.roblox.com/t/pinewood-emergency-team-handbook/2130240) respectively) 
+* Pinewood Builders has several subdivisions that can provide tools/weapons to members of those subdivisions. Members receiving tools from their subdivision are to follow the handbook from the respective subdivision. The official group handbooks can be found here on the DevForum ([PBST](https://devforum.roblox.com/t/pinewood-builders-security-team-handbook/2130825), [TMS](https://devforum.roblox.com/t/the-mayhem-syndicate-handbook/3281561), and [PET](https://devforum.roblox.com/t/pinewood-emergency-team-handbook/3323409) respectively) 
 
 * Users who join to raid with others are asked to follow game rules. Raids that are not following game rules will lead to moderation being taken against the group in question.
 
@@ -75,7 +87,7 @@ Be warned.
 
 * Racist, discriminating, and offensive content are strictly prohibited in the in-game Roblox voice chat. If you are caught breaking this rule you will be game banned and a report to Roblox will be made.
 
-> If something is not listed here, it does not mean it is necessary allowed. Moderators have the final say in situations. 
+> If something is not listed here, it does not mean it is necessarily allowed. Moderators have the final say in situations. 
 
 > If you believe a Pinewood Moderator, or a person granted moderator powers from another subgroup, is abusing their elevated permissions, report the abuse case with evidence to someone above the individual in terms of rank. 
 
@@ -83,6 +95,8 @@ Be warned.
 # Notice
 PB Kronos employs a server-side detection system to detect some common exploits. 
 If you are banned for exploiting, chances are there is additionally an automated flag associated with your ban. All actions detected are not publicly listed for security reasons. 
+
+PB Kronos employs the Roblox Banning API to ban users. All bans will include Roblox-associated alternate accounts across a specific game universe. 
 
 ![image|400x500, 50%](upload://oma0q8ZVn3vCwa8eMYWVvzPjwUL.jpeg)
 
@@ -108,14 +122,14 @@ FAQ:
 1. Weapon bans apply in public & private servers
 2. Weapon bans only apply to public weapons, like the Anti-SpawnKill system
 - OP tools (Both Gamepass & Event weapons)
-- Credit Tools
-- Cadet Baton
+- Credit Weapons/Tools
+- Trainee/Cadet Baton
 - Recruit Crowbar
 3. You are not able to attack other players should they attack you, that is the consequence of breaking our game rules.
 4. You will be notified of a weapon-ban often while in-game and made aware of how long is left in the ban (if it is temporary, otherwise it will tell you it is permanent)
 5. You can still receive the tools while weapon-banned and use them on **non-players**. 
 
-This currently will only apply at Pinewood Computer Core but is not hard to extend to other facilities.
+This currently will only apply at Pinewood Computer Core and Pinewood Builders Oil Platform but is not hard to extend to other facilities.
 
 A reminder that you are not excluded from the rules if you have bought items in PBCC, whether that be game passes or credits, or anything else, you are still expected to follow them. 
 
@@ -124,10 +138,10 @@ If you have any questions regarding what a weapon ban is that isn't listed here,
 --- 
 # How to contact a Pinewood Moderator
 
-While there is a system in place (as seen above), not all exploiters are detected as they may not be using a detected exploit or a fully-clientsided one. If so, you'll likely need to call in a moderator. 
+While there is a system in place (as seen above), not all exploiters are detected as they may not be using a detected exploit or a fully-client-sided one. If so, you'll likely need to call in a moderator. 
 
 How to do so is listed below.
-> Be aware, moderators are active but be advised that they cannot respond to every call and when they can, will choose whether or not a call is worth responding to. 
+> Be aware that moderators are active but be advised that they cannot respond to every call and when they can, will choose whether or not a call is worth responding to. While it seems like a waste to report someone MRKing, it is best to send it anyway. We will more likely follow up on MRK reports that garner multiple unique callers. 
 
 * In-game
 -- Open the command bar or chat bar and enter `!call`. 
@@ -146,7 +160,7 @@ How to do so is listed below.
 * In a Community Guild
 -- Every official PB guild has moderators, you are welcome to DM them or ping them in chat to get their attention. If you cannot get a moderator in-game through the call system, you can try to get a moderator through the community guilds.
 -- You can find the invite links for these guilds on the group page of the respective division, in the social links. You must be 13 and up to view and join these guilds.
--- Once in a guild, you can go to the bot-commands channel and run the command `!ru`. Follow the instructions and make sure to select the PB icon when choosing where to make your report. Evidence is required to make a report.
+-- Once in a guild, you can go to the information or handbook channels and look for the handbook violators report form, in PBST for example it is located in information near the top. 
 
 ---
 # Appealing
@@ -159,18 +173,30 @@ You must be **13 and up** to join.
 > 2. You cannot appeal negative points/marks in divisions, reach out to a leader in that division instead.
 > 3. Purchases of in-game content with Robux do **not** exempt you from the rules nor entitle you to a free unban. 
 > 4. Your account is your responsibility, unless you have indisputable proof we will not accept any excuse about unauthorized account usage.
+> 5. "x" is legal in "x" country, I didn't do anything wrong!
+  -- PB rules and norms use the US/UK laws as a baseline. If it's illegal in the US/UK, you definitely did do something wrong.
 
 If you are not 13 and up, feel free to reach out to a moderator on another platform or through PMs.
 
-Last Updated: Feb 25th, 2024
-(March 20th, 2022: Added Bypassed Audios because apparently it's hard for some to realize you *shouldn't* play them anyway!)
+> Last Updated on August 23rd, 2025: Updated exploiting rule to cover intentional Roblox glitches; while not technically exploiting these can be abused to gain an unfair advantage over others and we will moderate those clearly doing so intentionally.
+
+[details="Past updates"]
+(August 8th, 2025: Inappropriate clothing rule updated to specify it includes inappropriate emotes too.)
+(August 3rd, 2025: Updated PET handbook link)
+(May 22nd, 2025: Modified "Cadet Baton" to "Trainee/Cadet Baton" in Weaponbans FAQ*)
+(May 18th, 2025: Clarified MRK exception for divisional events post-dismissal.)
+(March 20th, 2022: Added Bypassed Audios because apparently, it's hard for some to realize you *shouldn't* play them anyway!)
 (Sept 10th, 2022:: Added Voice Chat rule, Updated MRK rule, & added Pinewood Weapon bans)
 (Dec 27th, 2022: Last Update: Updated information regarding FPS unlockers under the Exploiting rule)
 (Feb 13th, 2023: Update PBST handbook link)
 (July 26th, 2023: Updated Boombox "Bypassed" audio definition & added Boombox bans)
 (Sept 11th, 2023: Remove mention of FPS unlockers being a cause for divisional moderations)
 (Jan 31st, 2024: Removed Auto-Clickers from Exploiting section, added its own section. No longer a gamebannable offense. Updated Harassment rule to explain possible bans.)
-Last Update: Moved the excess of MRK details under a details dropdown to clean up rules a little bit. No rules were changed/added/removed.
+(Feb 25th, 2024: Moved the excess of MRK details under a details dropdown to clean up rules a little bit. No rules were changed/added/removed.)
+(June 28th, 2024: Modified Exploiting rule to include a fallback 30d ban when moderators are unsure what kind of exploit was used, covering a little more ground than before. Updated Inappropriate Clothing rule and AFKing with a macro/auto-clicker. Updated Appealing message to include #5 from the appeals server. Minor rewording/grammar-related changes as well.)
+(October 6th, 2024: Updated MRK rule to specifically require a divisions "on-duty" status to be considered PBST/TMS/PET. Updated spawnkilling rule to include "spawnbaiting")
+(October 15th, 2024: Added PBOP to facilities w/ weaponbans)
+[/details]
 
 -------------------------
 

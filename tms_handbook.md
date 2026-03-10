@@ -1,4 +1,4 @@
-Coasterteam | 2024-03-25 17:52:39 UTC | #1
+LordOfDisco | 2025-11-11 04:51:50 UTC | #1
 
 <div align="center"> 
 
@@ -17,7 +17,7 @@ https://www.roblox.com/groups/4890641/The-Mayhem-Syndicate#!/about
 
 <div align="center"> 
 
-![image|690x283](upload://7yZWZqrBZrkJaRHjOUDR9n2nLE1.jpeg)
+![LpNTmXUdmK|690x269](upload://35oQ5I8vohxMQLVqt508tnulygQ.jpeg)
 
 </div>
 
@@ -43,12 +43,22 @@ PBST, PET and TMS Leadership have agreed to prevent unfair advantages to the bes
 
 2. Attendees are not allowed to “package abuse”, which basically means attendees cannot make super small packages or other packages that can negatively impact other players, it is disallowed for all sides. If neutrals package abuses during events, they will be on Global-KoS.
 3. Raid Blacklisted users are Global-KoS to all sides.
-4. Attendees cannot fight and kill each other in the main spawn area, the Security room, the Syndicate hideout, or the Emergency HQ. The only exception to this rule is if you’re fighting someone and during the middle of it they decide to run to any of the mentioned areas in order to escape said fight, in which case you are free to kill them there.
+4. Attendees cannot fight and kill each other in the main spawn area, the Security room, the Syndicate hideout, the Emergency HQ or the corridor leading up to the PET HQ. The only exception to this rule is if you’re fighting someone and during the middle of it they decide to run to any of the mentioned areas in order to escape said fight, in which case you are free to kill them there.
 5. To avoid team-killing and general confusion, on-duty TMS may not color their hazmat shades of blue during raids or patrols.
+6. You may not abuse the donor commands gamepass in-order to gain combat advantages during events.
 
 In these rules, “all sides” refers to all main pro-core and anti-core subgroups, PBST, PET and TMS.
 
 By committing any of the mentioned rules while also being on-duty for TMS, you can expect an appropriate punishment in the group; ranging from a point deduction up to a demotion. In some cases, one may get added to the PB Event Blacklist, where one is on permanent Global KOS during public server PBST/PET/TMS events, and are banned from attending private server PBST/PET/TMS events.
+
+---
+# Dealing with Handbook Violators
+
+Dealing with handbook violators is simple! Just follow the acronym WRR: 
+1. **Warn** the rulebreaker about the rule they are breaking. If they stop, no need to continue. 
+2. **Record** evidence of the warning and the continued rule-breaking. 
+-- Screenshots are also acceptable if they can prove the rule is being broken. 
+3. **Report** the rulebreaker via filling out [this form](https://dyno.gg/form/7fe75cab)
 
 --- 
 # Rules while raiding
@@ -65,6 +75,8 @@ If you happen to be in a facility that does not have a TMS uniform giver, you ca
 You are **not** allowed to wear a PBST uniform while on-duty as TMS, this is severely enforced if caught. 
 
 Captain+ are allowed to wear modified/custom uniforms. If you had a pre-Inquisitor uniform approved by an Instructor; you are still allowed to wear it.
+
+Former HRs who resigned/left on a good note and own a custom uniform are allowed to wear it in place of a regular TMS uniform.
 
 If you have Donor Commands, you can give yourself a uniform through the !shirt and !pants command
 ___Uniform Texture IDs___
@@ -111,9 +123,10 @@ There are rare occasions where a PBST officer goes rogue and will help destroy t
 [details="Encountering PET"]
 PET members are by default not a threat to TMS but can aid the enemy in combat. Treat PET as you would a normal member, if they interfere with your objective or are attacking you/other teammates, you are free to kill them.
 
-You are to **kill PET on sight IF** the core temperature is above 2,000 degrees or below -2,000 degrees with a few exceptions like PBST.
+You are to **kill PET on sight IF** the core temperature is above 3,000 degrees or below -3,000 degrees with a few exceptions like PBST.
 1. Spawn/loadouts are protected, you should not attack there. 
 2. For PET to be on-duty, they would be either wearing a PET suit, have a PET tag, or have the PET tag and are interacting with core / aiding PBST / putting out fires / etc 
+3. During **official raids**, PET are kill on sight if the core temperature is above **2,000 degrees or below 2000 degrees**.
 [/details]
 [details="PET/PBST Room"]
 PET and PBST both have rules to not attack in the TMS loadout area, so we respect this mutually with them in the form of not attacking in their respective loadout room.
@@ -143,7 +156,11 @@ Should you be caught spawn killing someone without approval AND evidence, it wil
 [details="Encountering Enemy Sentries"]
 PBST has their own sentries, hinted at by the blue coloring 
 ![image|577x470, 75%](upload://zI1fvMsn8y0nBrWSuKVGiJTMocn.jpeg)
-Upon seeing these, they likely also see you and will start firing at you assuming they still have ammo in reserve. It is advised to find the placer of the sentry and kill them before you try and destroy the sentry as they can just place another down rather quickly upon it's destruction (cooldown pending addition) 
+Upon seeing these, they likely also see you and will start firing at you assuming they still have ammo in reserve. It is advised to find the placer of the sentry and kill them before you try and destroy the sentry as they can just place another down rather quickly upon it's destruction. 
+
+Sentries that have 75 health or less can be hacked by a prompt. It's recommended to get into the sentries blind spot on top of it so that it cannot shoot back.
+![RobloxPlayerBeta_DOLLsVyCoJ|456x500, 75%](upload://thZCLyHXMO5jHcMOZjVmGURZnDL.png)
+
 
 PBST/PET can hack our own sentries, see the gray body and blue circle on top to signify a hacked TMS sentry. 
 [/details]
@@ -205,8 +222,8 @@ Any customization must be minor and additionally approved by an Instructor+
 Instructor+ are also held to these guidelines. 
 [/details]
 --- 
+![ooh_yeaahg_train|312x500](upload://sOz3lOgeAPqpzFcGZd0l7SAZ5IP.jpeg)
 
-![image|198x306](upload://cZ5aKz87wZwnDvVCenaQ8tbtTv.png) 
 # Ranks
 Ranks can give an individual additional authority or weapons. Trooper, Operative, and Captain have a set timespan you must remain as that rank before you are allowed to evaluate up to the next rank. These times are listed in the ranks below, should they apply.
 
@@ -214,7 +231,9 @@ You cannot buy a rank. Insisting on buying one will lead to a "buy one get one f
 
 Users granted Kronos admin in the evaluation place may not use their admin to interfere or give themselves/others an advantage during the evaluation, failure of consensus will result from improper admin usage & a report to a Facilitator 
 
-[details="Recruit (LR)"] 
+It is requested that you do not go in-game for quizzes or have the handbook open in another tab. While we cannot really stop it, we are asking you to be honest.
+
+[details="Recruit (LR)"]
 # Recruit
 Recruit is the entry rank into TMS. There is no evaluation for this rank.
 
@@ -233,15 +252,43 @@ Trooper is the first rank that can be achieved through an evaluation.
 * Nerve Gas
 
 **Evaluation**
-* Phase 1: Complete Tall Towers at PBSTAC in under 60 seconds
+* Phase 1: Complete Tall Towers at PBSTAC in under 60 seconds (climb one of the towers and cross the tight-rope to the central platform)
 * Phase 2: Successful completion of **one** combat arena. 
 -- Level 1 Sword Bots or Level 1 Gun Bots
 --- Bots have a spawn cooldown of 7 seconds
---- You are granted 125 health for gun bots and 175 health for sword bots.
+--- You are granted 125 health for gun bots and 200 health for sword bots.
 -- If you failed both arenas during an evaluation, you are granted another chance to complete ONE arena during that evaluation. 
 * Phase 3: Survive 30 seconds of level 1 Juggernaut
 -- Granted 150 health; no weapons as you must dodge the incoming fire
-* A minimum of **7** questions correct out of a given 8 questions
+* Phase 4: A minimum of **7** questions correct out of a given 8 questions
+--- You can take the quiz in-advance of your Trooper evaluation, see the Pinewood Quiz Hub 
+https://www.roblox.com/games/17183561708/Pinewood-Builders-Quiz-Hub
+* Phase 5: Minor Instructor Consensus
+[/details]
+[details="Insurgent (LR)"]
+# Insurgent
+Insurgent is the second rank considered an LR in the rank structure.
+
+**Marks Required:** 80 marks
+**You must be a Trooper for ONE week before you can evaluate up to this rank**
+**Weapons**
+* Crowbar
+* Pistol
+* Nerve Gas
+* Rifle
+
+**Evaluation**
+* Phase 1: Complete Tall Towers at PBSTAC in under **45** seconds (climb one of the towers and cross the tight-rope to the central platform)
+* Phase 2: Score at least 15 points in the firing range within **60** seconds
+-- Targets are three-shot (100 health)
+-- Spawn cooldown is half a second
+-- Target size is 2 (studs)
+-- Twenty targets in the arena at once (Amount of 20)
+-- Leaderboard is enabled
+* Phase 3: Successful hacking of a PBST Sentry
+--- You are provided 150 hp, a speed coil and the insurgent loadout
+-- Evaluatees are successful upon getting the sentry to <75 HP and walking onto the blindspot to activate the hack proximity prompt.
+-- You will get two tries to hack the sentry, see "Encountering Enemy Sentries" for a quick how-to.
 * Phase 4: Minor Instructor Consensus
 
 [/details]
@@ -250,29 +297,33 @@ Trooper is the first rank that can be achieved through an evaluation.
 Operative is the last rank considered an LR in the rank structure.
 
 **Marks Required:** 120 marks
-**You must be a Trooper for TWO weeks before you can evaluate up to this rank**
+**You must be a Insurgent for ONE week before you can evaluate up to this rank**
 **Weapons**
 * Crowbar
 * Pistol
 * Nerve Gas
 * Rifle
+* Submachine Gun
 **Granted access to the Operative+ EAS system**
 
 **Evaluation**
-* Phase 1: Complete Tall Towers at PBSTAC in under **45** seconds
-* Phase 2: Score at least 15 points in the firing range within **60** seconds
+* Phase 1: Complete Level 1 Juggernaut
+-- You are set to 175 health before the battle begins
+-- You are given a linked sword, pistol, rifle and SMG
+* Phase 2: Score at least 15 points in the firing range within **45** seconds
 -- Targets are three-shot (100 health)
 -- Spawn cooldown is half a second
 -- Target size is 2 (studs)
--- Ten targets in the arena at once (Amount of 10)
+-- Twenty targets in the arena at once 
 -- Leaderboard is enabled
 * Phase 3: Successful completion of **one** combat arena. 
--- Level 2 Sword Bots or Level 2 Gun Bots
+-- Level 2 Sword Bots or Level 3 Gun Bots
 --- Sword Bots have a spawn cooldown of 7 seconds
---- Gun bots have a spawn cooldown of 7 seconds
---- Gun bots you are provided a rifle. 
+--- Gun bots have a spawn cooldown of 5 seconds
+--- Gun bots you are provided a pistol + rifle. 
 --- Sword bots you are provided a Linked Sword
 --- You are provided an additional health boost by the evaluator, depends on the arena.
+-> 225 for sword bots, 150 for gun bots. 
 -- If you failed both arenas during an evaluation, you are granted another chance to complete ONE arena during that evaluation. 
 * Phase 4: Minor Instructor Consensus
 
@@ -282,7 +333,7 @@ Operative is the last rank considered an LR in the rank structure.
 [/details]
 [details="Captain (MR)"]
 # Captain
-Captain is the third achievable rank within the Syndicate and is trusted with more authority.
+Captain is the fourth achievable rank within the Syndicate and is trusted with more authority.
 
 This rank and further ranks require you to be in the TMS comms server, as you can only announce events through the comms server.
 The invite is present in the social links on the TMS group, you must be 13 and up to join.
@@ -298,21 +349,19 @@ The invite is present in the social links on the TMS group, you must be 13 and u
 **Granted access to the Operative+ EAS system**
 
 **Evaluation**
-* Phase 1: Complete Level 1 Juggernaut
--- You are set to 150 health before the battle begins
--- This must be completed successfully before moving onto the next stage.
-* Phase 2: Fight the evaluating instructor 3 times
--- Two of these rounds are either Gun or Sword rounds.
---- Rifle, Submachine Gun, and Pistol are provided for the Gun round(s)
---- Gamma Spec is provided for the Sword round(s)
--- The third round is the item you did not choose. (i.e. 2 gun & 1 sword, 2 sword & 1 gun) (Not 3 gun or 3 sword rounds)
-* Phase 3: Questionnaire 
--- 5 questions regarding more technical knowledge surrounding raids and their operation. 
-* Major Instructor Consensus
--- Phase 4: If you pass Juggernaut and finish the combat but fail the consensus, you must be invited by an Instructor to take the evaluation again.
+* Phase 1: Fight the evaluating instructor 3 times
+-- Two of these rounds are at a PBCC location of the evaluatee's choice
+-- The third round will be at a PBCC location of the *evaluator*'s choice
+--- You will be provided the captain loadout, all credit items up to and including the rocket launcher, a regular speed coil and a medkit with 5 uses.  
 
-Captains who previously held a custom uniform may keep it, as it will be grandfathered in.
-New Captains may not request a custom uniform.
+* Phase 2: Questionnaire 
+-- 5 questions regarding more technical knowledge surrounding raids and their operation, detail is recommended. 
+* Phase 3: Major Instructor Consensus
+If you fail captain consensus, you must wait 1 month before retaking the captain evaluation again.
+You may appeal captain ranklocks at the appeal center if you fail consensus.
+
+Captains who previously held a custom uniform may keep it, as they have been grandfathered in.
+New Captains may not request a custom uniform and can only select from the uniform recolors provided to captains.
 
 **Authority**
 * Granted the authority to request deductions on players behind the scenes
@@ -327,8 +376,8 @@ New Captains may not request a custom uniform.
 [/details]
 [details="Inquisitor (HR)"]
 # Inquisitor
-Inquisitor is the fourth achievable rank within the Syndicate and is trusted with a lot more authority.
-This is the first rank in the rank structure that is allowed to host the main raid types, level 0 through 2.
+Inquisitor is the fifth achievable rank within the Syndicate and is trusted with a lot more authority.
+This is the first rank in the rank structure that is allowed to host regular raids, along with most types of raids. 
 
 **Marks Required:** *N/A*
 **You must be invited by an Instructor+ to take the evaluation**
@@ -342,13 +391,14 @@ This is the first rank in the rank structure that is allowed to host the main ra
 * UPG Rifle
 * Submachine Gun
 * Damage Field
+* The Heatwave Flamethrower
 
 **Evaluation**
 * Phase 1: Questionnaire 
 -- Answer 6 questions regarding raid leadership, core operation, and game mechanics.
 * Phase 2 if Phase 1 passes: Evaluation Raid
 -- Instructors may be observing your patrol raids before you get invited to the evaluation, always make sure to be representing TMS in good spirit! 
--- You are asked to host a raid (Level 2 marks are distributed by Instructor), supervised by an Instructor+
+-- You are asked to host a raid (Marks are distributed by Instructor), supervised by an Instructor+
 --- More information is explained in DMs after you pass Phase 1 Questionnaire as well as a chance to clarify things should questions arise. 
 * Phase 3: Final Instructor Consensus
 
@@ -358,14 +408,14 @@ This is the first rank in the rank structure that is allowed to host the main ra
 -- This includes rocket silos 
 * Allowed to override KoS orders of users ranked under them (Inquisitor can override a Captain KoS but can't override another Inquisitors/Instructors KoS)
 * Allowed to override Room Restrictions of users ranked under them (Inquisitor can override a Captain RR but can't override another Inquisitors/Instructors RR)
-* Allowed to host Official Patrol Raids (No Marks)
-* Allowed to host Official Raids (Practice, levels 1 and 2)
+* Allowed to host Official Patrol Raids 
+* Allowed to host Official Raids 
 * Allowed to host a server during a MEGA raid
 * Granted access to the TMS SmartLog in-game
 * Granted Moderator powers in the Communications server
 * Granted Moderator powers at the Rynver Stronghold
 * Allowed to use custom uniforms; these must be approved by an Instructor+
-* Allowed to host game nights/special events in the Communications server with the approval of an Instructor+
+* Allowed to host game nights/special events in the Communications server without the approval of an Instructor+
 * Allow full access to the TMSRS Commons Room podium and TMSRS Event Hall leadership platform.
 * Granted read access to the TMS mark database
 -- Granted access to create & edit their own TMS SmartLogs in the TMS SmartLog database
@@ -387,6 +437,7 @@ These members are the leaders of the group; they handle operations, evaluations,
 * Nerve Gas
 * Damage Field
 * High-Powered Automatic Sentry
+* The Heatwave Flamethrower
 
 **Evaluation**
 You are handpicked by the current Instructors or above and voted in by all Instructors with a high majority. You can be voted in at any rank. 
@@ -414,14 +465,35 @@ You are handpicked by the current Instructors or above and voted in by all Instr
 * Not required to wear uniform
 [/details]
 [details="Other Ranks (RESERVED)"]
-Above Instructor lie four ranks, these being `Kronos`, `The Ape King`, `The Fabricator`, and `The Architect`
-The first rank, Kronos, is reserved for our ranking bot Kronos. 
-All three of these other ranks are handpicked by Tokaisho (Diddleshot) and cannot be obtained through other means. These ranks are held by Facilitators; aka Pinewood executives. These members can veto any vote started by an Instructor should it be necessary. 
+Above Instructor lie three ranks, these being `Kronos`, `The Fabricators`, and `The Architect`
+
+Kronos, is reserved for our ranking bot Kronos. 
+The Fabricators are the Facilitators; aka Pinewood executives.
+The Architect is the final achievable rank within the group and leads the instructor team.
+
+All three of these other ranks are handpicked by Tokaisho (Diddleshot) and cannot be obtained through other means. 
+
+ These members can veto any vote started by an Instructor should it be necessary. 
 [/details]
 <br>
 
 [details="Sentinel (SECONDARY-ROLE)"]
-This section is a work in progress, check back soon!
+![image|690x115](upload://iBRfpyR7vJjb6DTgDZXtye3ziGT.png)
+
+Sentinels only gain authority during raids they are selected into, those at or below their rank should aid in performing the tasks provided. 
+
+Those above the Sentinels rank can take it as a recommendation. They are essentially an extension of the host and still must follow what the host is seeking to do.
+
+**WHO CAN BECOME SENTINEL?** 
+Captains must be nominated by an inquisitor or an instructor. Inquisitors and above are automatically considered Sentinels.
+
+**Marks Required:** 200+ (Captain+)
+Evaluation
+* Phase 1: Acceptance into the program post nomination
+* Phase 2: Patrol Raid Evaluation by an Instructor
+* Phase 3: Final consensus
+
+
 [/details]
 ---
 ![image|690x353](upload://5Deue5byg01gaIiAbluTYYjLUpH.jpeg)
@@ -431,42 +503,41 @@ Official Raids are hosted often in the Mayhem Syndicate.
 **You must be an Inquisitor+ to host an Official Syndicate Raid.**
 
 Marks can be earned during an official raid. The amount given varies depending on the raid level and how long you attended it. Behavior and participation during the raid are taken into account.
-[details="Practice Raid"]
-These raids are meant to be practice, as no marks are given to attendees. These can be hosted by Inquisitor+. One mark is possible as a bonus, but not required to be given. 
-[/details]
-[details="Level 1 raid"]
-Level 1 raids award up to 3 Marks. These can be hosted by Inquisitor+
-[/details]
-[details="Level 2 raid"]
-Level 2 raids award up to 5 Marks. These can be hosted by Inquisitor+
+
+[details="Standard Raid"]
+Standard raids, previously known as level 2 raids, award up to 5 Marks, 6-7 Marks with bonus. These can be hosted by Inquisitor+
 [/details]
 [details="MEGA raid"]
-MEGA raids award up to 9 Marks. These are organized by Instructor+. Inquisitor+ can host a server during these MEGA raids. 
+MEGA raids award up to 10 Marks, 12 Marks with bonus. These are organized by Instructor+. Inquisitor+ can host a server during these MEGA raids. 
 These raids stand out from normal raids as they are multiple raids hosted at once. 
-[/details]
-[details="Incursions"]
-Incursions are large events that take place inside PBCC, primarily as a sort of KOTH event. Multiple points around the map will be selected as the "hill", which needs to be maintained. 
-These primarily give out Level 2 amounts of marks.
 [/details]
 [details="Other Events"]
 Instructors may also host a variety of unique events for a fun and new experience, some that have occurred are listed below. 
 - Reverse Raid
 - 10x Freezedown Raid
 - Stabledown
+- Incursions
+--- Incursions are large events that take place inside PBCC, primarily as a sort of KOTH event. Multiple points around the map will be selected as the "hill", which needs to be maintained. 
+[/details]
+[details="PBOP Objectives"]
+- PBOP Blowout
+--- This objective is exclusive to the [PBOP](https://www.roblox.com/games/758601306/Pinewood-Builders-Oil-Platform) facility.
+--- Objective: Achieve a blowout by closing oil valves and gas valves to build up pressure. 
+--- A Blowout starts when the PSI of either the oil valves or gas valves reaches 4000 or more.
 [/details]
 [details="Patrol Raids"]
 These raids give 0 marks. Can be hosted by a Captain+, these raids are pointed towards PBST Patrols to create a fun event for both parties. Patrol raids do not follow normal hosting permissions
 Patrol raids run on a separate schedule from normal raids; allowing them to run at the same time as normal raids. These raids also have no cooldown time following them, but only 1 patrol raid can be hosted at a time as they cannot overlap. 
 [/details]
 [details="Mayhem Strikes"]
-These raids are not pre-scheduled, but rather are a surprise event that an Inquisitor+ can host in a **public** server. Your primary goal can be Melt, Freeze, or Chaos, with a secondary goal of helping recruit more members into the Syndicate. These strikes will give up to 1 mark per attendee, at the hosts discretion, so don't always expect them. 
+These raids are not pre-scheduled, but rather are a surprise event that an Sentinel+ can host in a **public** server. Your primary goal can be Melt, Freeze, or Chaos, with a secondary goal of helping recruit more members into the Syndicate. These strikes will give up to 1 mark per attendee, at the hosts discretion, so don't always expect them. 
 
-These are to bring back the original charm of TMS, small group raiding a public server with the resistance being the public server players themselves. It is advised to join the Comms server to get notifications on when these happen. You must be 13+ to join it, as per site rules. The link is in the Social Links of TMS.
+These are to bring back the original charm of TMS, small group raiding a public server with the resistance being the public server players themselves. No Survivor Runs are not to be done during these events. It is advised to join the Comms server to get notifications on when these happen. You must be 13+ to join it, as per site rules. The link is in the Social Links of TMS.
 [/details]
 <br> 
 
 [details="Bonus Marks"]
-During dismissal of a marked raid, the raid host can pick a certain number of attendees to receive the bonus.
+During dismissal of a marked raid, the raid host can pick a certain number of attendees to receive the bonus of 1-2 marks.
 
 Recommended:
 00-19 attendees : 1 recruit & 1 ranked member
@@ -481,11 +552,9 @@ Raid hosts do have to follow rules regarding hosting, all hosts do. The rules th
 [details="Hosting Rules"]
 All times when a day starts or ends are decided by UTC.
 * Captains may host up to 1 patrol raid every 48 hours.
-* Inquisitor+ can only have **ONE** Level 1+ raid a day **EACH**. 
+* Inquisitor+ can only have **ONE** raid a day (UTC) **EACH**. 
 * If the last raid was a **MEGA** raid, you must wait at least 8 hours after that raid started before you can host another.
-* If the last raid was a **level 2** raid, you must wait at least 5 hours after that raid started before you can host another. 
-* If the last raid was a **level 1** raid, you must wait at least 3 hours from the start time of the last raid.
-* If the last raid was a **level 0** raid, you must wait at least 2 hours after that raid started before you can host another. 
+* If the last raid was a **standard** raid, you must wait at least 4 hours after that raid started before you can host another. 
 * There must be a **ONE** hour period between the end of any official raid and the start of the next official raid.
 * Hosts cannot start a raid if it is 1 hour before the PBST mega or takes place during the PBST mega. 
 * Captains can only schedule 4 days in advance.
@@ -573,14 +642,30 @@ It is important to take advantage of this when TMS is not controlling E-Coolant.
 ![image|690x242](upload://f1cIuOFpuctz2SIJ6D4gtR2xLj4.jpeg)
 
 # Trainings
-Trainings are hosted periodically and are done at any facility, even other games. Trainings can give 1 to 5 Marks (5 being the bonus) depending on performance. Bad behavior during trainings can lead to removal from the training and no marks awarded. Negative marks can also be issued if the situation requires them. 
+Trainings are hosted periodically and are done at any facility, even other games. Trainings can give 1 to 5 Marks (6 being the bonus) depending on performance. Bad behavior during trainings can lead to removal from the training and no marks awarded. Negative marks can also be issued if the situation requires them. 
 
 ---
 
-# RankLocks
-**RankLocks** are a special system in Pinewood. It lets divisional HRs easily tell other divisional HRs whether a user can be promoted or not. This can be used as a sort of moderation action against someone or merely keeping track of something like a promotion cooldown. They often can be appealed if they are a result of a moderation action. 
+# Mass Evaluations
+Mass evaluations are events hosted periodically that allow for multiple evaluatees to complete evaluations with the hosting instructor. Attendees must meet all required criteria to participate in the event. Attendees wishing to evaluate to **trooper** during a mass evaluation must have completed the TMS trooper quiz at the quiz game beforehand.
+
+---
+# Ranked Member Probation
+
+Ranked members have an official strike -> demotion pathway. Once you receive a *strike* , you are notified and placed on “probation”. This is a private moderation action and is not revealed unlike the on watch role. If poor behavior continues while on ranked probation, you will be demoted to recruit. This system is in place from **CAPTAIN -> TROOPER.**
+
+---
+
+# Rank locks
+**Rank locks** are a special system in Pinewood. It lets divisional HRs easily tell other divisional HRs whether a user can be promoted or not. These are used as a form of moderation action against someone. They often can be appealed if they are a result of a moderation action. 
+Ranklocks can be appealed in the Pinewood Builders Appeal Center.
+
+
 
 You are unable to appeal a ranklock from the result of a promotion cooldown. 
+--
+# Blacklists
+**Blacklists** are given out by the instructor team to individuals who have had many moderation actions or for severe moderation action. Members who are blacklisted cannot go on-duty as TMS in PB games or TMS events and are effectively excommunicated from the group. Blacklists can be appealed in the Pinewood Builders Appeal Center.
 
 ---
 # Operative EAS
@@ -594,13 +679,24 @@ Few rules come along with this:
 2. If you are joining after an EAS has been sent out and before the public is alerted, you are expected to go TMS. Failure to do so can risk being reported for abusing your authority as Operative+. 
 3. You are asked not to share EAS alerts with non-Operatives or people who do not intend to respond to a raid as TMS. You risk getting the other person in trouble for doing so as well.
 
+With the PBCC update as of June 24th, 2024, the raid server now has a queuing system to join. Additionally, raid leaders can set requirements to join. This now means they can properly enforce Operative+ requirements. 
+
+In order to join the raid server during an Operative EAS, you **MUST** click **Join Raid Queue** in the UI that shows up.
+![image|333x303](upload://aJY0cm7clZz45sFBR4cBYubbazy.png)
+If you are not Operative+ during this requirement period it will not let you join the main queue and thus into the main raid server.
+
 ---
 This handbook is always a work in progress.
 
 ---
 *Glory to the Syndicate!*
 <div align="center"> 
-Signed,
+Signed, LordOfDisco
+
+*The 4th TMS Architect*
+
+
+
 
 ![image|690x388, 75%](upload://9QGS6RaBc0xbRpcVWBEMb2Aax64.jpeg)
 </div>
@@ -608,7 +704,7 @@ Signed,
 
 
 
-*Last updated March 25th, 2024*
+*Last updated Nov 10th, 2025*
 
 -------------------------
 
