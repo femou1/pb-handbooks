@@ -30,18 +30,20 @@ def parse_header(content):
 
 def check_and_update(name, path, latest_data):
     """Returns the update timestamp string if changed, None otherwise."""
+    first_line = latest_data.content.decode('utf-8', errors='replace').split('\n')[0].strip()
+
     if is_error(latest_data.content):
-        print(f"{name}: Error response received, skipping.")
+        print(f"{name}: Error response received, skipping. First line: {first_line!r}")
         return None
 
     author, timestamp = parse_header(latest_data.content)
     if author is None:
-        print(f"{name}: Could not parse header, skipping.")
+        print(f"{name}: Could not parse header, skipping. First line: {first_line!r}")
         return None
 
     expected_author = EXPECTED_AUTHORS.get(name)
     if expected_author and author != expected_author:
-        print(f"{name}: Unexpected author '{author}' (expected '{expected_author}'), skipping.")
+        print(f"{name}: Unexpected author '{author}' (expected '{expected_author}'), skipping. First line: {first_line!r}")
         return None
 
     with open(path, 'rb') as f:
@@ -57,11 +59,13 @@ def check_and_update(name, path, latest_data):
         print(f"{name}: No changes.")
         return None
 
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
+
 print("Fetching handbooks from DevForum...")
-latestpbst_data = requests.get('https://devforum.roblox.com/raw/3894621')
-latestpet_data  = requests.get('https://devforum.roblox.com/raw/3323409')
-latesttms_data  = requests.get('https://devforum.roblox.com/raw/3281561')
-latestpb_data   = requests.get('https://devforum.roblox.com/raw/907637')
+latestpbst_data = requests.get('https://devforum.roblox.com/raw/3894621', headers=HEADERS)
+latestpet_data  = requests.get('https://devforum.roblox.com/raw/3323409', headers=HEADERS)
+latesttms_data  = requests.get('https://devforum.roblox.com/raw/3281561', headers=HEADERS)
+latestpb_data   = requests.get('https://devforum.roblox.com/raw/907637',  headers=HEADERS)
 print("Fetched all 4 sources.")
 
 results = {
