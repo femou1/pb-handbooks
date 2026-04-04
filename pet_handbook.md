@@ -1,8 +1,8 @@
-BananaJeans92 | 2026-01-11 14:05:06 UTC | #1
+BananaJeans92 | 2026-04-04 21:53:19 UTC | #1
 
 <div align="center">
 
-![pet_logo|150x150](upload://bwfygftzSs4oyJKcL6n5sgl7sa2.png)
+![pet_logo|150x150](upload://st4L1SFC3TtZyGiKH5DFBYLCknS.png)
 
 <h1>Pinewood Emergency Team</h1>
 
@@ -10,34 +10,33 @@ BananaJeans92 | 2026-01-11 14:05:06 UTC | #1
 
 The following document is the official handbook of the Pinewood Emergency Team, written by the Specialists. Please read it carefully. Any changes to this handbook will be made clear.
 
-Welcome to Pinewood Emergency Team, an elite group of the best respondents working together to tend to emergencies across all Pinewood facilities! Using high-tech equipment, we work hard to save countless visitors every day! We primarily patrol the Pinewood Computer Core, our main home base.
+Welcome to PET, an elite group of the best respondents working together to tend to emergencies across all Pinewood facilities! Using high-tech equipment, we work hard to save countless visitors every day! We primarily patrol the Pinewood Computer Core, our main home base.
 
 🔥 **Above the flames!**
 
-`Last update:` *November 5th, 2025*
+`Last update:` _April 4th, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
-![image|690x388](upload://hTMwghfAvLMWTMTujsxAiGCkY6O.jpeg)
-
+![image|690x388](upload://zrrK5hMndwm12AXLQA3k6SnmeOY.png)
 
 ---
 
 <div align="center"><h1>📑 General Reminders 📑</div>
 
-* Respondents are expected to follow the [ROBLOX Community Rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) and the [Pinewood Builders Game Rules](https://devforum.roblox.com/t/pinewood-builders-game-rules/907637) **at all times**, even when off-duty.
+- Respondents are expected to follow the [ROBLOX Community Rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) and the [Pinewood Builders Game Rules](https://devforum.roblox.com/t/pinewood-builders-game-rules/907637) **at all times**, even when off-duty.
 
-* A certain degree of discipline is expected from attendees **at all Pinewood events** - listen to your superiors and treat everyone with respect.
+- A certain degree of discipline is expected from attendees **at all Pinewood events** - listen to your superiors and treat everyone with respect.
 
-* We are not at war with Innovation, Quantum Science, or any other group for that matter. Active hostility against them is not tolerated!
+- We are not at war with Innovation, Quantum Science, or any other group for that matter. Active hostility against them is not tolerated!
 
-* PET Respondents can **never** start fires or participate in chaos, this is contrary to our mission as PET, and doing so could get you considered rogue.
+- PET Respondents can **never** start fires or participate in chaos, this is contrary to our mission as PET, and doing so could get you considered rogue.
 
-* Specialists have the right to remove a ranked member from their position based on bad behavior from both the Communications Server and in-game. Poor behavior includes toxicity, NSFW-like behavior, etc.
+- Specialists have the right to remove a ranked member from their position based on bad behavior from both the Communications Server and in-game. Poor behavior includes toxicity, NSFW-like behavior, etc.
 
-* Stealing PB Assets or community-made work in any way, shape, or form is **strictly forbidden**, and will lead to a blacklist if stolen assets are not removed.
+- Stealing PB Assets or community-made work in any way, shape, or form is **strictly forbidden**, and will lead to a blacklist if stolen assets are not removed.
 
-* You may not sell, trade, or share accounts with PET points or ranks.
+- You may not sell, trade, or share accounts with PET points or ranks.
 
 ---
 
@@ -67,20 +66,17 @@ You should NEVER switch teams during any official events, this is extremely frow
 
 <div align="center"><h1>ℹ️ Going on-duty ℹ️</div>
 
-![image|690x388](upload://zGqvuAoycUfHYggn4wTRhSjlkg1.jpeg)
+![image|690x388](upload://aSpNUlruazkNurMGWKzf3hbqfTl.png)
 
 To be appropriately recognized as an on-duty PET respondent, you must fill out the proper requirements to be on duty.
 
-An on-duty PET respondent must have their ranktag set to the PET group (this can be done with the in-game command `!ranktag on` and `!setgroup pet`), an official PET uniform that is fully visible and not obstructed by packages or any cosmetics, as well as being fully aware of the handbook rules. PET respondents may also wear the core (astronaut) suit while having their ranktag set to PET to be on-duty. Seen below are the various examples of PET respondents ready to go on duty! 
-
-
-On-duty PET respondents who have their ranktag set to PET gain access to two private chats. One for all PET respondents and the other used for shared communications with PBST to use in game! Write `/c pet` or `/c pro` in the chat and then send it to gain access!
+An on-duty PET respondent must have their ranktag set to the PET group (this can be done with the in-game command `!ranktag on` and `!setgroup pet`), an official PET uniform that is fully visible and not obstructed by packages or any cosmetics, as well as being fully aware of the handbook rules. PET respondents may also wear the core (astronaut) suit while having their ranktag set to PET to be on-duty. Seen below are the various examples of PET respondents ready to go on duty!
 
 An on-duty PET respondent may NEVER carry TMS or PBST tools. TMS and PBST are also not allowed to carry PET tools whilst on duty.
 
 Glitching for on-duty PET respondents is prohibited at all times and may lead to disciplinary action if caught.
 
-![image|690x248](upload://vC3DDSm0TgPR2EjpFBHnBLzHluW.jpeg)
+![image|690x248](upload://4IcQ1uIzio6VWpizYwOjLdzHiCN.png)
 
 ---
 
@@ -89,6 +85,19 @@ Glitching for on-duty PET respondents is prohibited at all times and may lead to
 The following part of the handbook outlines important information for those who are on duty for PET that is otherwise not specified in other sections of the handbook.
 
 [details="📍 General"]
+
+[details="💭 Communication"]
+
+On-duty PET respondents gain access to two private chats. One for PET and the other for shared communications with PBST, accessible with `/c pet` and `/c pro` respectively. Please note that chat communication is heavily limited.
+
+During events, communication is usually done through the communications server.
+
+In PBCC, respondents have access to a ping system, a quick way to communicate to other PET respondents regarding the status of a given area. The ping wheel can be opened by pressing `V` or tapping on the marker icon at the top of your screen.
+PET / PBST event hosts have the ability to turn shared pings on, meaning PBST will be able to see PET pings and vice versa!
+
+- _Rescue Heroes_ need to have their pings approved by an MR+ first before being shown to other players.
+
+[/details]
 
 [details="🛑 Rogue Respondents"]
 
@@ -108,10 +117,9 @@ From time to time, you may encounter a rogue on-duty PET personnel whilst patrol
 
 You're allowed to fight back in self defense if they attack you.
 
-If you witness a rogue PET member, be sure to first tell them of their wrongdoings, they may not know that they're breaking the handbook rules. Should they continue after that warning, you should request a Kill-On-Sight order from a Marshall+, as well as fill out a punishment request using the form linked in the information channel of the communications server. You'll need sufficient evidence of the person committing violations, as well as proof that you've warned them. If the person holds a Trained Respondent rank or above they do not need to be warned.
+If you witness a rogue PET member, be sure to first tell them of their wrongdoings, they may not know that they're breaking the handbook rules. Should they continue after that warning, you should request a KOS order from a Marshall+, as well as fill out a punishment request using the form linked in the information channel of the communications server. You'll need sufficient evidence of the person committing violations, as well as proof that you've warned them. If the person holds a Trained Respondent rank or above they do not need to be warned.
 
-![image|690x388](upload://sWhsNOMFZyUaIaNf0IvdXxXQBV4.jpeg)
-
+![image|690x388](upload://gO5HcZMxWiDVf7f5Ze1t8vaCxW5.jpeg)
 
 [/details]
 
@@ -121,13 +129,17 @@ From time to time whilst patrolling, you may encounter an exploiter. Should this
 
 It is also worth recording any evidence, if possible, of the exploiter hacking so you can send it to a PIA moderator if the exploiter leaves before the PIA arrives.
 
-![image|690x352](upload://966wnqMyCyx5dQ3meEzgCv3MkKV.jpeg)
+![image|690x352](upload://A3uFe8mJ6OWomwyPjbKKTJS5EqC.png)
 
 [/details]
 
-[details="📢 KOS orders"]
+[details="📢 Warnings and KOS orders"]
 
-A KOS order (or a Kill-On-Sight order) is an order that allows members to directly kill people that are placed "on KOS". Lieutenants may issue KOS orders at any point if they are in-game and on duty as PET. Marshall+ may issue KOS orders at any given time.
+A **warning** can be given either via chat, or with a single shot from a low-damage weapon. On subsequent offenses, PET respondents are permitted to attack and request KOS.
+
+See the individual sections on when you’re required to warn.
+
+A **KOS order** (Kill-On-Sight order) is an order that allows members to directly kill people that are placed "on KOS". Lieutenants may issue KOS orders at any point if they are in-game and on duty as PET. Marshall+ may issue KOS orders at any given time.
 
 Apart from divisional KOS orders, there are two other types of KOS orders:
 
@@ -136,13 +148,12 @@ Apart from divisional KOS orders, there are two other types of KOS orders:
 - Global KOS: This order also only applies during official events, Global KOS means that said user will be on KOS for TMS, PBST, and PET. This KOS order is automatically placed on event blacklisted users.
 
 Mutants and Exploiters are ALWAYS on PET KOS.
-
 PET respondents may NEVER become mutants, as they will be attacked by their fellow respondents.
 
 [/details]
 
 [/details]
-----
+
 [details="☢️ PBCC"]
 
 [details="🌡️ Temperature/Core"]
@@ -155,47 +166,47 @@ When the core is at a temperature of above 3000 degrees, or below -3000 degrees 
 
 PET members are permitted to cool/heat the core from the mentioned critical state to 2000/-2000 degrees (1000/-1000 degrees during TMS raids).
 
-Should a visitor interfere with your mission to set the core temperature back from a critical state (examples can be turning lasers on when the core is close to a meltdown, turning coolant on when the core is close to a freezedown, etc.), you must **give them a warning**, and ask them to stop, if they continue you are free to kill them.
+Should a visitor interfere with your mission to set the core temperature back from a critical state (examples can be turning lasers on when the core is close to a meltdown, turning coolant on when the core is close to a freezedown, etc.), you must **give them a warning**, if they continue you are free to kill them.
 
 You are exempt from giving someone a warning for touching core controls if they are on KOS, or if the core is over/under 3000/-3000 degrees! (2000/-2000 for TMS raids)
 
-* **You should NEVER warn someone for using the core controls if PET is not authorized to use them.**
+- **You should NEVER warn someone for using the core controls if PET is not authorized to use them.**
 
-As a PET respondent, you must keep an eye out for the coolant pipe! PET respondents are allowed to fix the coolant pipe when the core temperature is between **-2000 and 4000 degrees**, however, PET personnel must break the coolant pipe when the core temperature is between **-4000 and -2000 degrees** to prevent facility destruction!
+PET respondents are allowed to fix the coolant pipe when the core temperature is between **-2000 and 4000 degrees**, however, PET personnel must break the coolant pipe when the core temperature is between **-4000 and -2000 degrees** to prevent a freezedown!
 
-![image|690x352](upload://iTTNOdRwXfaYU78jbFLBrdb3nzk.jpeg)
+![image|690x352](upload://kbPlHI7jzGNpCxAiSHpmxADzc13.png)
 
 [/details]
 
 [details="⚠️ Disasters"]
 
-Every once in a while, a disaster will happen at the Pinewood Computer Core. These disasters can impact the gameplay's state. As an on-duty PET respondent, it is your job and responsibility to ensure that no further damage occurs to the facility and heal anyone injured as a result of said disasters. Below goes into more details on what to do.
+Every once in a while, a disaster will happen at the PBCC. These disasters can impact the facility state. As an on-duty PET respondent, it is your job and responsibility to ensure that no further damage occurs to the facility and heal anyone injured as a result of said disasters. Below goes into more details on what to do.
 
 If you hear a rumbling sound, you can use the PET Tablet to view if a disaster is about to occur.
 
-* **Meltdown** - Attempt to successfully fill all 3 rods in E-Coolant for the best chance to revert a meltdown (the E-Coolant section goes more into detail about this). If this isn't possible, evacuate visitors via the Launch Silos or the PBRF elevators.
+- **Meltdown** - Attempt to successfully fill all 3 rods in E-Coolant for the best chance to revert a meltdown (the E-Coolant section goes more into detail about this). If this isn't possible, evacuate visitors via the Launch Silos or the PBRF elevators.
 
-* **Freezedown** - Evacuate visitors via the Launch Silos or the PBRF elevators.
+- **Freezedown** - Evacuate visitors via the Launch Silos or the PBRF elevators.
 
-* **Neurotoxins** - Switch on all 5 fans in order for the gas to be blown out quicker, and heal anyone injured.
+- **Neurotoxins** - Switch on all 5 fans in order for the gas to be blown out quicker, and heal anyone injured.
 
-* **Earthquake** - Halt all trains to prevent further damage.
+- **Earthquake** - Halt all trains to prevent further damage.
 
-* **Plasma Leak** - Evacuate as many people as possible out of the core and mainframe areas, and heal anyone injured.
+- **Plasma Leak** - Evacuate as many people as possible out of the core and mainframe areas, and heal anyone injured.
 
-* **Blackout** - Switch on the emergency generators, whilst also ensuring that there is enough generator fuel for the duration of the disaster (the Generator room section goes more into detail about this).
+- **Blackout** - Switch on the emergency generators, whilst also ensuring that there is enough generator fuel for the duration of the disaster (the Generator room section goes more into detail about this).
 
-* **Radiation Leak** - Drain the leak by opening all 4 drainage valves and operating the drainage pumps.
+- **Radiation Leak** - Drain the leak by opening all 4 drainage valves and operating the drainage pumps.
 
-* **Magma** - Evacuate everyone to higher grounds or the lobby.
+- **Magma** - Evacuate everyone to higher grounds or the lobby.
 
-* **Aliens** - Not a dangerous event. It is discouraged to dance with the aliens whilst patrolling.
+- **Aliens** - Not a dangerous event. It is discouraged to dance with the aliens whilst patrolling.
 
-* **Coolant Backflow** - Evacuate users out of the affected area, and heal anyone injured. Drain the coolant manually by opening the valves on the supply inspection platform! **In case the temperature is in a critical range (over 3K, or 2K during raids), PET may not drain the coolant backflow.**
+- **Coolant Backflow** - Evacuate users out of the affected area, and heal anyone injured. Drain the coolant manually by opening the valves on the supply inspection platform! **In case the temperature is in a critical range (over 3K, or 2K during raids), PET may not drain the coolant backflow.**
 
-* **King Abomination** - Players must successfully fight off the abomination boss and his minions on the mainframe! You may utilize both normal weapons and your disinfectors to accomplish this. Heal any players injured throughout the event.
+- **King Abomination** - Players must successfully fight off the abomination boss on the mainframe! You may utilize both normal weapons and your disinfectors to accomplish this. Heal any players injured throughout the event.
 
-* **Missiles** - Make sure the satellite connection is kept on, clean up the debris, and heal anyone injured.
+- **Missiles** - Make sure the satellite connection is kept on, clean up the debris, and heal anyone injured.
 
 [/details]
 
@@ -205,7 +216,7 @@ Whilst patrolling, you may encounter trains derailed throughout the facility. On
 
 If any train debris (or other debris) manages to reach the tracks, you should remove it as quickly as possible!
 
-* If you are a PET Trained Respondent or above, you have access to the shovel, it is a powerful tool that can remove debris quickly!
+- If you are a PET Trained Respondent or above, you have access to the shovel, it is a powerful tool that can remove debris quickly!
 
 If a train driver derails their train and they are still seated, give them a warning to remove the train, if they refuse to remove the train you are permitted to kill them.
 
@@ -219,7 +230,7 @@ An enemy is defined as someone who is on KOS or those who have made their anti-c
 
 **An on-duty PET respondent may never intentionally clear intact cargo, nor intentionally push cargo just to clear it. The exception to this rule being the cargo is already unrecoverable, flipped, or blocking train tracks.**
 
-![image|690x352](upload://fzoNuSiDjti3Ei8WCDhZZexHBf7.jpeg)
+![image|690x352](upload://ckbwN14sPQsUdf2qW4bHzcpyCul.png)
 
 [/details]
 
@@ -233,7 +244,7 @@ You don’t have to warn someone for causing fires if they: are on KOS, attack y
 
 You should never spread or start fires whilst being on-duty for PET. As a PET respondent you are prohibited from using both the firestick and the flamethrower whilst on-duty.
 
-![image|690x435](upload://dRLPp04pw6E6GUMp9EmiarQ0IR0.jpeg)
+![image|690x435](upload://9qs7IaTpfkvs8bePox4m0AnzLdk.png)
 
 [/details]
 
@@ -241,11 +252,11 @@ You should never spread or start fires whilst being on-duty for PET. As a PET re
 
 As a PET Respondent, you must ensure that the satellite connection located in the computer science labs is kept on at all times in case of a missile event.
 
-During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill any non-PET and non-PBST that enter the room. This restriction is automatically voided the moment the disaster ends.
+During the Missiles event, the Labs room is automatically restricted, this means that you are free to kill any non PET/PBST that enter the room. This restriction is automatically voided once the disaster ends.
 
 You can use the PET Tablet to quickly view whether the satellite connection is enabled or disabled.
 
-![image|690x352](upload://aOLjXDlgkVlxCg9EhiXyI3nboIv.jpeg)
+![image|690x352](upload://kuPAG98Ob9CnRwHP2NkPxwJFakr.png)
 
 [/details]
 
@@ -253,7 +264,7 @@ You can use the PET Tablet to quickly view whether the satellite connection is e
 
 Abominations are, by default, on KOS for PET, and PET may never go on-duty as one. However if possible, it is preferred that the Disinfector is used to remove an abomination's threat.
 
-* Skilled Respondents and above have access to the *Disinfector* allowing them to remove the mutant effect on a player without killing them.
+- Skilled Respondents and above have access to the _Disinfector_ allowing them to remove the mutant effect on a player without killing them.
 
 If an SR+ encounters an abomination, it's recommended for them to utilize their disinfector before engaging in combat with the abomination. One exception to this is during the **King Abomination** disaster.
 
@@ -265,13 +276,13 @@ Once the player has been returned to a normal status, they shall be healed and s
 
 Radiation Puddles have the ability to spawn randomly throughout the map, and do damage when touched! These can be cleaned up by either the mop or the Spill Kit tool.
 
-The mop can be found in the supply closet located at the Lunch Silos/Cafeteria.
+The mop can be found in the supply closet located at the Cafeteria.
 
-* Trained Respondents and above have access to the Spill Kit tool, allowing them to clear these puddles at a faster rate than the mop.
+- Trained Respondents and above have access to the Spill Kit tool, allowing them to clear these puddles at a faster rate than the mop.
 
 When seen, Respondents must clear these as quickly as possible to prevent the harm of visitors within the facility! Heal any affected players that may have been injured as well!
 
-![Supply Closet|690x388, 100%](upload://MnncCVcUiR5wUvYd1BCkUXXfvL.jpeg)
+![Supply Closet|690x388, 100%](upload://272ksJC2etACwrldA3qW2Losm9R.jpeg)
 
 [/details]
 
@@ -287,17 +298,17 @@ If the core reaches freezing temperature, (-3000 or -2000 in official freezedown
 
 You can use the PET Tablet to quickly view whether the generators are enabled or disabled as well as the fuel level.
 
-![image|690x352](upload://86xCbgt9l5zZXTyaRWgMF9M28Gi.jpeg)
+![image|690x352](upload://wvLbqsTFU7vZTX49fNAjfzs1Z6C.png)
 
 [/details]
 
 [details="❄️ E-Coolant"]
 
-Emergency Coolant, abbreviated as E-Coolant, is a PBCC gameplay mechanic located at Sector G that allows users to have a last-minute chance at saving the core once a Meltdown begins.
+Emergency Coolant (aka E-Coolant), located at Sector G allows players to have a last-minute chance at saving the core once a Meltdown begins.
 
-To access both doors at Sector G, you need to input the code **5334118**.
+The code to access both doors at Sector G is **5334118**.
 
-E-coolant plays an important role for PET, as it can prevent the chance of total facility destruction! Therefore, the E-Coolant must be kept under PET's (and PBST if they are present) control! If successful, the E-Coolant will prevent the core from entering into a meltdown phase, **During the whole E-Coolant procedure, PET is allowed to attack players that interfere with their mission of successfully activating the e-coolant rods!**
+E-Coolant plays an important role for PET, as it can prevent the chance of total facility destruction! Therefore, the E-Coolant must be kept under PET (and PBST) control! If successful, the E-Coolant will prevent the core from entering into a meltdown phase, **During the whole E-Coolant procedure, PET is allowed to attack players that interfere with their mission of successfully activating the e-coolant rods!**
 
 This includes players who are:
 
@@ -307,21 +318,21 @@ This includes players who are:
 
 - Attacking other players/respondents who are correctly filling the E-Coolant rods.
 
-To try to successfully prevent a meltdown through E-Coolant; at least *one* of the rods must have their levels between **69 and 81** percent to be green. Going above or below those ranges will make the rod unusable.
+To try to successfully prevent a meltdown through E-Coolant; at least _one_ of the rods must have their levels between **69 and 81** percent to be green. Going above or below those ranges will make the rod unusable.
 
 You should, however, always aim for all three rods to be green, as that increases the chances of success of E-Coolant!
 
-Success Rates for the number of green rods when the countdown reaches *0*
+Success Rates for the number of green rods when the countdown reaches _0_
 
-1 rod - 25%, if successful, it will set the core temperature **back to 3600 degrees!**
+1 rod - 25% | If successful, sets the core temperature **3600 degrees!**
 
-2 rods - 45%, if successful, it will set the core temperature **back to 3400 degrees!**
+2 rods - 45% | If successful, sets the core temperature **3400 degrees!**
 
-3 rods - 90%, if successful, it will set the core temperature **back to 3000 degrees!**
+3 rods - 90% | If successful, sets the core temperature **3000 degrees!**
 
-***Be warned! Each time E-Coolant works, the success rates above will decrease by 20%, so make sure you do not rely on it, and only use it AS THE LAST RESORT.***
+**_Be warned! Each time E-Coolant works, the success rates above will decrease by 20%. Only use it AS THE LAST RESORT._**
 
-![image|690x352](upload://v5TOSNEgPTXkbMswhdmAH4AjyGi.jpeg)
+![image|690x352](upload://jsHVpjWKsMPEN84TbkCzcxu4JDY.png)
 
 [/details]
 
@@ -332,50 +343,50 @@ During a Meltdown or Freezedown, the responsibility of PET respondents is to eff
 [/details]
 
 [/details]
----
+
 [details="🛢️ PBOP"]
 
-**PET HQ:** The PET HQ is located on the **12th Floor**, the PET Room is found after walking onto the platform from the Heliport, taking the first left, and will be at the end of the hall under the “PET Department” sign. Inside are the loadout giver, uniform givers, repair restock, STS area, leak counters, and the PET Scuba Gear.
+**PET HQ** is located on the **12th Floor**, it's found after walking onto the platform from the Heliport, taking the first left, and will be at the end of the hall under the “PET Department” sign. Inside are the loadout and uniform givers, repair restock, STS area, leak counters, and PET Scuba Gear
 
-**Control Room:** The Control Room is located on the **5th Floor**, the Control Room is recognizable through the large window looking out to the Drill. It has a main entrance on the 5th Floor on the Heliport side of the platform. It also has a Vent entrance on the 9th Floor directly above the Gas Valves, which is above the Pinewood Facility Map. Inside are the Drill Control, Refinery Control, and Blowout Counter. PET is authorized to use controls here and EM (Export Management) to assist PBST in making money.
+**Control Room** is located on the **5th Floor**. It's main entrance is on the 5th Floor on the Heliport side of the platform. It also has a vent entrance on the 9th Floor directly above the Gas Valves. Inside are the Drill & Refinery controls, and a blowout counter
 
-**Export Management:** The Export Management is located on the **7th Floor**, Export Management is accessible easily by jumping down from the Heliport and following the red line. It also has a Vent entrance located on the **9th Floor** directly above the Gas Valves, leading to the Meeting Room directly next to Export Management. Inside are the Export Panels, Upgrade Panel, and the Purchasable Panel.
+**Export Management** is located on the **7th Floor**, it's easily accessible by jumping down from the Heliport and following the red line. Inside are panels pertaining to exports and purchases
 
-**Oil Valves:** Oil Valves are located on the **3rd Floor** , Oil Valves are accessible from both the **3rd Floor and 4th Floor** through doors that face the Drill. It can be found by following a **green line** from the Control Room and the Center Stairwell.
+**Oil Valves** are located on the **3rd Floor**, they're accessible from both the **3rd Floor and 4th Floor** through doors that face the Drill. They can be found by following a **green line** from the Control Room and the center stairwell
 
-**Gas Valves:** Gas Valves are located on the **7th Floor**, Gas Valves are accessible easily by jumping down from the Heliport and following the **yellow line**. It is also accessible from the Center Stairwell, taking a right after exiting on the 7th Floor.
+**Gas Valves** are located on the **7th Floor**, they're accessible by jumping down from the Heliport and following the **yellow line**
 
-**Generators:** Generators are located on the **1st Floor** , Generators are accessible through doors on the 2nd Floor and 1st Floor that face the Drill
+**Generators** are located on the **1st Floor**, they're accessible through doors on the 2nd Floor and 1st Floor that face the Drill
 
-**Pressure:** Both pressure values separately cause Blowout at 4000 PSI. There are 5 Pressure Ranges, Low, Normal, Optimal, High, and Critical.
+There are 5 **Pressure Ranges**: Low, Normal, Optimal, High, and Critical. Both pressure valves seperately cause a blowout at 4000 PSI
 
-**Low: 0-10 PSI**
+**Low**: 0-10 PSI
 
-**Normal: 10-1000 PSI & 1500-2500 PSI**
+**Normal**: 10-1000 PSI & 1500-2500 PSI
 
-**Optimal: 1000-1500 PSI**
+**Optimal**: 1000-1500 PSI
 
-**High: 2500-3500 PSI**
+**High**: 2500-3500 PSI
 
-**Critical: 3500+ PSI**
+**Critical**: 3500+ PSI
 
 [details="📋 Objectives"]
 
-* Maintain and refuel gens
+- Maintaining and refueling generators
 
-* Repair oil and export pipe leaks, as well as broken drill pipes
+- Repairing oil, export pipe leaks, as well as broken drill pipes
 
-* Healing people
+- Healing injured players
 
-* Respond to disasters
+- Responding to on-site disasters
 
-* Evacuate the platform if blowout occurs
+- Evacuating the platform should a blowout occur
 
-* Deal with zombies
+- Dealing with zombies
 
-* Extinguish and clear explosive barrels
-
-**You can touch the control room controls when pressure is critical! (3500+)**
+- Extinguishing and disposing of explosive barrels
+  
+**PET can use the valves to prevent blowout when pressure is critical (3500+). Exports/control buttons may be used anytime to help make money.**
 
 [/details]
 
@@ -429,15 +440,15 @@ This is the first rank that can be achieved through an evaluation. This rank com
 
 (Takes place at [PBCC](https://www.roblox.com/games/17541193/) !petserver, quiz may be taken in the [PB Quiz Hub](https://www.roblox.com/games/17436419784/PET-Quiz-Hub) however, accommodations can be made and you may ask to take it a different way)
 
-* **Phase 1:** Refill coolant and generator fuel in one run with the cargo train. This must be completed in 70 seconds or less.
+- **Phase 1:** Refill coolant and generator fuel in one run with the cargo train. This must be completed in 70 seconds or less.
 
-* **Phase 2:** Using the speed coil provided, you must turn off all core lasers and set the reactor power to 1 in 35 seconds or less.
+- **Phase 2:** Using the speed coil provided, you must turn off all core lasers and set the reactor power to 1 in 35 seconds or less.
 
-* **Phase 3:** With the tools provided, extinguish the fires in Cargo Bay 1B in 75 seconds or less.
+- **Phase 3:** With the tools provided, extinguish the fires in Cargo Bay 1B in 75 seconds or less.
 
-* **Phase 4:** Answer 8 basic questions about the PET handbook and our duties around the PBCC. You only have to get 7 correct in order to pass, but you should aim for 100%.
+- **Phase 4:** Answer 8 basic questions about the PET handbook and our duties around the PBCC. You only have to get 7 correct in order to pass, but you should aim for 100%.
 
-* **Phase 5:** Pass a consensus from one Specialist other than the evaluator.
+- **Phase 5:** Pass a consensus from one Specialist other than the evaluator.
 
 <div><h3>Tools:</div>
 
@@ -451,11 +462,11 @@ This is the first rank that can be achieved through an evaluation. This rank com
 
 <div><h3>Permissions:</div>
 
-* Access to the in-game `!call pet` command.
+- Access to the in-game `!call pet` command.
 
-* Access to write in the tips-for-duties channel in the communications server.
+- Access to write in the tips-for-duties channel in the communications server.
 
-* Access to ranked announcements and a ranked chat for Trained Respondent+ in the communications server.
+- Access to ranked announcements and a ranked chat for Trained Respondent+ in the communications server.
 
 [/details]
 
@@ -471,31 +482,31 @@ The second rank that can be achieved through an evaluation.
 
 (Takes place at [PBCC](https://www.roblox.com/games/17541193/) !petserver)
 
-* **Phase 1:** With the coils provided, drain the radiation flood by opening all 4 drainage valves, engaging the pumps, and clearing the waste in 85 seconds or less.
+- **Phase 1:** With the coils provided, drain the radiation flood by opening all 4 drainage valves, engaging the pumps, and clearing the waste in 85 seconds or less.
 
-* **Phase 2:** Using the tools provided, clear the debris from Cargo Bay 1C in 110 seconds or less.
+- **Phase 2:** Using the tools provided, clear the debris from Cargo Bay 1C in 110 seconds or less.
 
-* **Phase 3:** Using the tools provided, extinguish the fires and clear the debris from Cargo Bay 1B in 125 seconds or less.
+- **Phase 3:** Using the tools provided, extinguish the fires and clear the debris from Cargo Bay 1B in 125 seconds or less.
 
-* **Phase 4:** Using the speed coil provided, fill up all three e-coolant pipes to a green capacity and keep them green until the 65 seconds timer ends.
+- **Phase 4:** Using the speed coil provided, fill up all three e-coolant pipes to a green capacity and keep them green until the 65 seconds timer ends.
 
-* **Phase 5:** Pass a consensus from two Specialists other than the evaluator.
+- **Phase 5:** Pass a consensus from two Specialists other than the evaluator.
 
 <div><h3>Tools:</div>
 
-* **Upgraded PET Shovel**: Increased radius and smaller cooldown.
+- **Upgraded PET Shovel**: Increased radius and smaller cooldown.
 
-* **Upgraded PET Med-Kit**: This med-kit heals **57 HP** and has a cooldown of **8 seconds**.
+- **Upgraded PET Med-Kit**: This med-kit heals **57 HP** and has a cooldown of **8 seconds**.
 
-* **Upgraded PET Fire Hose**: Extinguishes fires faster than the Trained Respondent fire hose.
+- **Upgraded PET Fire Hose**: Extinguishes fires faster than the Trained Respondent fire hose.
 
-* **Disinfector**: Firearm used to remove the mutation affect from abominations, making them normal players.
+- **Disinfector**: Firearm used to remove the mutation affect from abominations, making them normal players.
 
 <div><h3>Permissions:</div>
 
-* All of the Trained Respondent's permissions.
+- All of the Trained Respondent's permissions.
 
-* Access to the Reward Request system in the PET communications server.
+- Access to the Reward Request system in the PET communications server.
 
 [/details]
 
@@ -505,7 +516,7 @@ The second rank that can be achieved through an evaluation.
 
 The third and final rank that can be achieved through an evaluation, and also the first MR rank within PET. Lieutenants are expected to be role models for other respondents and must be aware of their actions, especially when hosting events.
 
-*As a Lieutenant, you will need to be in the PET communications server (Former HRs are exempt from this rule)*
+_As a Lieutenant, you will need to be in the PET communications server (Former HRs are exempt from this rule)_
 
 **Requirements:** You must first be a Skilled Respondent for **three weeks** before you can evaluate up to this rank. 300 points + pass the Lieutenant evaluation
 
@@ -513,39 +524,39 @@ The third and final rank that can be achieved through an evaluation, and also th
 
 (Takes place at [PBCC](www.roblox.com/games/17541193) !petserver)
 
-* **Phase 1:** Using the tools provided, extinguish the fires and clear the debris from Cargo Bay 1C in 200 seconds or less.
+- **Phase 1:** Using the tools provided, extinguish the fires and clear the debris from Cargo Bay 1C in 200 seconds or less.
 
-* **Phase 2:** Answer 5 question quiz relating to patrol knowledge and leadership, you must pass all phases above before being eligible to take the quiz.
+- **Phase 2:** Answer 5 question quiz relating to patrol knowledge and leadership, you must pass all phases above before being eligible to take the quiz.
 
-* **Phase 3:** Pass a consensus from three Specialists other than the evaluator.
+- **Phase 3:** Pass a consensus from three Specialists other than the evaluator.
 
 <div><h3>Tools:</div>
 
-* **Upgraded PET Shovel**: Increased radius and smaller cooldown.
+- **Upgraded PET Shovel**: Increased radius and smaller cooldown.
 
-* **Upgraded PET Med-Kit**: This med-kit heals **72 HP** and has a cooldown of **7 seconds**.
+- **Upgraded PET Med-Kit**: This med-kit heals **72 HP** and has a cooldown of **7 seconds**.
 
-* **Upgraded PET Fire Hose**: Extinguishes fires faster than the Skilled Respondent fire hose.
+- **Upgraded PET Fire Hose**: Extinguishes fires faster than the Skilled Respondent fire hose.
 
 <div><h3>Permissions:</div>
 
-* All of the Skilled Respondent’s permissions.
+- All of the Skilled Respondent’s permissions.
 
-* Ability to host Raid Responses.
+- Ability to host Raid Responses.
 
-* Ability to host PBST Patrol Supports.
+- Ability to host PBST Patrol Supports.
 
-* Ability to file punishment requests for PET Leadership.
+- Ability to file punishment requests for PET Leadership.
 
-* Access to an exclusive channel for Lieutenants and above in the communications server.
+- Access to an exclusive channel for Lieutenants and above in the communications server.
 
-* Access to a communications channel with TMS and PBST Event Hosts.
+- Access to a communications channel with TMS and PBST Event Hosts.
 
-* Ability to issue KOS orders outside of PET events if they are in-game and on duty as PET. They may issue KOS orders during PET events if they have permission from the event host.
+- Ability to issue KOS orders outside of PET events if they are in-game and on duty as PET. They may issue KOS orders during PET events if they have permission from the event host.
 
-* Ability to Restrict E-Coolant during a Meltdown.
+- Ability to Restrict E-Coolant during a Meltdown.
 
-* Ability to host gamenights in the communications server (with permission from a Specialist).
+- Ability to host gamenights in the communications server (with permission from a Specialist).
 
 [/details]
 
@@ -563,19 +574,19 @@ Marshalls and above are automatically considered Deputies.
 
 <div><h3>Tools:</div>
 
-* **Upgraded PET Shovel**: Increased radius and smaller cooldown.
+- **Upgraded PET Shovel**: Increased radius and smaller cooldown.
 
-* **Upgraded PET Med-Kit**: This med-kit heals **72 HP** and has a cooldown of **6 seconds**.
+- **Upgraded PET Med-Kit**: This med-kit heals **72 HP** and has a cooldown of **6 seconds**.
 
-* **Upgraded PET Fire Hose**: Extinguishes fires faster than the Lieutenant fire hose.
+- **Upgraded PET Fire Hose**: Extinguishes fires faster than the Lieutenant fire hose.
 
 <div><h3>Permissions:</div>
 
 (only applies if they've been chosen by the patrol host to Deputy)
 
-* All of the Lieutenant’s permissions.
+- All of the Lieutenant’s permissions.
 
-* Leading a small group of respondents during a Patrol
+- Leading a small group of respondents during a Patrol
 
 [/details]
 
@@ -585,53 +596,53 @@ Marshalls and above are automatically considered Deputies.
 
 The first HR rank in PET. A Marshall has many enhanced permissions and responsibilities, which include the ability to host patrols, as well as moderation abilities in the communications server. You can be invited to Marshall from any rank, however being a Deputy helps your chances greatly.
 
-*As a Marshall, you will need access to the PET communications server as well as having 2-factor authentication enabled!*
+_As a Marshall, you will need access to the PET communications server as well as having 2-factor authentication enabled!_
 
 **Requirements:** Handpicked for evaluation.
 
 <div><h3>Evaluation:</div>
 
-* Nominated to take an evaluation by a Specialist
+- Nominated to take an evaluation by a Specialist
 
-* Quiz of 11 questions to test multiple skills such as hosting skills, moderation, etc.
+- Quiz of 11 questions to test multiple skills such as hosting skills, moderation, etc.
 
-* Hosting a supervised patrol, observed by a Specialist.
+- Hosting a supervised patrol, observed by a Specialist.
 
-* Passing consensus vote among current Specialists.
+- Passing consensus vote among current Specialists.
 
 <div><h3>Tools:</div>
 
-* **Upgraded PET Shovel**: Increased radius and smaller cooldown.
+- **Upgraded PET Shovel**: Increased radius and smaller cooldown.
 
-* **Upgraded PET Med-Kit**: This med-kit heals **72 HP** and has a cooldown of **5.5 seconds**.
+- **Upgraded PET Med-Kit**: This med-kit heals **84 HP** and has a cooldown of **5.5 seconds**.
 
-* **Upgraded PET Fire Hose**: Extinguishes fires faster than the Deputy fire hose.
+- **Upgraded PET Fire Hose**: Extinguishes fires faster than the Deputy fire hose.
 
-* **Health Field**: This bubble-like tool provides healing to any player, regardless of ranktag, within the inside of the shield. The healing shield will automatically destroy itself after some time, or when its durability reaches zero.
+- **Health Field**: This bubble-like tool provides healing to any player, regardless of ranktag, within the inside of the shield. The healing shield will automatically destroy itself after some time, or when its durability reaches zero.
 
 <div><h3>Permissions:</div>
 
-* All of the Deputy's permissions.
+- All of the Deputy's permissions.
 
-* Ability to host Patrols, including Joint Patrols.
+- Ability to host Patrols, including Joint Patrols.
 
-* Ability to host Trainings, including Joint Trainings (with permission from a Specialist).
+- Ability to host Trainings, including Joint Trainings (with permission from a Specialist).
 
-* Ability to host a Community Patrol if their slot wins.
+- Ability to host a Community Patrol if their slot wins.
 
-* If chosen, they are allowed to host a server during an Operation MEGA event.
+- If chosen, they are allowed to host a server during an Operation MEGA event.
 
-* Issue KOS orders at all times, including Cross-KOS.
+- Issue KOS orders at all times, including Cross-KOS.
 
-* Override uniform requirements.
+- Override uniform requirements.
 
-* Moderation powers in the PET communications server.
+- Moderation powers in the PET communications server.
 
-* Granted smartlog access in-game and in the communications server.
+- Granted smartlog access in-game and in the communications server.
 
-* Kronos Mod (Level 1) at PBCC, PBSTAC, & PBSTTF !petserver
+- Kronos Mod (Level 1) at PBCC, PBSTAC, & PBSTTF !petserver
 
-* May issue room restrictions (Restrictions: Satellite room during missile alarm until the missile can/cannot intercept it. Can restrict the generators room during blackouts, if needed. Can restrict core-related areas only when in a critical state. No other restrictions are allowed).
+- May issue room restrictions (Restrictions: Satellite room during missile alarm until the missile can/cannot intercept it. Can restrict the generators room during blackouts, if needed. Can restrict core-related areas only when in a critical state. No other restrictions are allowed).
 
 [/details]
 
@@ -645,41 +656,39 @@ The second HR rank. Specialists are the leadership rank in PET and manage the gr
 
 <div><h3>Tools:</div>
 
-* **Upgraded PET Shovel**: Increased radius and smaller cooldown.
+- **Upgraded PET Shovel**: Increased radius and smaller cooldown.
 
-* **Upgraded PET Med-Kit**: This med-kit heals **96 HP** and has a cooldown of **5 seconds**.
+- **Upgraded PET Med-Kit**: This med-kit heals **96 HP** and has a cooldown of **5 seconds**.
 
-* **Upgraded PET Fire Hose**: Extinguishes fires faster than the Marshall fire hose.
-
-* **Health Field**: This bubble-like tool provides healing to any player, regardless of ranktag, within the inside of the shield. The healing shield will automatically destroy itself after some time, or when its durability reaches zero.
+- **Upgraded PET Fire Hose**: Extinguishes fires faster than the Marshall fire hose.
 
 <div><h3>Permissions:</div>
 
-* All of the Marshall's permissions
+- All of the Marshall's permissions
 
-* Specialists have full authority over lower-ranked members regarding all situations, ranging from handbook violations to KOS orders.
+- Specialists have full authority over lower-ranked members regarding all situations, ranging from handbook violations to KOS orders.
 
-* Specialists also have the highest authority to cancel any event where they deem that it is appropriate to do so.
+- Specialists also have the highest authority to cancel any event where they deem that it is appropriate to do so.
 
-* Allowed to host any type of PET event & override training hosting rules.
+- Allowed to host any type of PET event & override training hosting rules.
 
-* Allowed to override any KOS orders for users below them in rank.
+- Allowed to override any KOS orders for users below them in rank.
 
-* Granted full access to the PET database, to handle points, promote members, and more.
+- Granted full access to the PET database, to handle points, promote members, and more.
 
-* Allowed to wear the official PET leadership hoodie.
+- Allowed to wear the official PET leadership hoodie.
 
-* Granted full administration access in the communications server.
+- Granted full administration access in the communications server.
 
-* Granted Global moderator powers in PB Games and administrator powers in private servers.
+- Granted Global moderator powers in PB Games and administrator powers in private servers.
 
-* Ability to vote and propose votes in PET.
+- Ability to vote and propose votes in PET.
 
-* Granted direct communications with the Pinewood Intelligence Agency behind closed doors.
+- Granted direct communications with the Pinewood Intelligence Agency behind closed doors.
 
-* Ability to vote with TMS and PBST leadership members regarding subgroup-wide votes.
+- Ability to vote with TMS and PBST leadership members regarding subgroup-wide votes.
 
-* Overall being responsible for all changes done to the group.
+- Overall being responsible for all changes done to the group.
 
 [/details]
 
@@ -694,7 +703,6 @@ The current Chief is **miastar789**.
 **Requirements:** Handpicked by Tokaisho
 
 [/details]
-
 
 ---
 
@@ -712,7 +720,7 @@ Depending on the length of the patrol, points are awarded as follows:
 
 - Patrols that are over 30 minutes - Up to 5 points + bonus
 
-![image|690x272](upload://rwlyfM2MGEd0xmURRJ1wTl9LX3.jpeg)
+![image|690x272](upload://vHdqPtXbAH3AgrKvjinwjvknIcp.png)
 
 [/details]
 
@@ -722,7 +730,7 @@ This is another patrol type where PET and PBST join forces and patrol together i
 
 **The point scale remains the same as for normal patrols.**
 
-![image|690x151](upload://4GTHA3kOSpn208xyLBBhj5ZRfvx.jpeg)
+![image|690x151](upload://6qDS0Fgmzw3RPWfu5IoVLT1xlmS.png)
 
 [/details]
 
@@ -740,7 +748,7 @@ Depending on the length of the patrol support, points are awarded as follows:
 
 60+ minutes - 4 Points
 
-![image|690x485](upload://rFbGXUZqcYYrzb6rIPn5TMQzpGs.jpeg)
+![image|690x485](upload://tJ3WBFjb0w14gcaT8kEmPZyUOYF.png)
 
 [/details]
 
@@ -750,7 +758,7 @@ Trainings are another important event in PET. These are hosted less often than o
 
 **You can earn up to 5 PET points from a normal training**.
 
-![image|690x368](upload://xKFjNH9cO0PVZFnde8VcYTNcsON.jpeg)
+![image|690x368](upload://r1rR2AXc73nGO126f8tByCXPGMy.png)
 
 [/details]
 
@@ -760,73 +768,39 @@ Raid Responses are an event where PET responds to raids hosted by TMS. During th
 
 Regular raids can award up to 5 points, with 6 being given as a bonus
 
-MEGA Raids can award up to 8 points, with 9 being given as a bonus
+![image|690x225](upload://soYK7KAcq9J3xfarQyVyFTsddTP.png)
 
-![image|690x225](upload://vdk6MXvtrEPSWhio4U1hxOWRvm5.jpeg)
+[details="♨️ Meltdown / 🧊 Freezedown"]
 
-[details="♨️ Meltdown"]
+During meltdown/freezedown raids, depending on the temperature, PET's objectives may vary. Once the cores temperature reaches 2000/-2000 it is then considered to be in critical state and PET respondents are additionally allowed to adjust the cores temperature to 1000/-1000 degrees. TMS is on automatic KOS during raids once the cores reaches this critical state unless specified otherwise by Lieutenant+. During meltdown raids, PET can fix the coolant pipe at any temperature. During freezedowns, PET may break the pipe at any point.
 
-During meltdown raids, depending on the temperature, PET's objectives may vary. Once the cores temperature reaches 2000 it is then considered to be in critical state and PET respondents are additionally allowed to cool down the cores temperature to 1000 degrees. TMS is on automatic KOS during raids once the cores reaches this critical state unless specified otherwise by Lieutenant+. During meltdown raids, PET can fix the coolant pipe at any temperature.
+**Objectives Before 2000/-2000:**
 
-__Objectives Before 2000:__
+- Handling chaos
 
-* Handling chaos
+- Healing PBST
 
-* Healing PBST
+- Fueling Generators
 
-* Fueling Generators
+- Fixing/Breaking the coolant pipe
 
-* Fixing coolant pipe
+- Dealing with disasters
 
-* Dealing with disasters
+- Destroying/hacking TMS sentries, healing PBST sentries
 
-* Destroying/hacking TMS sentries, healing PBST sentries
+**Objectives Past 2000/-2000:**
 
-__Objectives Past 2000:__
+- Cooling/Heating the core temperature.
+  
+- Everything else becomes a secondary objective unless it's interfering with the main objective
 
-* Cooling down the core
+- As a last resort during meltdowns, E-Coolant may be used once the core temperature reaches 4000 (more info may be found under the E-Coolant section)
 
-* Everything else becomes a secondary objective unless it's interfering with the main objective
+**Post-Melt/Freeze objectives:**
 
-* As a last resort, E-Coolant may be used once the core temperature reaches 4000 (more info may be found under the E-Coolant section)
+- If there are visitors present - an evacuation run
 
-__Post-Meltdown objectives:__
-
-* If there are visitors present - an evacuation run
-
-* Fuel the gens and turn them on once the core stops supplying power
-
-[/details]
-
-[details="🧊 Freezedown"]
-
-During freezedown raids, depending on the core's temperature, PETs objectives may vary. Once the core temperature reaches -2000 it is then considered to be in a critical state and PET respondents are additionally allowed to heat up the core to -1000 degrees. TMS is on automatic KOS once core reaches this critical state unless specified otherwise by Lieutenant+. During freezedown raids, PET can break the pipe at any temperature.
-
-__Objectives Before -2000:__
-
-* Handling chaos
-
-* Healing PBST
-
-* Fueling Generators
-
-* Breaking coolant pipe
-
-* Dealing with disasters
-
-* Destroying/hacking TMS sentries, healing PBST sentries
-
-__Objectives Below -2000:__
-
-* Heating up the core
-
-* Everything else becomes a secondary objective unless it's interfering with the main objective
-
-__Post-Freezedown objectives:__
-
-* If there are visitors present - evacuation run
-
-* Fuel the gens and turn them on once the core stops supplying power
+- Fuel the gens and turn them on once the core stops supplying power
 
 [/details]
 
@@ -834,21 +808,21 @@ __Post-Freezedown objectives:__
 
 During chaos raids, PET plays a crucial role in ensuring that any chaos caused throughout the facility is dealt with as quickly as possible. TMS is on automatic KOS during chaos raids.
 
-__Objectives:__
+**Objectives:**
 
-* Extinguishing Fires
+- Extinguishing Fires
 
-* Fighting TMS
+- Fighting TMS
 
-* Fueling Generators
+- Fueling Generators
 
-* Healing PBST
+- Healing PBST
 
-* Dealing with disasters
+- Dealing with disasters
 
-* Clearing debris
+- Clearing debris
 
-* Destroying/hacking TMS sentries, healing PBST sentries
+- Destroying/hacking TMS sentries, healing PBST sentries
 
 [/details]
 
@@ -856,11 +830,11 @@ __Objectives:__
 
 During Incursions, PETs main objective is to assist PBST in securing specific areas appointed by the raid host. TMS is not on KOS unless stated otherwise by a Lieutenant+.
 
-__Objectives:__
+**Objectives:**
 
-* Healing PBST
+- Healing PBST
 
-* Destroying/hacking TMS sentries, healing PBST sentries
+- Destroying/hacking TMS sentries, healing PBST sentries
 
 [/details]
 
@@ -869,7 +843,7 @@ __Objectives:__
 MEGA Raids are rare events organised by TMS, hosted a couple of times per year, where multiple servers are raided at the same time. The usual goal of TMS is to achieve a meltdown in every server. PET's goal during this event is to assist PBST and help defend the core, attempting to bring its temperature down once it reaches a critical state.
 
 [/details]
----
+
 [/details]
 **⭐ Special Events:**
 
@@ -893,8 +867,7 @@ The scheduling process is simple:
 
 **You can earn up to 7 points from a Community Patrol, with a possible bonus of 8!**
 
-![image|467x500](upload://axaa5o6vahd3iFzS8ia21a3mDDE.jpeg)
-
+![image|467x500](upload://kHqkuyzpbgQIyUxRy6wTPMyqypt.png)
 
 [/details]
 
@@ -902,11 +875,11 @@ The scheduling process is simple:
 
 The biggest and most important PET event! These events are scheduled by the Specialist Team and are announced well in advance. During this event, a large group of PET respondents come together and tackle multiple servers at PBCC to keep the facility clean of any chaos and resolve any disasters that may occur. Marshall+ are eligible to host a server during this event.
 
-**Just like in community patrols, PET respondents are allowed to use the core controls to maintain the core temperature at all times during this event, regardless of the temperature!**
+**Just like in Community Patrols, PET respondents are allowed to use the core controls to maintain the core temperature at all times during this event, regardless of the temperature!**
 
 **You can earn up to 10 points from Operation MEGA, with a possible bonus of 11!**
 
-![image|690x228](upload://8XYHAOln6wcXs1MJ1b1xZqOnB0q.jpeg)
+![image|690x228](upload://f690MEroswfsOn8YcFAA9bNdGGj.png)
 
 [/details]
 
@@ -914,7 +887,7 @@ The biggest and most important PET event! These events are scheduled by the Spec
 
 <div align="center"><h1>🔥 Respondents of The Month 🔥</div>
 
-Respondent of The Month is a title awarded to people each month that have shown initiative, commitment, and have made an overall positive impact in the group that month. Every month, one to three respondents will be chosen for this award to recognize and congratulate them as they have clearly showcased that they are great role models for others and have an attitude willing to improve. Others should look up to those who have achieved this award, as they demonstrate that they are among the best!
+Respondent of The Month is a title awarded to people each month that have shown initiative, commitment, and have made an overall positive impact in the group that month. Every month, 1-3 respondents will be chosen for this award to recognize and congratulate them as they have clearly showcased that they are great role models for others and have an attitude willing to improve.
 
 Those who get this award also get a cool "Respondent of The Month" PET ranktag in-game!
 
@@ -936,27 +909,27 @@ Both actions can usually be appealed in the Pinewood Builders Appeal Center.
 
 All PET hosts have to follow rules regarding hosting. These rules are seen below.
 
-* If the last event was a Patrol, one has to wait **2** hours to host another event.
+- If the last event was a Patrol, one has to wait **2** hours to host another event.
 
-* If the last event was a Training, one has to wait **3** hours to host another event.
+- If the last event was a Training, one has to wait **3** hours to host another event.
 
-* If the last event was a Community Patrol, one has to wait **5** hours to host another event.
+- If the last event was a Community Patrol, one has to wait **5** hours to host another event.
 
-* If the last event was an OPERATION MEGA, one has to wait **7** hours to host another event.
+- If the last event was an Operation MEGA, one has to wait **7** hours to host another event.
 
-* Marshalls can schedule up to **14** days in advance.
+- Marshalls can schedule up to **14** days in advance.
 
-* Patrols cannot be less than **20** minutes and may not exceed **45** minutes (Does not apply to MEGA or Community Patrols).
+- Patrols cannot be less than **20** minutes and may not exceed **45** minutes (Does not apply to MEGA or Community Patrols).
 
-* Only **1** training may take place per UTC day, Marshalls require approval from a Specialist to host Trainings.
+- Only **1** training may take place per UTC day, Marshalls require approval from a Specialist to host Trainings.
 
-* A Lieutenant may only host one event every **48** hours (start of one event to start of another one).
+- A Lieutenant may only host one event every **48** hours (start of one event to start of another one).
 
-* A Lieutenant may only schedule up to **5** days in advance and may only have **2** events scheduled at the same time.
+- A Lieutenant may only schedule up to **5** days in advance and may only have **2** events scheduled at the same time.
 
-* Patrol Supports and Raid Responses do not rely on the PET schedule and may overlap other events and do not follow the same cooldowns as Patrols and Trainings.
+- Patrol Supports and Raid Responses do not rely on the PET schedule and may overlap other events and do not follow the same cooldowns as Patrols and Trainings.
 
-* PET, PBST, and TMS hosts are not allowed to host an event 1 hour before and after a PET Operation MEGA, a PBST MEGA training, or a TMS MEGA raid.
+- PET, PBST, and TMS hosts are not allowed to host an event 1 hour before and after a PET Operation MEGA, a PBST MEGA training, or a TMS MEGA raid.
 
 Every host is expected to follow these hosting rules. Specialists and above have the authority to end any event early or postpone it should it violate said rules. Specialists can also override the cooldowns and in special cases give permission for hosts to override some rules.
 
@@ -974,13 +947,13 @@ Take into account, PBST Trainers have access to sentries that can attack on-duty
 
 Feel free to read the PBST handbook to gain more information on what they do: [Pinewood Builders Security Team Handbook](https://devforum.roblox.com/t/pinewood-builders-security-team-handbook/3894621)
 
-![image|690x352](upload://win6gFL0InnLEJgYtSmTm6t88mX.jpeg)
+![image|690x352](upload://sEFkEgunVUyRycO8dgcgaW1Pcs0.png)
 
 [/details]
 
 [details="🧨 TMS"]
 
-[The Mayhem Syndicate ](https://www.roblox.com/groups/4890641/The-Mayhem-Syndicate#!/about) is the raid group of PB and as such, will be a common enemy for any PET. Certain rules need to be followed when dealing with Syndicates, as well as when responding to their coordinated raids on PBCC.
+[The Mayhem Syndicate](https://www.roblox.com/groups/4890641/The-Mayhem-Syndicate#!/about) is the raid group of PB and as such, will be a common enemy for any PET. Certain rules need to be followed when dealing with Syndicates, as well as when responding to their coordinated raids on PBCC.
 
 You may occasionally encounter the Syndicates at PET patrols. Unless they attack PET or set the cargo bays on fire, they will usually not be on PET KOS.
 
@@ -996,7 +969,7 @@ There are rare cases where a Syndicate goes rogue, and will attempt to save the 
 
 Feel free to read the TMS handbook to gain more information on what they do: [The Mayhem Syndicate Handbook](https://devforum.roblox.com/t/the-mayhem-syndicate-handbook/3281561)
 
-![image|690x352](upload://cvNP0LRu6BdnEDprLPdAQmfpLb1.jpeg)
+![image|690x352](upload://8DQ1bU8TZXjQ3D3np3dPpmg5uaA.png)
 
 [/details]
 
@@ -1010,9 +983,9 @@ This handbook is subject to change and will be updated to accurately meet all ch
 
 <div align="center"><h1>The Specialists</h1></div>
 
-![FinalizedVersion|690x388](upload://4tmkVO50gStY4FnMIbJGF1xmTPB.jpeg)
+![FinalizedVersion|690x388](upload://pd8nvAntvIPlO07mG20hRqJl8XZ.png)
 
-------------------------
+---
 
 -------------------------
 
