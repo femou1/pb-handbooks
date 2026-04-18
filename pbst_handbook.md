@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-03-03 06:01:29 UTC | #1
+yoshifan0312 | 2026-04-18 04:37:32 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 3 March: Added info on PET Mega Patrols in "PET Patrol Support" section
+`Last Update:` 18 April: Added "Pings" section
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -231,6 +231,22 @@ Room restrictions are designed to curtail distractions caused by visitors in tim
 • Outside of events, room restrictions are in-effect until the core is within a relatively safe temperature (-800/800) (unless stated otherwise)
 
 When a room restriction is not declared, you may never warn a visitor to leave an area. This is known as an unauthorized room restriction.
+
+[/details]
+
+[details="Pings"]
+
+In PBCC, click the "Pings" icon in the top-left corner or use the keyboard shortcut "V" to use pings.
+
+Pings help you communicate with other on-duty PBST members by displaying an icon and playing a sound effect.
+
+Do not use "Room Restricted"/"Room Unrestricted" pings without authorization from a person capable of issuing room restrictions (ET/SD).
+
+The pings of Trainees and Cadets have to be processed before being sent, whereas the pings for Tier 1s and above are deployed immediately.
+
+Hosts reserve the right to block users from pinging in case of ping misuse.
+
+![image|672x500](upload://zz6iFY9XrROQ9UqE1jXwARQ9Ljc.png)
 
 [/details]
 
