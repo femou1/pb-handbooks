@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-04-18 04:37:32 UTC | #1
+yoshifan0312 | 2026-05-06 18:59:37 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 18 April: Added "Pings" section
+`Last Update:` 6 May: Removed mega training cooldown
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -961,12 +961,12 @@ Mass evaluations are only done for combat and simulation phases. Complete the qu
 
 [details="Mega Trainings"]
 
-A very special kind of training exists called the Mega Training. This is where a very large group of Security members rally up and train in multiple servers hosted by a Special Defense+. These events are uncommon, no more than once every 6 months, but yield a *large* amount of points.
+A very special kind of training exists called the Mega Training. This is where a very large group of Security members rally up and train in multiple servers hosted by a Special Defense+. These events are uncommon but yield a *large* amount of points.
 
 * During those events Trainers can host their section of Mega Training at any game
 * Special Defense are limited to hosting only at official PBST training games
 
-If you attend the whole training and are on a good behaviour throughout, expect to earn a whopping **twelve points**
+If you attend the whole training and are on a good behavior throughout, expect to earn a whopping **twelve points**
 
 [/details]
 
