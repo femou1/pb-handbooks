@@ -1,4 +1,4 @@
-BananaJeans92 | 2026-04-16 22:46:41 UTC | #1
+BananaJeans92 | 2026-05-21 12:57:28 UTC | #1
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _16 April, 2026_
+`Last update:` _May 21st, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -444,7 +444,7 @@ This is the first rank that can be achieved through an evaluation. This rank com
 
 - **Phase 2:** Using the speed coil provided, you must turn off all core lasers and set the reactor power to 1 in 35 seconds or less.
 
-- **Phase 3:** With the tools provided, extinguish the fires in Cargo Bay 1B in 75 seconds or less.
+- **Phase 3:** With the tools provided, extinguish the fires in Cargo Bay 1B in 60 seconds or less.
 
 - **Phase 4:** Answer 8 basic questions about the PET handbook and our duties around the PBCC. You only have to get 7 correct in order to pass, but you should aim for 100%.
 
