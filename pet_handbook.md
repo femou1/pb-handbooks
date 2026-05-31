@@ -1,4 +1,4 @@
-BananaJeans92 | 2026-05-21 12:57:28 UTC | #1
+BananaJeans92 | 2026-05-31 16:41:49 UTC | #1
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _May 21st, 2026_
+`Last update:` _May 31st, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -341,56 +341,6 @@ Success Rates for the number of green rods when the countdown reaches _0_
 During a Meltdown or Freezedown, the responsibility of PET respondents is to effectively evacuate visitors from the facility, primarily via the Rocket Silos. All non-aggressive visitors of PBCC get the utmost priority to ride in the rockets over PET personnel. Respondents may only use the rockets if no visitors are present, or if neutrals are banned from the event. You may **NEVER** kill any visitors already in a rocket.
 
 [/details]
-
-[/details]
-
-[details="🛢️ PBOP"]
-
-**PET HQ** is located on the **12th Floor**, it's found after walking onto the platform from the Heliport, taking the first left, and will be at the end of the hall under the “PET Department” sign. Inside are the loadout and uniform givers, repair restock, STS area, leak counters, and PET Scuba Gear
-
-**Control Room** is located on the **5th Floor**. It's main entrance is on the 5th Floor on the Heliport side of the platform. It also has a vent entrance on the 9th Floor directly above the Gas Valves. Inside are the Drill & Refinery controls, and a blowout counter
-
-**Export Management** is located on the **7th Floor**, it's easily accessible by jumping down from the Heliport and following the red line. Inside are panels pertaining to exports and purchases
-
-**Oil Valves** are located on the **3rd Floor**, they're accessible from both the **3rd Floor and 4th Floor** through doors that face the Drill. They can be found by following a **green line** from the Control Room and the center stairwell
-
-**Gas Valves** are located on the **7th Floor**, they're accessible by jumping down from the Heliport and following the **yellow line**
-
-**Generators** are located on the **1st Floor**, they're accessible through doors on the 2nd Floor and 1st Floor that face the Drill
-
-There are 5 **Pressure Ranges**: Low, Normal, Optimal, High, and Critical. Both pressure valves seperately cause a blowout at 4000 PSI
-
-**Low**: 0-10 PSI
-
-**Normal**: 10-1000 PSI & 1500-2500 PSI
-
-**Optimal**: 1000-1500 PSI
-
-**High**: 2500-3500 PSI
-
-**Critical**: 3500+ PSI
-
-[details="📋 Objectives"]
-
-- Maintaining and refueling generators
-
-- Repairing oil, export pipe leaks, as well as broken drill pipes
-
-- Healing injured players
-
-- Responding to on-site disasters
-
-- Evacuating the platform should a blowout occur
-
-- Dealing with zombies
-
-- Extinguishing and disposing of explosive barrels
-  
-**PET can use the valves to prevent blowout when pressure is critical (3500+). Exports/control buttons may be used anytime to help make money.**
-
-[/details]
-
-Only Patrol Supports may be held at PBOP.
 
 [/details]
 
