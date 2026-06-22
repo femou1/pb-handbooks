@@ -1,8 +1,8 @@
-BananaJeans92 | 2026-05-31 16:41:49 UTC | #1
+HandbookPET | 2026-06-19 21:07:25 UTC | #1
 
 <div align="center">
 
-![pet_logo|150x150](upload://st4L1SFC3TtZyGiKH5DFBYLCknS.png)
+![pet_logo|150x150](upload://1ooze0tFOIAHonKJZcHMcQJitZq.png)
 
 <h1>Pinewood Emergency Team</h1>
 
@@ -14,11 +14,11 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _May 31st, 2026_
+`Last update:` _June 19th, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
-![image|690x388](upload://zrrK5hMndwm12AXLQA3k6SnmeOY.png)
+![image|690x388](upload://f3qWnBNqw92v1oBREjJEi2XyR9r.png)
 
 ---
 
@@ -66,7 +66,7 @@ You should NEVER switch teams during any official events, this is extremely frow
 
 <div align="center"><h1>ℹ️ Going on-duty ℹ️</div>
 
-![image|690x388](upload://aSpNUlruazkNurMGWKzf3hbqfTl.png)
+![image|690x388](upload://tRN71A8FnPciHWa7ph5azu2YsZa.png)
 
 To be appropriately recognized as an on-duty PET respondent, you must fill out the proper requirements to be on duty.
 
@@ -76,7 +76,7 @@ An on-duty PET respondent may NEVER carry TMS or PBST tools. TMS and PBST are al
 
 Glitching for on-duty PET respondents is prohibited at all times and may lead to disciplinary action if caught.
 
-![image|690x248](upload://4IcQ1uIzio6VWpizYwOjLdzHiCN.png)
+![image|690x248](upload://6B3zZIkCpU9WBGBychsn6YJI7hM.png)
 
 ---
 
@@ -119,7 +119,7 @@ You're allowed to fight back in self defense if they attack you.
 
 If you witness a rogue PET member, be sure to first tell them of their wrongdoings, they may not know that they're breaking the handbook rules. Should they continue after that warning, you should request a KOS order from a Marshall+, as well as fill out a punishment request using the form linked in the information channel of the communications server. You'll need sufficient evidence of the person committing violations, as well as proof that you've warned them. If the person holds a Trained Respondent rank or above they do not need to be warned.
 
-![image|690x388](upload://gO5HcZMxWiDVf7f5Ze1t8vaCxW5.jpeg)
+![image|690x388](upload://sGDyTqw9jflSwIBHuLVYLCbxu6A.jpeg)
 
 [/details]
 
@@ -129,7 +129,7 @@ From time to time whilst patrolling, you may encounter an exploiter. Should this
 
 It is also worth recording any evidence, if possible, of the exploiter hacking so you can send it to a PIA moderator if the exploiter leaves before the PIA arrives.
 
-![image|690x352](upload://A3uFe8mJ6OWomwyPjbKKTJS5EqC.png)
+![image|690x352](upload://lLaO66fDKHTl7XsJrt4lvdKgOQv.png)
 
 [/details]
 
@@ -174,7 +174,7 @@ You are exempt from giving someone a warning for touching core controls if they 
 
 PET respondents are allowed to fix the coolant pipe when the core temperature is between **-2000 and 4000 degrees**, however, PET personnel must break the coolant pipe when the core temperature is between **-4000 and -2000 degrees** to prevent a freezedown!
 
-![image|690x352](upload://kbPlHI7jzGNpCxAiSHpmxADzc13.png)
+![image|690x352](upload://vDrmj6PArsJKKVL7NZdTxL19yzT.png)
 
 [/details]
 
@@ -230,7 +230,7 @@ An enemy is defined as someone who is on KOS or those who have made their anti-c
 
 **An on-duty PET respondent may never intentionally clear intact cargo, nor intentionally push cargo just to clear it. The exception to this rule being the cargo is already unrecoverable, flipped, or blocking train tracks.**
 
-![image|690x352](upload://ckbwN14sPQsUdf2qW4bHzcpyCul.png)
+![image|690x352](upload://nOOK8HwzzbBXfhEHHcLhJ3f6SrB.png)
 
 [/details]
 
@@ -244,7 +244,7 @@ You don’t have to warn someone for causing fires if they: are on KOS, attack y
 
 You should never spread or start fires whilst being on-duty for PET. As a PET respondent you are prohibited from using both the firestick and the flamethrower whilst on-duty.
 
-![image|690x435](upload://9qs7IaTpfkvs8bePox4m0AnzLdk.png)
+![image|690x435](upload://pVyzW7KovOc7XvGzAxNeamXUX23.png)
 
 [/details]
 
@@ -256,7 +256,7 @@ During the Missiles event, the Labs room is automatically restricted, this means
 
 You can use the PET Tablet to quickly view whether the satellite connection is enabled or disabled.
 
-![image|690x352](upload://kuPAG98Ob9CnRwHP2NkPxwJFakr.png)
+![image|690x352](upload://foyxXuS7WEbDpkgM8hJSnetNWcz.png)
 
 [/details]
 
@@ -282,7 +282,7 @@ The mop can be found in the supply closet located at the Cafeteria.
 
 When seen, Respondents must clear these as quickly as possible to prevent the harm of visitors within the facility! Heal any affected players that may have been injured as well!
 
-![Supply Closet|690x388, 100%](upload://272ksJC2etACwrldA3qW2Losm9R.jpeg)
+![Supply Closet|690x388, 100%](upload://9V0nNqGoBr4tbvrSck5h8Pw26RY.jpeg)
 
 [/details]
 
@@ -298,7 +298,7 @@ If the core reaches freezing temperature, (-3000 or -2000 in official freezedown
 
 You can use the PET Tablet to quickly view whether the generators are enabled or disabled as well as the fuel level.
 
-![image|690x352](upload://wvLbqsTFU7vZTX49fNAjfzs1Z6C.png)
+![image|690x352](upload://1ltkZ4tvp2O0jheCb6on5PAqCLK.png)
 
 [/details]
 
@@ -332,7 +332,7 @@ Success Rates for the number of green rods when the countdown reaches _0_
 
 **_Be warned! Each time E-Coolant works, the success rates above will decrease by 20%. Only use it AS THE LAST RESORT._**
 
-![image|690x352](upload://jsHVpjWKsMPEN84TbkCzcxu4JDY.png)
+![image|690x352](upload://bnDgUzTxSiLgafrzMOn6dj4PrsJ.png)
 
 [/details]
 
@@ -670,7 +670,7 @@ Depending on the length of the patrol, points are awarded as follows:
 
 - Patrols that are over 30 minutes - Up to 5 points + bonus
 
-![image|690x272](upload://vHdqPtXbAH3AgrKvjinwjvknIcp.png)
+![image|690x272](upload://44kSz10boZzDKQBUpOKWwQo4EGz.png)
 
 [/details]
 
@@ -680,7 +680,7 @@ This is another patrol type where PET and PBST join forces and patrol together i
 
 **The point scale remains the same as for normal patrols.**
 
-![image|690x151](upload://6qDS0Fgmzw3RPWfu5IoVLT1xlmS.png)
+![image|690x151](upload://kwI3dBVgJVT7TKEKnFT6x4waaSO.png)
 
 [/details]
 
@@ -698,7 +698,7 @@ Depending on the length of the patrol support, points are awarded as follows:
 
 60+ minutes - 4 Points
 
-![image|690x485](upload://tJ3WBFjb0w14gcaT8kEmPZyUOYF.png)
+![image|690x485](upload://rPCGJWxkm8v7mviQqM8DX1XBV12.png)
 
 [/details]
 
@@ -708,7 +708,7 @@ Trainings are another important event in PET. These are hosted less often than o
 
 **You can earn up to 5 PET points from a normal training**.
 
-![image|690x368](upload://r1rR2AXc73nGO126f8tByCXPGMy.png)
+![image|690x368](upload://etKgTw9jiTqBPG9dA6VraX0tSGz.png)
 
 [/details]
 
@@ -718,7 +718,7 @@ Raid Responses are an event where PET responds to raids hosted by TMS. During th
 
 Regular raids can award up to 5 points, with 6 being given as a bonus
 
-![image|690x225](upload://soYK7KAcq9J3xfarQyVyFTsddTP.png)
+![image|690x225](upload://kT8Bx8ByzoEs6VkvynkN2n66rd4.png)
 
 [details="♨️ Meltdown / 🧊 Freezedown"]
 
@@ -817,7 +817,7 @@ The scheduling process is simple:
 
 **You can earn up to 7 points from a Community Patrol, with a possible bonus of 8!**
 
-![image|467x500](upload://kHqkuyzpbgQIyUxRy6wTPMyqypt.png)
+![image|467x500](upload://8Fs9FTBPGs0814XiuTnliAdDZrx.png)
 
 [/details]
 
@@ -829,7 +829,7 @@ The biggest and most important PET event! These events are scheduled by the Spec
 
 **You can earn up to 10 points from Operation MEGA, with a possible bonus of 11!**
 
-![image|690x228](upload://f690MEroswfsOn8YcFAA9bNdGGj.png)
+![image|690x228](upload://zw2GlLaLMsxCdLi3BGgnizSXTqg.png)
 
 [/details]
 
@@ -897,7 +897,7 @@ Take into account, PBST Trainers have access to sentries that can attack on-duty
 
 Feel free to read the PBST handbook to gain more information on what they do: [Pinewood Builders Security Team Handbook](https://devforum.roblox.com/t/pinewood-builders-security-team-handbook/3894621)
 
-![image|690x352](upload://sEFkEgunVUyRycO8dgcgaW1Pcs0.png)
+![image|690x352](upload://oR8e8TC8BLSm1WnIcYkJOLg2COn.png)
 
 [/details]
 
@@ -919,7 +919,7 @@ There are rare cases where a Syndicate goes rogue, and will attempt to save the 
 
 Feel free to read the TMS handbook to gain more information on what they do: [The Mayhem Syndicate Handbook](https://devforum.roblox.com/t/the-mayhem-syndicate-handbook/3281561)
 
-![image|690x352](upload://8DQ1bU8TZXjQ3D3np3dPpmg5uaA.png)
+![image|690x352](upload://o5r6nUFWeItU8WU8P3BwdnsWOu3.png)
 
 [/details]
 
@@ -933,7 +933,7 @@ This handbook is subject to change and will be updated to accurately meet all ch
 
 <div align="center"><h1>The Specialists</h1></div>
 
-![FinalizedVersion|690x388](upload://pd8nvAntvIPlO07mG20hRqJl8XZ.png)
+![FinalizedVersion|690x388](upload://qZ5NvJ67Uhra57SO9kVf4T0fTHP.png)
 
 ---
 
