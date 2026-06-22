@@ -7,7 +7,7 @@ import subprocess
 
 EXPECTED_AUTHORS = {
     "PBST": "yoshifan0312",
-    "PET":  "BananaJeans92",
+    "PET":  "HandbookPET",
     "TMS":  "LordOfDisco",
     "PB":   "Coasterteam",
 }
@@ -19,6 +19,17 @@ def is_error(content):
         or b'502 Bad Gateway' in content
         or b'504 Gateway' in content
     )
+
+def is_redirect(content):
+    """Returns (True, link) if content looks like a redirected page:
+    very low character count AND contains a link to another dev forum page.
+    This pattern indicates the handbook URL has likely changed."""
+    text = content.decode('utf-8', errors='replace')
+    if len(text) < 500:
+        match = re.search(r'https://devforum\.roblox\.com/\S+', text)
+        if match:
+            return True, match.group(0)
+    return False, None
 
 def parse_header(content):
     """Parse 'author | timestamp | #n' from the first line. Returns (author, timestamp) or (None, None)."""
@@ -34,6 +45,11 @@ def check_and_update(name, path, latest_data):
 
     if is_error(latest_data.content):
         print(f"{name}: Error response received, skipping. First line: {first_line!r}")
+        return None
+
+    redirected, link = is_redirect(latest_data.content)
+    if redirected:
+        print(f"{name}: ERROR - Handbook URL has likely changed! Content is very short and contains a link to: {link} — update the handbook ID in this script.")
         return None
 
     author, timestamp = parse_header(latest_data.content)
@@ -63,7 +79,7 @@ HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 print("Fetching handbooks from DevForum...")
 latestpbst_data = requests.get('https://devforum.roblox.com/raw/3894621', headers=HEADERS)
-latestpet_data  = requests.get('https://devforum.roblox.com/raw/3323409', headers=HEADERS)
+latestpet_data  = requests.get('https://devforum.roblox.com/raw/4691725', headers=HEADERS)
 latesttms_data  = requests.get('https://devforum.roblox.com/raw/3281561', headers=HEADERS)
 latestpb_data   = requests.get('https://devforum.roblox.com/raw/907637',  headers=HEADERS)
 print("Fetched all 4 sources.")
