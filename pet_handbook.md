@@ -1,4 +1,4 @@
-HandbookPET | 2026-06-19 21:07:25 UTC | #1
+HandbookPET | 2026-06-23 12:28:36 UTC | #1
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _June 19th, 2026_
+`Last update:` _June 23rd, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -206,7 +206,7 @@ If you hear a rumbling sound, you can use the PET Tablet to view if a disaster i
 
 - **King Abomination** - Players must successfully fight off the abomination boss on the mainframe! You may utilize both normal weapons and your disinfectors to accomplish this. Heal any players injured throughout the event.
 
-- **Missiles** - Make sure the satellite connection is kept on, clean up the debris, and heal anyone injured.
+- **Missiles** - Make sure the satellite connection is kept on, clean up the debris, and heal anyone injured. In certain cases, debris should be kept if it's beneficial to the objective of PET / PBST. One example of this is RP controls, where the debris makes it harder for anti-cores to access. **PET may not warn or attack visitors who choose to clear the debris in this case.**
 
 [/details]
 
