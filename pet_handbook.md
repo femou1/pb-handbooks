@@ -1,4 +1,4 @@
-HandbookPET | 2026-06-23 12:28:36 UTC | #1
+HandbookPET | 2026-06-27 22:30:37 UTC | #1
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _June 23rd, 2026_
+`Last update:` _June 27th, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -88,14 +88,14 @@ The following part of the handbook outlines important information for those who 
 
 [details="💭 Communication"]
 
-On-duty PET respondents gain access to two private chats. One for PET and the other for shared communications with PBST, accessible with `/c pet` and `/c pro` respectively. Please note that chat communication is heavily limited.
+During events, in-game communication is done using ping groups, a quick way of communicating to teammates regarding the status of areas.
 
-During events, communication is usually done through the communications server.
+When attending a PET event, you are expected to join one by tapping on `Find Group` (see image below) and finding the one for PET (typically also called PRO for PET-PBST groups).
+It is possible for the host to mark the group as invite-only, in which case you will have to wait for the host to invite you.
 
-In PBCC, respondents have access to a ping system, a quick way to communicate to other PET respondents regarding the status of a given area. The ping wheel can be opened by pressing `V` or tapping on the marker icon at the top of your screen.
-PET / PBST event hosts have the ability to turn shared pings on, meaning PBST will be able to see PET pings and vice versa!
+Once you're in a group, you may access the ping wheel by pressing `V` or tapping on the marker icon at the top of your screen.
 
-- _Rescue Heroes_ need to have their pings approved by an MR+ first before being shown to other players.
+![image|208x114](upload://xeL5jIFbeIFVZpOoSTMUFVfcZNf.png)
 
 [/details]
 
@@ -139,7 +139,7 @@ A **warning** can be given either via chat, or with a single shot from a low-dam
 
 See the individual sections on when you’re required to warn.
 
-A **KOS order** (Kill-On-Sight order) is an order that allows members to directly kill people that are placed "on KOS". Lieutenants may issue KOS orders at any point if they are in-game and on duty as PET. Marshall+ may issue KOS orders at any given time.
+A **KOS order** (Kill-On-Sight / Elimination order) allows members to directly kill people that are placed "on KOS". Lieutenants may issue KOS orders at any point if they are in-game and on duty as PET. Marshall+ may issue KOS orders at any given time.
 
 Apart from divisional KOS orders, there are two other types of KOS orders:
 
