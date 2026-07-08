@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pinewood Handbooks — Recent Updates</title>
+<style>
+  :root {
+    --bg: #f6f7f9;
+    --card: #ffffff;
+    --border: #e2e5ea;
+    --text: #1b1f24;
+    --muted: #616a75;
+    --link: #1a66d1;
+    --accent: #d98324;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --border: #2a313c;
+      --text: #e6edf3;
+      --muted: #9aa4b2;
+      --link: #58a6ff;
+      --accent: #e8a044;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1rem 3rem;
+    font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  header { margin-bottom: 1.75rem; }
+  h1 { font-size: 1.5rem; margin: 0 0 .35rem; }
+  .lede { color: var(--muted); margin: 0; font-size: .95rem; }
+  .lede a { color: var(--link); }
+  .cards { display: grid; gap: 1rem; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.1rem;
+  }
+  .card h2 { font-size: 1.05rem; margin: 0; display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; }
+  .code {
+    font: 600 .72rem/1 var(--mono);
+    letter-spacing: .04em;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: 5px;
+    padding: .25em .45em;
+  }
+  .file { font: .78rem/1 var(--mono); color: var(--muted); margin: .3rem 0 .9rem; }
+  ul.changes { list-style: none; margin: 0; padding: 0; }
+  ul.changes li {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 1rem;
+    padding: .5rem 0; border-top: 1px solid var(--border);
+  }
+  ul.changes li:first-child { border-top: none; }
+  .date { color: var(--text); font-variant-numeric: tabular-nums; }
+  .date .badge { font-size: .68rem; color: var(--accent); margin-left: .45rem; font-weight: 600; }
+  .change-link { color: var(--link); text-decoration: none; white-space: nowrap; font-size: .92rem; }
+  .change-link:hover { text-decoration: underline; }
+  .change-link .sha { font: .8rem var(--mono); opacity: .8; }
+  .muted { color: var(--muted); font-size: .9rem; }
+  footer { margin-top: 2rem; color: var(--muted); font-size: .82rem; text-align: center; }
+  footer a { color: var(--link); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Pinewood Handbooks — Recent Updates</h1>
+    <p class="lede">Live from the
+      <a href="https://github.com/femou1/pb-handbooks" target="_blank" rel="noopener">pb-handbooks</a>
+      repository. Each entry links to the commit diff — the exact changes for that update.</p>
+  </header>
+
+  <main class="cards" id="cards"><!-- cards injected by script --></main>
+
+  <footer>
+    Dates and links load live from GitHub when this page opens.
+    Automated handbook sync runs every 2 hours.<br>
+    Made by <a href="https://github.com/femou1" target="_blank" rel="noopener">femou</a>.
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var OWNER = "femou1", REPO = "pb-handbooks", BRANCH = "main";
+  var PER_PAGE = 3, CACHE_TTL = 10 * 60 * 1000; // 10 minutes
+
+  var HANDBOOKS = [
+    { code: "PBST", name: "Pinewood Builders Security Team", file: "pbst_handbook.md" },
+    { code: "PET",  name: "Pinewood Emergency Team",         file: "pet_handbook.md" },
+    { code: "TMS",  name: "The Mayhem Syndicate",            file: "tms_handbook.md" },
+    { code: "PB",   name: "Pinewood Builders Game Rules",    file: "pb_gamerules.md" }
+  ];
+
+  var container = document.getElementById("cards");
+
+  // Static, always-valid link to a file's commit list (top entry = latest change).
+  function historyUrl(file) {
+    return "https://github.com/" + OWNER + "/" + REPO + "/commits/" + BRANCH + "/" + file;
+  }
+
+  // Date only, rendered in the commit's UTC calendar date (no time, no off-by-one shift).
+  function fmtDate(iso) {
+    var d = new Date(iso);
+    if (isNaN(d)) return "unknown date";
+    return d.toLocaleDateString("en-US", { timeZone: "UTC", year: "numeric", month: "short", day: "numeric" });
+  }
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+
+  function buildCard(hb) {
+    var card = el("article", "card");
+    var h2 = el("h2");
+    h2.appendChild(el("span", "code", hb.code));
+    h2.appendChild(el("span", null, hb.name));
+    card.appendChild(h2);
+    card.appendChild(el("div", "file", hb.file));
+
+    var body = el("div");
+    body.appendChild(el("p", "muted", "Loading recent changes…"));
+    card.appendChild(body);
+    return { card: card, body: body };
+  }
+
+  function renderCommits(body, hb, commits) {
+    body.innerHTML = "";
+    if (!commits.length) {
+      body.appendChild(el("p", "muted", "No changes recorded yet."));
+      return;
+    }
+    var ul = el("ul", "changes");
+    commits.slice(0, PER_PAGE).forEach(function (c, i) {
+      var li = el("li");
+
+      var date = el("span", "date", fmtDate(c.commit.committer.date));
+      if (i === 0) date.appendChild(el("span", "badge", "latest"));
+      li.appendChild(date);
+
+      var a = el("a", "change-link");
+      a.href = c.html_url;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.appendChild(document.createTextNode("View changes "));
+      a.appendChild(el("span", "sha", (c.sha || "").slice(0, 7)));
+      li.appendChild(a);
+
+      ul.appendChild(li);
+    });
+    body.appendChild(ul);
+  }
+
+  // Fallback when the live API can't be reached (e.g. rate-limited): still point at the changes.
+  function renderFallback(body, hb) {
+    body.innerHTML = "";
+    body.appendChild(el("p", "muted", "Couldn’t load the latest changes right now."));
+    var a = el("a", "change-link");
+    a.href = historyUrl(hb.file);
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.textContent = "View changes on GitHub →";
+    body.appendChild(a);
+  }
+
+  function cacheKey(file) { return "pbhb:" + file; }
+
+  function readCache(file) {
+    try {
+      var raw = localStorage.getItem(cacheKey(file));
+      if (!raw) return null;
+      var obj = JSON.parse(raw);
+      if (Date.now() - obj.t > CACHE_TTL) return null;
+      return obj.d;
+    } catch (e) { return null; }
+  }
+
+  function writeCache(file, data) {
+    try { localStorage.setItem(cacheKey(file), JSON.stringify({ t: Date.now(), d: data })); }
+    catch (e) { /* storage unavailable — ignore */ }
+  }
+
+  function load(hb, body) {
+    var cached = readCache(hb.file);
+    if (cached) { renderCommits(body, hb, cached); return; }
+
+    var url = "https://api.github.com/repos/" + OWNER + "/" + REPO +
+              "/commits?sha=" + BRANCH + "&path=" + encodeURIComponent(hb.file) +
+              "&per_page=" + PER_PAGE;
+
+    fetch(url, { headers: { "Accept": "application/vnd.github+json" } })
+      .then(function (res) {
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        return res.json();
+      })
+      .then(function (data) {
+        if (!Array.isArray(data)) throw new Error("unexpected response");
+        writeCache(hb.file, data);
+        renderCommits(body, hb, data);
+      })
+      .catch(function () { renderFallback(body, hb); });
+  }
+
+  HANDBOOKS.forEach(function (hb) {
+    var built = buildCard(hb);
+    container.appendChild(built.card);
+    load(hb, built.body);
+  });
+})();
+</script>
+</body>
+</html>
