@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-05-06 18:59:37 UTC | #1
+yoshifan0312 | 2026-07-11 21:49:09 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,7 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 6 May: Removed mega training cooldown
+`Last Update:` 11 July: Updated custom uniform rule
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -47,7 +47,7 @@ In order to be properly recognized as a Security Officer, you must fulfill the p
 
 * A Security uniform (in-game uniform givers or any combination of shirts and pants from the PBST group store with some exceptions listed in the store).
 
-* Modified or Custom uniforms are not allowed to be worn on duty as they’re not observed as official uniforms. Additionally, modifying official PBST uniforms without permissions may result in moderation action. Only Special Defense+ may request and wear custom uniforms.
+* Modified or Custom uniforms are not allowed to be worn on duty as they’re not observed as official uniforms. Additionally, modifying official PBST uniforms without permissions may result in moderation action. Only Special Defense+ and former HRs may request and wear custom uniforms.
 
 * The uniform must be clearly seen. You may not wear packages and oversized cosmetics that fully obstruct the Security uniform. In addition, wearing layered clothing is completely banned. In PBCC, you are allowed to use the PET hazmat and PET fire suits as the uniform can still be worn above them.
 
