@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-07-11 21:49:09 UTC | #1
+yoshifan0312 | 2026-07-20 12:23:19 UTC | #1
 
 <div align="center">
 
@@ -15,7 +15,9 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 11 July: Updated custom uniform rule
+`Last Update:` 20 July
+-Updated Tier evaluations
+-Updated leadership poster
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -478,16 +480,13 @@ Ascending further, Tier 1 are granted a PBST Pistol and a ranked baton which dea
 
 Get 75 Points (keep in mind PBCC credits **are not** PBST divisional points).
 
-Complete the Tier 1 Evaluation
+Pass the Tier 1 Evaluation
 
-**Evaluation:** Hosted at PBSTAC
+**Evaluation:** Hosted at PBCC
 
-*Phase 1:*  Fighting both sword and gun bots (starting with the one that the evaluated person prefers). You will also receive a pistol for the gun bot phase. You have to successfully complete at least ONE of the arenas. If you do not, you will have one last free re-try on the arena of your choice.
-The HP stats are as follows:
-- **150 HP** for Sword Bots (bots are level 1 and spawn every 7 seconds)
-- **200 HP** for Gun Bots (bots are level 1 and spawn every 7 seconds)
+*Phase 1:* Core Simulation – Utilize all controls to achieve any stable combo within 60 seconds. The hyper speed coil, speed coil, and gamepass jetpacks will be provided.
 
-*Phase 2:* Survive the level 1 Juggernaut for 30 seconds. The goal is to purely dodge the shots, you will not be given any weapons and you will be set at 150 HP.
+*Phase 2:* E-Coolant – Raise all three e-coolant rods to the green levels in 60 seconds and maintain it until time runs out. The regular speed coil will be provided.
 
 *Phase 3:* Quiz - You will need to get at least 6 questions right out of a given 8 questions. Quiz will range from handbook knowledge to certain scenarios etc
 
@@ -524,13 +523,15 @@ You must first be Tier 1 for at least 3 weeks
 
 Get 200 Points
 
-*Phase 1:*  Fighting both sword and gun bots (starting with the one that the evaluated person prefers). You have to successfully complete at least ONE of the arenas. You are provided with pistol and rifle for the gun bot phase.
-- **150 HP** for Sword Bots (bots are level 2 and spawn every 7 seconds)
-- **200 HP** for Gun Bots (bots are level 2 and spawn every 7 seconds)
+Pass the Tier 2 Evaluation
 
-*Phase 2:* Core Simulation - Toggle off all lasers and set Reactor Power to 1 within 30 seconds, you will be given a ROBLOX speed coil gear for this
+**Evaluation:** Hosted at PBCC
 
-*Phase 3* [Quiz](https://www.roblox.com/games/17183476605/PBST-Quiz-Hub) 
+*Phase 1:* Core Simulation – Within 60 seconds, set the core so it will either heat or cool in temperature by X degrees every 8 seconds. You will only be in the core, and not outside of it. You can monitor this using the core temperature display built into the red desk at core. The hyper speed coil, speed coil, and gamepass jetpacks will be provided.
+
+*Phase 2:* Fans Entrance – Within 30 seconds, destroy the TMS sentry in fans without dying. You will be outside of the fans room, but you will enter the fans room afterwards. The door will be locked after you enter. The Tier 2 loadout will be provided along with the regular speed coil. You will have 150 health. You may use any strategy available to you. You may retry this once.
+
+*Phase 3:* [Quiz](https://www.roblox.com/games/17183476605/PBST-Quiz-Hub) 
 
 You will be required to get at least 7 questions correct out of 8 given to pass
 
@@ -566,17 +567,15 @@ You must first be Tier 2 for at least 4 weeks
 
 Get 400 Points
 
-Pass Tier 3 Evaluation
+Pass the Tier 3 Evaluation
 
-**Evaluation:** Hosted at PBSTAC
+**Evaluation:** Hosted at PBCC
 
-*Phase 1:*  Juggernaut - Kill TWO Level 1 Juggernauts simultaneously (you are provided with pistol, rifle and smg along with 200 HP boost)
+*Phase 1:* Stabilization – Within 150 seconds, stabilize the temperature at X degrees. The hyper speed coil, speed coil, and gamepass jetpacks will be provided.
 
-*Phase 2:* Gun Bots - Kill Level 3 Gunbots (for this you are provided with pistol and rifle along with 200 HP, the bots have 7 seconds spawn cooldown)
+*Phase 2:* RP Entrance – Within 60 seconds, destroy the TMS sentry and enter the RP chamber without dying. The sentry will be covered with a damage field. You may not stray outside of RP (past the yellow line that marks the entrance). The Tier 3 loadout will be provided along with the hyper speed coil, speed coil, and gamepass jetpacks. You will have 150 health. You may use any strategy available. You may retry this once.
 
-*Phase 3:* Shooting Range - get at least 20 hits within the 45 seconds (targets have high hp amount so they don't die + their speed is lowered to 10, everything else is default)
-
-Phase 4: [Quiz](https://www.roblox.com/games/17183476605/PBST-Quiz-Hub) 
+*Phase 3*: [Quiz](https://www.roblox.com/games/17183476605/PBST-Quiz-Hub) 
 
 You will be required to get at least 9 questions correct out of 10 given to pass
 
@@ -1095,7 +1094,7 @@ This handbook is always a work in progress and will be updated as time goes on.
 
 <div align="center"><h1>Security Leadership</h1></div>
 
-![GP-PBST-Leadership-Sep-2024|690x388](upload://qI52IhosOxfdEv29VCkgipk6AVc.jpeg)
+![PBST Leadership (July 2026)|690x388](upload://6DM7PGjBVNCO2PiYRZ2zmKExwDz.jpeg)
 
 -------------------------
 
