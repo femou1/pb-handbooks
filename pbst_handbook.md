@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-07-20 12:23:19 UTC | #1
+yoshifan0312 | 2026-07-23 17:49:07 UTC | #1
 
 <div align="center">
 
@@ -15,9 +15,8 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 20 July
--Updated Tier evaluations
--Updated leadership poster
+`Last Update:` 23 July
+-Minor reformatting
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -178,10 +177,11 @@ There are some exceptions where you do not need to provide a warning before shoo
 **Terms:**
 - Kill-on-Sight: A status given by T3+ to people in-game. People "on KOS" must be killed immediately. Note that there are overriding exceptions (one example: no spawnkilling).
 
-- Random killing: For neutrals: attacking anyone unless done self-defense. For PBST: attacking anyone unless allowed by the PBST handbook.
+- Random killing: For neutrals, attacking anyone unless done self-defense. For PBST, attacking anyone unless allowed by the PBST handbook.
 
 - Mass random killing: killing a large amount of people for the sake of killing them.
-Spawnkilling: killing people inside spawn or exiting it.
+
+- Spawnkilling: killing people inside spawn or exiting it.
 
 **Reminder that MRKing and spawnkilling is against the game rules, even if you're not on-duty.**
 More information in Pinewood Builders Game Rules: https://devforum.roblox.com/t/pinewood-builders-game-rules/907637
