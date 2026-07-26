@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-07-23 17:49:07 UTC | #1
+yoshifan0312 | 2026-07-26 18:40:42 UTC | #1
 
 <div align="center">
 
@@ -15,8 +15,8 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 23 July
--Minor reformatting
+`Last Update:` 26 July
+-Added new global rule
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -1016,7 +1016,9 @@ PBST, PET and TMS Leadership have agreed to prevent unfair advantages to the bes
 
 6. You may not abuse the donor commands gamepass in-order to gain combat advantages during events.
 
-In these rules, "all sides" refers to all main pro-core and anti-core subgroups, PBST, PET and TMS.
+7. Attendees on one side of an event are not allowed to spy on the event communications of the other side or join the other side's ping group.
+
+In these rules, "all sides" refers to the subgroups in both the pro-core side (PBST/PET) and the anti-core side (TMS).
 
 By committing any of the mentioned rules while also being on-duty for PBST, you can expect an appropriate punishment in the group; ranging from a point deduction up to a demotion. In some cases, one may get added to the PB Event Blacklist, where one is on permanent Global KOS during public server PBST/PET/TMS events, and are banned from attending private server PBST/PET/TMS events.
 
