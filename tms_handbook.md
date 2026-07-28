@@ -1,4 +1,4 @@
-LordOfDisco | 2025-11-11 04:51:50 UTC | #1
+LordOfDisco | 2026-07-28 13:31:23 UTC | #1
 
 <div align="center"> 
 
@@ -46,6 +46,7 @@ PBST, PET and TMS Leadership have agreed to prevent unfair advantages to the bes
 4. Attendees cannot fight and kill each other in the main spawn area, the Security room, the Syndicate hideout, the Emergency HQ or the corridor leading up to the PET HQ. The only exception to this rule is if you’re fighting someone and during the middle of it they decide to run to any of the mentioned areas in order to escape said fight, in which case you are free to kill them there.
 5. To avoid team-killing and general confusion, on-duty TMS may not color their hazmat shades of blue during raids or patrols.
 6. You may not abuse the donor commands gamepass in-order to gain combat advantages during events.
+7. Attendees on one side of an event are not allowed to spy on the event communications of the other side or join the other side's ping group.
 
 In these rules, “all sides” refers to all main pro-core and anti-core subgroups, PBST, PET and TMS.
 
@@ -65,7 +66,7 @@ Dealing with handbook violators is simple! Just follow the acronym WRR:
 
 These rules are for anyone who has their ranktag set to **The Mayhem Syndicate** (Red **Syndicate** title)
 [details="Uniform"]
-*While your rank tag is set to TMS, you are required to wear the official TMS uniform! This considers you onduty.* 
+*In order to be counted as onduty for TMS, you must have both the TMS ranktag and the official TMS uniform, having only one of those two won't count towards being onduty!* 
 If you refuse to wear a uniform and still actively try to destroy the core, you would be treated as if you are on duty. PBST may still KoS you.
 You can find the **TMS Hideout** at the Pinewood Computer Core near the Cargo trains platform.
 
@@ -252,17 +253,10 @@ Trooper is the first rank that can be achieved through an evaluation.
 * Nerve Gas
 
 **Evaluation**
-* Phase 1: Complete Tall Towers at PBSTAC in under 60 seconds (climb one of the towers and cross the tight-rope to the central platform)
-* Phase 2: Successful completion of **one** combat arena. 
--- Level 1 Sword Bots or Level 1 Gun Bots
---- Bots have a spawn cooldown of 7 seconds
---- You are granted 125 health for gun bots and 200 health for sword bots.
--- If you failed both arenas during an evaluation, you are granted another chance to complete ONE arena during that evaluation. 
-* Phase 3: Survive 30 seconds of level 1 Juggernaut
--- Granted 150 health; no weapons as you must dodge the incoming fire
+* Phase 1: Turn on all core lasers and set RP to 4 in 35 seconds or less. Speedcoil is given to the evaluee.
+* Phase 2: Defeat 2 bots with a **baby crowbar and 125 HP** in mainframe. 
+* Phase 3: Dodge the evaluator shots with the TMS rifle for 30 seconds. They are given a **speed coil, medkits and 200 hp** .
 * Phase 4: A minimum of **7** questions correct out of a given 8 questions
---- You can take the quiz in-advance of your Trooper evaluation, see the Pinewood Quiz Hub 
-https://www.roblox.com/games/17183561708/Pinewood-Builders-Quiz-Hub
 * Phase 5: Minor Instructor Consensus
 [/details]
 [details="Insurgent (LR)"]
@@ -278,13 +272,8 @@ Insurgent is the second rank considered an LR in the rank structure.
 * Rifle
 
 **Evaluation**
-* Phase 1: Complete Tall Towers at PBSTAC in under **45** seconds (climb one of the towers and cross the tight-rope to the central platform)
-* Phase 2: Score at least 15 points in the firing range within **60** seconds
--- Targets are three-shot (100 health)
--- Spawn cooldown is half a second
--- Target size is 2 (studs)
--- Twenty targets in the arena at once (Amount of 20)
--- Leaderboard is enabled
+* Phase 1: Turn on all core lasers and set RP to 4 in 30 seconds or less. Speedcoil is given to the evaluatee.
+* Phase 2: Score 25 hits or more in within 35 seconds. Evaluatee **MUST** shoot the 2 at the front first and then the 2 at the back, if not, the hit doesn't count. Evaluatee cannot enter the arena but may move around.
 * Phase 3: Successful hacking of a PBST Sentry
 --- You are provided 150 hp, a speed coil and the insurgent loadout
 -- Evaluatees are successful upon getting the sentry to <75 HP and walking onto the blindspot to activate the hack proximity prompt.
@@ -307,24 +296,9 @@ Operative is the last rank considered an LR in the rank structure.
 **Granted access to the Operative+ EAS system**
 
 **Evaluation**
-* Phase 1: Complete Level 1 Juggernaut
--- You are set to 175 health before the battle begins
--- You are given a linked sword, pistol, rifle and SMG
-* Phase 2: Score at least 15 points in the firing range within **45** seconds
--- Targets are three-shot (100 health)
--- Spawn cooldown is half a second
--- Target size is 2 (studs)
--- Twenty targets in the arena at once 
--- Leaderboard is enabled
-* Phase 3: Successful completion of **one** combat arena. 
--- Level 2 Sword Bots or Level 3 Gun Bots
---- Sword Bots have a spawn cooldown of 7 seconds
---- Gun bots have a spawn cooldown of 5 seconds
---- Gun bots you are provided a pistol + rifle. 
---- Sword bots you are provided a Linked Sword
---- You are provided an additional health boost by the evaluator, depends on the arena.
--> 225 for sword bots, 150 for gun bots. 
--- If you failed both arenas during an evaluation, you are granted another chance to complete ONE arena during that evaluation. 
+* Phase 1: Succesfully nuke 1A with a lit nuke train. Both track switches at loop must be changed. (The area that counts is at the 1st turn into 1A up until the triple track.). 
+* Phase 2: Score 25 hits or more in within 25 seconds. In order for a hit to count, the evaluatee MUST shoot the 2 at the front first and then the 2 at the back, if not, the hit doesn't count.
+* Phase 3: Evaluatee needs to defeat 4 bots with a **TMS crowbar and 150 HP** in mainframe. 
 * Phase 4: Minor Instructor Consensus
 
 **Authority**
@@ -410,6 +384,7 @@ This is the first rank in the rank structure that is allowed to host regular rai
 * Allowed to override Room Restrictions of users ranked under them (Inquisitor can override a Captain RR but can't override another Inquisitors/Instructors RR)
 * Allowed to host Official Patrol Raids 
 * Allowed to host Official Raids 
+* Allowed to host official group training sessions
 * Allowed to host a server during a MEGA raid
 * Granted access to the TMS SmartLog in-game
 * Granted Moderator powers in the Communications server
@@ -642,7 +617,7 @@ It is important to take advantage of this when TMS is not controlling E-Coolant.
 ![image|690x242](upload://f1cIuOFpuctz2SIJ6D4gtR2xLj4.jpeg)
 
 # Trainings
-Trainings are hosted periodically and are done at any facility, even other games. Trainings can give 1 to 5 Marks (6 being the bonus) depending on performance. Bad behavior during trainings can lead to removal from the training and no marks awarded. Negative marks can also be issued if the situation requires them. 
+Trainings are hosted periodically and are done at any facility, even other games. Trainings can give 1 to 5 Marks (6 being the bonus) depending on performance. Bad behavior during trainings can lead to removal from the training and no marks awarded. Negative marks can also be issued if the situation requires them. Trainings have an individual cooldown (Cooldown per host) of 7 days. Training cooldowns fall under the same hosting rules as raids; at least 4 hours from the start of one event to the beginning of the next, 1 hour between the end of one event and the start of the next
 
 ---
 
@@ -704,7 +679,7 @@ Signed, LordOfDisco
 
 
 
-*Last updated Nov 10th, 2025*
+*Last updated July 28th, 2026*
 
 -------------------------
 
