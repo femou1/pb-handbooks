@@ -1,4 +1,4 @@
-HandbookPET | 2026-07-26 18:48:26 UTC | #1
+HandbookPET | 2026-07-31 10:33:41 UTC | #1
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _July 26th, 2026_
+`Last update:` _July 31st, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -418,9 +418,7 @@ This is the first rank that can be achieved through an evaluation. This rank com
 
 - Access to the in-game `!call pet` command.
 
-- Access to write in the tips-for-duties channel in the communications server.
-
-- Access to ranked announcements and a ranked chat for Trained Respondent+ in the communications server.
+- Access to ranked announcements and a ranked chat for Trained Respondent+ in the PET communications server.
 
 [/details]
 
@@ -460,7 +458,9 @@ The second rank that can be achieved through an evaluation.
 
 - All of the Trained Respondent's permissions.
 
-- Access to the Reward Request system in the PET communications server.
+- Access to write in the tips-for-duties channel in the communications server.
+
+- Access to the Reward Request system in the communications server.
 
 [/details]
 
