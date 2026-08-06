@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-07-26 18:40:42 UTC | #1
+yoshifan0312 | 2026-08-06 13:33:43 UTC | #1
 
 <div align="center">
 
@@ -706,6 +706,8 @@ Handpicked for a Special Defense Evaluation
 
 * All of the Elite Tier permissions, +
 
+* Ability to host official trainings
+
 * Issue Room Restrictions 
 
 * Moderation powers in PBST training facilities.
@@ -901,7 +903,7 @@ There are several types of raids with various objectives.
 
 **Incursion Raid:** During Incursions Raids, TMS will storm to a specified area and attempt to hold it. As PBST, your task is to converge upon said location and attempt to counter the TMS threat. They can be hosted as any levelled raid.
 
-**Mega Raid:** Mega Raids, officially known as Level 3 Raids, are rare events hosted by TMS, hosted a couple of times yearly, where multiple servers are raided at the same time. PBST must give a good defense in all of these servers.
+**Mega Raid:** Mega Raids are rare events hosted by TMS, hosted a couple of times yearly, where multiple servers are raided at the same time. PBST must give a good defense in all of these servers.
 
 Mega Raids are announced in the PBST, PET and TMS communications servers well in advance and rallies at TMSRS are organized shortly before the event starts.
 
