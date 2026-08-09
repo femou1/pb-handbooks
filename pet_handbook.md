@@ -1,4 +1,4 @@
-HandbookPET | 2026-07-31 10:33:41 UTC | #1
+HandbookPET | 2026-08-09 14:41:14 UTC | #1
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _July 31st, 2026_
+`Last update:` _August 9th, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -97,7 +97,7 @@ During events, in-game communication is done using ping groups, a quick way of c
 When attending a PET event, you are expected to join one by tapping on `Find Group` (see image below) and finding the one for PET (typically also called PRO for PET-PBST groups).
 It is possible for the host to mark the group as invite-only, in which case you will have to wait for the host to invite you.
 
-Once you're in a group, you may access the ping wheel by pressing `V` or tapping on the marker icon at the top of your screen.
+Once you're in a group, you may access the ping wheel by pressing `V`, the middle mouse button `(MMB)`, or tapping on the marker icon at the top of your screen.
 
 ![image|208x114](upload://xeL5jIFbeIFVZpOoSTMUFVfcZNf.png)
 
