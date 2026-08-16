@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-08-06 13:33:43 UTC | #1
+yoshifan0312 | 2026-08-16 13:12:33 UTC | #1
 
 <div align="center">
 
@@ -238,7 +238,7 @@ When a room restriction is not declared, you may never warn a visitor to leave a
 
 [details="Pings"]
 
-In PBCC, click the "Pings" icon in the top-left corner or use the keyboard shortcut "V" to use pings.
+To open the pings menu in PBCC, click the "Pings" icon in the top-left corner, use the keyboard shortcut "V", or click the middle mouse button.
 
 Pings help you communicate with other on-duty PBST members by displaying an icon and playing a sound effect.
 
@@ -1076,9 +1076,9 @@ Inquisitors have the same uniform override permissions as Special Defense for th
 
 Very often, PET will work very hand-in-hand with PBST in ensuring PB facilities are safe at all times. PBST are expected to protect PET members from gunfire, especially during a Patrol Support session.
 
-During raids, patrols and other events, PET can support PBST in attempting to heat/cool the core should the temperature reach +2000/-2000, on top of achieving other objectives.
+On top of achieving other objectives, PET can support PBST in attempting to heat/cool the core. During raids, PET can help when the temperature reaches +2000/-2000. During patrols, PET can help when the temperature reaches +3000/-3000.
 
-PBST are also authorised to help put out any fires or stop a hazmat spill if PET are not on site.
+PBST are also authorized to help put out any fires or stop a hazmat spill if PET are not on site.
 
 You can switch between being on-duty for PET or PBST by using the !setgroup command. PET has their own set of tools, whilst on PBST duty you may not use their tools.
 
