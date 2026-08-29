@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-08-16 13:12:33 UTC | #1
+yoshifan0312 | 2026-08-29 05:12:52 UTC | #1
 
 <div align="center">
 
@@ -15,8 +15,8 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 26 July
--Added new global rule
+`Last Update:` 29 August
+-Minor corrections
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -91,6 +91,8 @@ You also cannot use tools & weapons from other Pinewood subgroups like PET or TM
 [/details]
 
 [details="Warning System"]
+
+While on-duty as PBST, you are mandated to protect Pinewood facilities, defend visitors from attackers, and prevent chaos.
 
 In incidents such as a meltdown or freezedown, always give a warning first. If it is needed, a Taser can be used when warning someone. Warnings may also be given for wholly endangering the facility in other ways, such as allowing the pressure to reach critical levels in PBOP.
 
@@ -417,6 +419,7 @@ Examples of glitches include:
 * Rocket spaceship and gravity coil glitch
 * Flying vehicles glitch
 * Wallshooting glitch
+* Intentionally losing limbs to core lasers to resize your character
 
 [/details]
 
@@ -461,8 +464,6 @@ Get 20 Points (keep in mind PBCC credits **are not** PBST divisional points).
 * **Increased Damage PBST Baton** - Deals minimal damage against players
 
 * **Riot Shield** - A shield that defends against rifles, SMG and pistol shots, and makes a small clank sound when hit by a bullet
-  
-* **Riot Shotgun** - The classic sit gun which stuns enemies when used against players
 
 **Permissions:**
 
