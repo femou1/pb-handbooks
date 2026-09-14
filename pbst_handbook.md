@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-08-29 05:12:52 UTC | #1
+yoshifan0312 | 2026-09-14 00:22:20 UTC | #1
 
 <div align="center">
 
@@ -15,8 +15,8 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 29 August
--Minor corrections
+`Last Update:` 13 September
+-PBST will receive an extra point if a raid is extended
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -896,7 +896,9 @@ Pay attention to your event host and follow their instructions.
 Raid Responses are hosted by Elite Tiers+ in response to scheduled TMS raids. 
 There are several types of raids with various objectives.
 
- On attendance PBST can receive a maximum of 6 points with up to 2 extra bonus points.
+On attendance PBST can receive a maximum of 6 points with up to 2 bonus points.
+
+If a raid is extended, PBST will automatically receive 1 extra point.
 
 **Meltdown / Freezedown Raid:** During Meltdown/Freezedown Raids, TMS will attempt to cause the core to explode. During meltdown raids, you must cool the core to the best of your ability, while during freezedown raids, you must attempt to heat the core.
 
