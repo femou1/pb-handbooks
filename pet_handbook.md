@@ -1,4 +1,4 @@
-HandbookPET | 2026-08-09 14:41:14 UTC | #1
+HandbookPET | 2026-09-26 10:28:58 UTC | #1
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _August 9th, 2026_
+`Last update:` _September 26th, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -807,7 +807,7 @@ The Community Patrol is a **large, monthly event** that aims to bring together a
 
 The scheduling process is simple:
 
-1. A list of up to 5 possible times will be posted a week before the patrol.
+1. A list of up to 5 possible times will be posted a week before the patrol. The time range is different every month to give all timezones a chance.
 
 1a. Specialists can take up to three time slots.
 
