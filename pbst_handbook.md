@@ -1,4 +1,4 @@
-yoshifan0312 | 2026-09-14 00:22:20 UTC | #1
+yoshifan0312 | 2026-10-13 09:43:38 UTC | #1
 
 <div align="center">
 
@@ -15,8 +15,17 @@ PBST is the private paramilitary force of Pinewood Builders. PBST protects the f
 We band together as a team, together we are an unstoppable force.
 
 **🛡️Fear No Evil**
-`Last Update:` 13 September
--PBST will receive an extra point if a raid is extended
+`Last Update:` 13 October
+Warning System, Rogue Users:
+-Reworded paragraphs
+Pings:
+-Removed ping restriction on Trainees and Cadets
+Security Rewards:
+-Lowered number of Defender of the Week winners per week from 3 to 1
+Trainings:
+-XYLEM Builder+ may host PBST trainings with Trainer+ permission
+Raid Responses:
+-Added raid delegation to Tier 3+
 
 <div align="center"><h1>General Reminders</h1></div>
 
@@ -131,7 +140,7 @@ There are some exceptions where you do not need to provide a warning before shoo
 
 * They are sabotaging/fixing the coolant pipe that would give PBST a disadvantage with meltdown/freezedown.
 
-* They are disabling emergency generators when the core power is off.
+* They are disabling emergency generators when the core power is off (unless the core is approaching a freezedown).
 
 * They have the TMS ranktag and are ANTI-core (causing a meltdown/freezedown/chaos).
 
@@ -246,8 +255,6 @@ Pings help you communicate with other on-duty PBST members by displaying an icon
 
 Do not use "Room Restricted"/"Room Unrestricted" pings without authorization from a person capable of issuing room restrictions (ET/SD).
 
-The pings of Trainees and Cadets have to be processed before being sent, whereas the pings for Tier 1s and above are deployed immediately.
-
 Hosts reserve the right to block users from pinging in case of ping misuse.
 
 ![image|672x500](upload://zz6iFY9XrROQ9UqE1jXwARQ9Ljc.png)
@@ -305,7 +312,7 @@ Reward request rules:
 
 [details="Rogue Users"]
 
-On the other hand, if a Security member is found breaking a rule in the handbook, alert them of their wrongdoing and give them a warning. If said Security member doesn’t listen or actually uses their weapons irresponsibly, kill them. if you saw same Security member breaking some rules even after being warned, request a punishment request.
+On-duty Security members do not have immunity when it comes to fulfilling the goals of PBST - protecting Pinewood facilities, defending visitors from attackers, and preventing chaos. If an on-duty Security member obstructs these goals, they are subject to the same warning system as visitors (including warning exemptions during critical situations). If you see the same Security member continuing to break rules even after being warned, request a punishment request.
 
 In order to report a rulebreaker, please use the dedicated forum in the 
 Communications Server to send a handbook violation report. Like Reward Requests, you'll need very good evidence of the person committing violations, as well as proof that you've warned them.
@@ -835,6 +842,8 @@ There are a wide and unique variety of events hosted by PBST in which one can at
 
 Trainings are common events organized by rank Special Defense and Trainers. In most cases you can expect to earn up to 5 points during these events. Simply put, the better you perform, the more points you earn. Trainings can be of any length, however, they usually fit into the range of 30-60 minutes.
 
+XYLEM Builder+ may host PBST trainings with permission from Trainer+.
+
 Trainings are scheduled in advance and announced before their beginning, so it is recommended that you arrive in the training server 5 to 15 minutes before it starts. Trainings can be hosted at any PBST training facility or a private, PBST-owned PB game server.
 
 **When training, be sure to follow the guidelines below**
@@ -899,6 +908,8 @@ There are several types of raids with various objectives.
 On attendance PBST can receive a maximum of 6 points with up to 2 bonus points.
 
 If a raid is extended, PBST will automatically receive 1 extra point.
+
+Elite Tier+ may choose to delegate leading of a given area to one or two Tier 3+ during the event. Attendance for PBST at a raid may be taken by a TMS/PET host, or by a Tier 3 in attendance only in the absence of a PBST host.
 
 **Meltdown / Freezedown Raid:** During Meltdown/Freezedown Raids, TMS will attempt to cause the core to explode. During meltdown raids, you must cool the core to the best of your ability, while during freezedown raids, you must attempt to heat the core.
 
@@ -1042,7 +1053,7 @@ Upon seeing someone showing outstanding performance during events such as Patrol
 
 -  Those who achieve the reward carry it for 1 week
 
-- There is a maximum of 3 Defenders of the Week per week
+- There is one Defender of the Week per week
 
 	
 ![image|420x420, 10%](upload://mmV7Im4dIqgGpScRj18e3Hl6Gmt.png) **Tournament Winner:**
