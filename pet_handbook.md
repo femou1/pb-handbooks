@@ -1,4 +1,4 @@
-HandbookPET | 2026-10-24 22:02:34 UTC | #1
+HandbookPET | 2026-11-05 19:19:28 UTC | #1
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Welcome to PET, an elite group of the best respondents working together to tend 
 
 🔥 **Above the flames!**
 
-`Last update:` _October 24th, 2026_
+`Last update:` _November 5th, 2026_
 
 https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 
@@ -31,6 +31,8 @@ https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about
 - We are not at war with Innovation, Quantum Science, or any other group for that matter. Active hostility against them is not tolerated!
 
 - PET Respondents can **never** start fires or participate in chaos, this is contrary to our mission as PET, and doing so could get you considered rogue.
+
+- PET Respondents usually do not engage in combat, but they can use their own weapons to defend themselves if they ever get attacked. PET may also heal neutrals if they get attacked but may not fight on behalf of them unless the attacker is on KOS (more info in the Warnings and KOS orders section).
 
 - Specialists have the right to remove a ranked member from their position based on bad behavior from both the Communications Server and in-game. Poor behavior includes toxicity, NSFW-like behavior, etc.
 
